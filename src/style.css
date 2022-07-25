@@ -1,0 +1,36 @@
+html,
+body {
+    height: 100%;
+}
+
+* {
+    font-family: Courier, monospace;
+}
+
+body {
+    margin: 0 auto;
+}
+
+input {
+    width: 100%;
+    padding: 1rem;
+    outline: none;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+}
+
+#root {
+    display: grid;
+    grid-template-rows: 50px 1fr;
+    height: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.sub.swt {
+    color: red;
+}
+
+.sub.swr {
+    color: blue;
+}
