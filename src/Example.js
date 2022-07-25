@@ -69,8 +69,14 @@ const Example = () => {
             }} key={key}>
                 {filter[index] && (
                     <>
-                        <span className={`sub ${filter[index].code}`}>
-                            {filter[index].code}</span> <span>{filter[index].text}</span>
+                        <div>
+                            <span className=
+                                {`sub ${filter[index].code}`}>{filter[index].code}
+                            </span> <span>{filter[index].text}</span>
+                        </div>
+                        <div>
+                            {filter[index].text.split('|')[1]}
+                        </div>
                     </>
                 )}
             </div>
