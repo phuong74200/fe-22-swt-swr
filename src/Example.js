@@ -1,13 +1,7 @@
-import { faker } from '@faker-js/faker';
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect } from "react";
 import { List, AutoSizer, CellMeasurer, CellMeasurerCache } from "react-virtualized";
 import swt from './swt.txt';
-
-var _List;
-
-function setRef(ref) {
-    _List = ref;
-}
+import swr from './swr.txt';
 
 const cache = new CellMeasurerCache({
     fixedWidth: true,
@@ -32,17 +26,22 @@ const Example = () => {
     const [filter, setFilter] = useState([]);
 
     useEffect(() => {
-        fetch(swt)
-            .then((response) => response.text())
-            .then((textContent) => {
-                const content = textContent.split('\n').map((text) => ({
-                    code: 'swt',
-                    text: text
-                }
-                ));
-                setList(content);
-                setFilter(content);
-            });
+        const $swt = fetch(swt).then(swt => swt.text());
+        const $swr = fetch(swr).then(swr => swr.text());
+
+        Promise.all([$swt, $swr]).then(([swt, swr]) => {
+            const _swt = swt.split('\n').map((text) => ({
+                code: 'swt',
+                text: text
+            }))
+            const _swr = swr.split('\n').map((text) => ({
+                code: 'swr',
+                text: text
+            }))
+            const list = _swt.concat(_swr);
+            setList(list);
+            setFilter(list);
+        })
     }, []);
 
     const onChange = (e) => {
@@ -50,9 +49,7 @@ const Example = () => {
         setSearch(value);
         setFilter(() => {
             return list.filter((item) => {
-                _List.recomputeRowHeights();
-                _List.forceUpdate();
-                return _search(value, item.text);
+                return _search(e.target.value, item.text);
             });
         });
     }
@@ -65,10 +62,15 @@ const Example = () => {
             columnIndex={0}
             rowIndex={index}
         >
-            <div style={style} key={key}>
+            <div style={{
+                ...style,
+                whiteSpace: 'nowrap',
+                padding: 16
+            }} key={key}>
                 {filter[index] && (
                     <>
-                        <span>{filter[index].code}</span> <span>{filter[index].text}</span>
+                        <span className={`sub ${filter[index].code}`}>
+                            {filter[index].code}</span> <span>{filter[index].text}</span>
                     </>
                 )}
             </div>
@@ -82,7 +84,6 @@ const Example = () => {
                 <AutoSizer>
                     {({ width, height }) => (
                         <List
-                            ref={setRef}
                             rowCount={filter.length}
                             width={width}
                             height={height}
