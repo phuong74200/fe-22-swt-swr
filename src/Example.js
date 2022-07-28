@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { List, AutoSizer, CellMeasurer, CellMeasurerCache } from "react-virtualized";
 import swt from './swt.txt';
-import swr from './swr.txt';
 
 const cache = new CellMeasurerCache({
     fixedWidth: true,
@@ -27,18 +26,13 @@ const Example = () => {
 
     useEffect(() => {
         const $swt = fetch(swt).then(swt => swt.text());
-        const $swr = fetch(swr).then(swr => swr.text());
 
-        Promise.all([$swt, $swr]).then(([swt, swr]) => {
+        Promise.all([$swt]).then(([swt]) => {
             const _swt = swt.split('\n').map((text) => ({
                 code: 'swt',
                 text: text
             }))
-            const _swr = swr.split('\n').map((text) => ({
-                code: 'swr',
-                text: text
-            }))
-            const list = _swt.concat(_swr);
+            const list = _swt;
             setList(list);
             setFilter(list);
         })
