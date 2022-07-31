@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { List, AutoSizer, CellMeasurer, CellMeasurerCache } from "react-virtualized";
-import swt from './swt.txt';
+import swt2 from './swt2.txt';
 
 const cache = new CellMeasurerCache({
     fixedWidth: true,
@@ -25,14 +25,14 @@ const Example = () => {
     const [filter, setFilter] = useState([]);
 
     useEffect(() => {
-        const $swt = fetch(swt).then(swt => swt.text());
+        const $swt2 = fetch(swt2).then(swt => swt.text());
 
-        Promise.all([$swt]).then(([swt]) => {
-            const _swt = swt.split('\n').map((text) => ({
-                code: 'swt',
+        Promise.all([$swt2]).then(([swt2]) => {
+            const _swt2 = swt2.split('<split>').map((text) => ({
+                code: 'prn',
                 text: text
             }))
-            const list = _swt;
+            const list = _swt2;
             setList(list);
             setFilter(list);
         })
@@ -67,9 +67,6 @@ const Example = () => {
                             <span className=
                                 {`sub ${filter[index].code}`}>{filter[index].code}
                             </span> <span>{filter[index].text}</span>
-                        </div>
-                        <div>
-                            {filter[index].text.split('|')[1]}
                         </div>
                     </>
                 )}

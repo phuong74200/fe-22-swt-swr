@@ -1,0 +1,2864 @@
+A  | Complete this sentence: At the heart of events are. 
+A .Delegates 
+B. Buttons 
+C. Methods 
+D. Threads<split>A  | What is WSDL?
+A Is used to describe information about the web service.
+B. Is executed by web server.
+C. Is based on HTML.
+D. Is executed by client<split>B  | Which control allows selecting more than one item?
+A ComboBox
+B. ListBox
+C. DateTimePicker
+D. TextBox<split>A  | Which variables can use only by one user but in all pages?
+A Session
+B. Application
+C. ViewState
+D. Cookie<split>A  | An early binding is a binding between a function call and a function definition that is defined at runtime.
+A False
+B. True<split>B  | By default can we delete a folder that contains subdirectories and files?
+A Yes
+B.No<split>A  | What is the difference between Form.Show and Form.ShowDialog?
+A . Form.ShowDialog makes a form visible and display that form as modal dialog (this means that the form must be closed before any other form can receive the focus). Form.Show makes a form visible but display that form not as modal dialog (this means that we can switch to other form but needn't close the form)
+B. Form.Show makes a form visible and display that form as modal dialog (this means that the form must be closed before any other form can receive the focus). Form.ShowDialog makes a form visible but display that form not as modal dialog (this means that we can switch to other form but needn't close the form)
+C. Form.ShowDialog makes a form get the focus Form.Show makes a form loose the focus
+D. Form.ShowDialog makes a form loose the focus Form.Show makes a form get the focus<split>D  | What is output of the following code?
+using System;
+class Program {
+static void MainO {
+Display<System.lnt32>(2010);
+}
+static void Display<T>(T v1)
+{
+Console.WriteLine(v1 ToStringO);
+}
+}
+A Compile error
+B. Runtime error
+C. vl
+D. 2010<split>A  | Which sentence about value types is correct?
+A Value types must derive from System.ValueType.
+B. Value types can override System.ObjectFinalizeO method.
+C. Variables of a value type are passed by reference by default
+D. Value types are allocated on the managed heap.<split>D  | Suppose we have multi-file assembly as follows: lib.dll. parti netmodule. part2.netmodule. part3.netmodule. Which file is the manifest information located in?
+A In part2.netmodule
+B. Each file contains a piece of manifest information
+C. In parti .netmodule
+D. In lib.dll<split>A  | studentConnection.OpenO:
+studentCommand = studentConnection.CreateCommand(): studentCommand.CommandType = CommandType.Text studentCommand.CommandText = "SELECT * FROM Student"; studentAdapter = new SqlDataAdapter (studentCommand); studentSet = new DataSetO:
+this.txtFirstName.DataBindings Add ("Text". studentSet "FirstName");
+A The dataset has not been populated.
+B. The data binding is done incorrectly.
+C. The dataset object is instantiated incorrectly.
+D. The command object is instantiated incorrectly.<split>D  | An object that supports the. A Event______. interface stores state information for an asynchronous operation, and provides a synchronization object to allow threads to be signaled when the operation completes.
+A.Event
+B. Delegate
+C. AsyncCallback
+D. IAsyncResult<split>B  | The ___ method of the ____ object is used to retrieve the data in the form fields submitted by the user.
+A Form.Let. Request object
+B. Form.Get Request object
+C. Form.Get. Response object
+D. Form.Let Response object<split>D  | Which sentence about MemoryStream is correct?
+A MemoryStream is used to store textual information to a file.
+B. MemoryStream provides temporary storage for a stream of bytes that may be committed to storage at a later time.
+C. MemoryStream allows for random file access with data represented as a stream of bytes.
+D. MemoryStream provides random access to streamed data stored in memory rather than a physical file.<split>B  | _______are the visual effects supported in Windows Forms applications.
+A Control Anchoring. Class Libraries. Transparent Forms
+B. Transparent Forms. Control Docking. Control Anchoring
+C. Class Libraries. Transparent Forms. Control Docking
+D. Control Docking. Control Anchoring. Class Libraries<split>B  | We have to following sentences:
+1) VBScript is client-side script code which is supported by all browsers.
+2) JavaScript is client-side script code which is supported by Internet Explorer only.
+A. Sentence 1 is correct sentence 2 is correct
+B. Sentence 1 is not correct sentence 2 is not correct
+c. Sentence 1 is correct sentence 2 is not correct<split>B  | What output of the follwing code?
+static class Program
+{
+static void Main(){
+int n1= 1;
+object o1 =n1;
+string s1= string(o1);
+Console.WriteLing(s1);
+}
+}
+A.1
+B.There is an exception when running
+C.There are some errors when compiling
+D.Nothing<split>A  | What is output of the following code?
+using System;
+using System.Data.SqICIient
+class Program
+{
+static void MainO {
+SqICommand cmd = new SqICommandO: Console.WriteLine(cmd.CommandText);
+}
+}
+A. There is no output
+B. Runtime error
+C. CommandText
+D. Compile error<split>B  | When using Filelnfo.OpenO method with FileMode is Create, if the file already exists.
+A This file will be opened to append data.
+B. It will be overwritten.
+C. A System.lO.IOException is thrown.<split>C  | Which sentence about delegate is true?
+A. Delegates cannot be used to define callback methods.
+B. A delegate object can maintain a single method only.
+C. A delegate object can maintain a list of methods to call.
+D. Delegates do not allow methods to be passed as parameters.<split>D  | Why the data is not inserted using the following code?
+SqICommand insertCommand = new SqICommandO; insertCommand.CommandType = CommandType.Text
+insertCommand.CommandText = "Insert Into Classes (ClasslD. ClassName) Values (5. 'SE0301'] insertCommand.ExecuteNonQueryO:
+A Use incorrect command type.
+B. ExecuteNonQueryO method doesn't return any value.
+C. The "Insert" query is wrong.
+D. Don't have integrated connection for the command object<split>A  | Which event handler is called when the web application is shutting down?
+A . Application_EndO
+B. Application_Start()
+C. Session_Start()
+D. Session_EndQ<split>B  | What are properties of [WebMethod] attribute?
+A Description and MessageName
+B. Description. MessageName and EnableSession.
+C. Description. MessageName and Namespace.
+D. Description. Name and Namespace.<split>B  | Thread is executed when we create a new instance of a Thread object
+A. False
+B. True<split>C  | Which control combines the features of the TextBox and the ListBox controls?
+A . StatusBar
+B. Label
+C. ComboBox
+D. ToolBar<split>C  | Choose one correct answer about the Global.asax
+A. The Global.asax (including the Global.asaxcs file) is only used to implement application-level events.
+B. The Global.asax (including the Global.asaxcs file) is only used to implement session level events.
+C. The Global.asax (including the Global.asaxcs file) is used to implement application and session level events.
+D. All the others<split>C  | Which property of Form allows to set the button on the Form that is clicked when user press the Enter key?
+A . DefaultButton
+B. OKButton
+C. AcceptButton
+D. EnterButton<split>D  | What are properties of [WebService] attribute?]
+A .Description and Name.
+B. Name and Namespace.
+C. Description and Namespace.
+D. Description. Name and Namespace.<split>A  | Which sentence about .NET assemblies is correct?
+A NET assemblies are versioning, self-describing and configurable.
+B. NET assemblies are versioning, self-describing, but not configurable.
+C. NET assemblies are versioning, configurable, but not self-describing.
+D. NET assemblies are configurable, self-describing, but not versioning.<split>A  | What is NOT a characteristic of Web Service?
+A Is registered with operating system of client
+B. Is accessed over the web.
+C. Is called using its Interface.
+D. Uses standard Web protocols to communicate.<split>B  | Which variables can be used by all users and in all pages?
+A Session
+B. Application
+C. ViewState
+D. Cookie<split>B  | Which variables can be used by all users and in all pages?
+A Session
+B. Application
+C. ViewState
+D. Cookie<split>C  | Assume that BaseClass is a class; IFaceland IFace2 is interface. Which of the following declarations is INVALID? /Line 1/ class ImplDerivedClass: IFace2. BaseClass. IFacel {}
+/Line 2/class ImplClass: IFacel. IFace2 {}
+/*Line 37 class DerivedClass: BaseClass. IFacel {}
+/*Line 47class DerivedClass: IFace2. IFacel. BaseClass {}
+A The lines 2 and 3
+B. The lines 3 and 4
+C. The lines 1 and 4
+D. The lines 1 and 2<split>B  | Will the "finally" block get executed if an exception has not occurred?
+A No
+B. Yes<split>B  | Is consuming a shared assembly the same as doing with a private assembly?
+A. Yes
+B. No<split>C  | When a dll or exe has been created using a NET-aware compiler, the resulting module is bundled into a/an
+A .manifest
+B. None of the others
+C. assembly.
+D. meta-data.<split>B  | How many states does the CheckBox support?
+A 3
+B. 2
+C. 0
+D. 1<split>A  | You are building a C# application. Your application has two assemblies: MathLib.dll and DBLib.dll.
+The assembly MathLib.dll has 2 classes: Rectangle and Circle.
+You want the Circle class can access all methods of the Rectangle class.
+However, you do not want any classes inside DBLib.dll to access methods of Rectangle class.
+Which of the following access modifiers will you use for all methods inside the assembly MathLib.dll?
+A internal
+B. sealed
+C. public
+D. private<split>C  | Which category of System.Windows.Forms namespace contains types that facilitate interoperability with legacy ActiveX controls?
+A .Components
+B. Controls
+C. Core infrastructure
+D. Common dialog boxes<split>B  | Which kind of threads has the ability to prevent the current application from terminating?
+A. Background threads
+B. Foreground threads<split>A  | What is output of the following code? (see picture)
+try
+{
+int nl = 1; int n2 = 0;
+System.Console.WriteLine("nl / n2 = ", nl / n2);
+}catch (DivideByZeroExcepticn)
+{ System.Console.WriteLine("Lei chia chc 0."); } catch (Exception)
+{ System.Console.WriteLine("Loi khong xac dinh."); }
+A. Loi chia cho 0.
+B. Runtime error (Divide by zero)
+c. Compile error
+D. Loi khongxac dinh.<split>C  | Which member of System.Threading namespace is an enumeration?
+A ThreadPool
+B. ThreadStart
+C. ThreadPriority
+D. Thread<split>C  | What is name of templates that wrap a block of selected statements within a relevant scope? A Console Application
+B. Snippets
+C. Surround With
+D. Class Library<split>C  | What is the standard format of a NET assembly's version number?
+A <major>.<minor>.<build>.<revision>
+B. <major>.<minor>.<revision>
+C. <major>.<minor>.<revision>.<build>
+D. <major>.<build>.<minor>.<revision><split>B  | Which property of the Exception class specifies textual information that indicates the reason for the error and provides possible resolutions?
+A InnerException
+B. Message
+C. Source
+D. StackTrace<split>A  | What of the followings is correct if we want to set the AChild form as a child form of the parentform named TheParent?
+A. AChild.MdiParent= TheParent
+B. TheParentMdiChild = AChild;
+C. AChild.MdiChild = TheParent
+D. TheParentAChild = true:
+E. AChild.TheParent = true<split>B  | You are building a C# application. Your application has two assemblies: MathLib.dll and DBLib.dll. The assembly MathLib.dll has 2 classes: Rectangle and Circle. You want the Circle class can access all methods of the Rectangle class. However, you do not want any classes inside DBLib.dll to access methods of Rectangle class.
+Which of the following access modifiers will you use for all methods inside the assembly MathLib.dll?
+A. public
+B. internal
+C. sealed
+D. private<split>C  | class Class1
+{
+private string name = ".NET Technology";
+public string yourName
+{
+get { return name; }
+set { name = value; }
+}
+public virtual void SayHello()
+{
+System.Console.WriteLine("Hello {0}", this.name);
+}
+}
+class Class2 : Class1
+{
+public Class2(string yourName)
+{
+this.yourName = yourName;
+}
+public override void SayHello()
+{
+base.SayHello();
+}
+}
+class Program
+{
+static void Main(string[] args)
+{
+Class2 obj = new Class2("Visual c#");
+obj.SayHello();
+}
+}
+A. Hello Visual C# and .NET Technology
+B. Compile error
+C. Hello Visual C#
+D. Hello .NET Technology<split>D  | Windows Forms application, which property is used to get or set the edges of the control is anchored to the edges of its container? *
+A. Dock
+B. Hang
+C. Fixed
+D. Anchor<split>C  | Which sentence is correct?
+A. CLR does not layout the type in memory.
+B. CLR does not compile the associated CIL into platform|-specific instructions.
+C. CLR is the entity in charge of resolving the location of an assembly.
+D. CLR does not perform any necessary security checks.<split>D  | The DataTable structure is defined by its _ and
+A. Primary keys. Foreign keys
+B. Columns. Rows
+C. Rows. Constraints
+D. Columns. Constraints<split>C  | What are system exceptions?
+A. System exceptions are exceptions that are thrown by the CLR.
+B. System exceptions are errors when compiling project
+C. System exceptions are custom exceptions that derive from the System.Exception type.<split>A  | The Mask property of MaskedTextBox specifies or retrieves the characters to be ___-used as a mask.
+A. TRUE
+B. FALSE<split>C  | An interface CANNOT contain signatures of the following members:
+A. Methods
+B. Properties
+C. Constructor
+D. Events<split>D  | Which object provides access to the provider's data reader object?
+A. DataReader
+B. Data Adapter
+C. Connection
+D. Command<split>A  | What is output when request the page that contains the code bellow? *
+A protected void Page_Load(object sender. EventArgs e)
+{
+B Response.Write("<h1>Hello world!</h1 >"):
+}
+A. Hello world!
+B. <h1>Hello world!</h1>
+C. Compile error)
+D. Response.Write("<h1>Hello world!</h1>")<split>B  | Which property of TextBox control to set whether the TextBox control modifies the case of characters as they are typed?
+A. CharacterUpper
+B. CharacterCasing
+C. CharacterLower
+D. PasswordChar<split>A  | One of the differences between an abstract class and an interface is? *
+A. An abstract class can inherit another abstract class; an interface cannot inherit another interface.
+B. An abstract class can be created its instance by using new keyword: an interface cannot.
+C. An abstract class can define its own data: an interface cannot.
+D. There are not differences between an abstract class and an interface !<split>D  | In ASP.NET application._______and _________variables can be accessed by all the pages in the application.
+A. Global. Session
+B. Server. Response
+C. Application. Request
+D. Session. Application<split>D  | Methods, fields, constructors. _ are called:
+A. Delegates
+B. Types
+C. Members
+D. Attributes<split>B  | Which sentence about thread pool is correct?
+A. You can set priority for a thread in thread pool.
+B. The thread pool manages threads efficiently by minimizing the number of threads that must be created, started, and stopped.
+C. Threads in thread pool are always foreground threads.
+D. Default priority of a thread in thread pool is BelowNormal.<split>A  | Which sentence about single-file assemblies is correct?
+A. If an assembly is composed of a single module, you have a single-file assembly.
+B. Single-file assemblies are * dll only.
+C. Single-file assemblies do not contain all the necessary CIL. metadata, and associated manifest in an autonomous, single, well-defined package.
+D. Single-file assemblies are *.exe only.<split>A  | How to change the transparent level of a Windows Form?
+A. Use the Opacity property
+B. Use the BackColor property
+C. Use the ForeColor property
+D. Use the Transparent property<split>A  | Which sentence about Application variables is correct?
+A. You cannot change value of an Application variable.
+B. Application variables cannot be shared among all users.
+C. Application variables cannot be shared across all pages.
+D. Application variable is maintained by an instance of the HttpApplicationState type<split>C  | What is output of the below codes?
+A static void Main(string() args)
+{
+int numbed1;
+System.Console.WriteLine(number1.ToString());
+System.Console.ReadLine();
+}
+A. 1
+B. 0
+C. Compile error
+D. null<split>B  | Which property of the TextBox control modifies the case of characters as they are typed? 
+A. CharacterLower
+B. CharacterCasing
+C. CharacterUpper
+D. PasswordChar<split>C  | When you create type, you ensure that the type can be accessed from other types in the current assembly as well as external assemblies.
+A. private
+B. internal
+C. public
+D. seal<split>A  | What is the lifespan for items stored in ViewState?
+A. Exists for the Life of the current page
+B. 2 seconds
+C. 2 minutes
+D. 20 minutes<split>C  | What is advantage of code-behind page model?
+A. Pages are easier to rename.
+B. Managing files in a source control system is slightly easier.
+C. It is possible to have designers working on the markup while programmers' author the C# code.
+D. Pages are easier to deploy or send to another developer.<split>C  | Which event handler is fired when a new user logs on to your application?
+A. Session_End()
+B. Application_EndO
+C. Session_Start()
+D. Application_StartO<split>D  | What is output of the following code?
+List<int> arrayl = new List<int>0;
+foreach (intn in arrayl)
+System.Console.WriteLine(arrayl.ToStringO);
+A. Compile error
+B.0
+C. arrayl
+D. Nothing<split>A  | The _ control is used when a field must not be left blank. '
+A. RequiredFieldValidator
+B. RangeValidator
+C. CustomValidator
+D. RegularExpressionValidator<split>C  | Which sentence about shared assemblies is correct?
+A. Shared assemblies can be *exe files.
+B. Shared assemblies are intended to be consumed by the application which resides in the same directory of them.
+C. Shared assemblies are deployed to GAC.
+D. All of the other<split>B  | Which element that may be contained within a MenujStrip?
+A. ToolStripButton
+B. ToolStripTextBox
+C. ToolStripLabel
+D. ToolStripProgressBar<split>B  | Which sentence is correct?
+A. Overridden base method cannot include an override modifier.
+B. Override method and overridden base method have to have the same return type.
+C. Override method is an instance method declaration includes a virtual modifier.
+D. Override method and overridden base method don't have the same declared accessibility.<split>D  | Which object represents the actual data of a DataTable?
+A. A collection ofDataColumn objects.
+B. A collection of DataRelation objects.
+C. A view object
+D. A collection of DataRow objects.<split>D  | Which validation control is used to validate that the value of an input control is equal to a fixed constant?
+A. RangeValidator
+B. CustomValidator
+C. RequiredFieldValidator
+D. CompareValidator<split>B  | A class can have ____
+A. Only one constructor and only one destructor.
+B. Many constructors and only one destructor.
+C. Only one constructor and many destructors.
+D. Many constructors and many destructors.<split>B  | What can be parameter modifiers of a given method?
+A. public and private.
+B. out ref and params.
+C. params only.
+D. out and ref only.<split>A  | Can a namespace be resided into many assemblies?
+A. No
+B. Yes<split>C  | What is output of the following code? (see picture)
+delegate void ShowMessage();
+static void HelloWorld() {
+System.Console.WriteLine("Hello world");
+}
+static void Hello() {
+System.Console.WriteLine( "Hellc visual C#");
+}
+static void Main(string[] args)
+{
+ShowMessage s = new ShowMessage(HelloWorld);
+s += Hello;
+s();
+}
+A. Hello world
+B. Compile error
+C. Hello world Hello visual C#
+D. Hello visual C#<split>B  | Which sentence about .NET assemblies is correct?
+A. .NET assemblies are described using COM type libraries.
+B. .NET assemblies take the same file extension as COM servers.
+C. .NET assemblies are registered into the system registry.
+D. .NET assemblies export methods to facilitate communications with the COM runtime<split>B  | Where do we can change default namespace of a project?
+A. The project's Property window.
+B. The Solution Explorer utility.
+C. The Object Browser utility.
+D. The Code Definition window.<split>A  | Which sentence about DataSet is correct?
+A. A DataSet is an in-memory representation of external data.
+B. When working with DataSet a connection must be established with the data source.
+C. When we changes data in a DataSet this change is automatically updated to the data source.
+D. DataSet is used to fetch and update data.<split>B  | What is CTS?
+A. CTS is a set of rulejHEBSSlt0 ensure that products of compilers will work properly in .NET environment.
+B. CTS is a formal specification that documents how types must be defined in order to be hosted by the CLR.
+C. CTS is physically represented by mscore.dll library.
+D. CTS is a language that sits above any particular platform-specific instruction set.<split>C  | The name of an assembly consists of 4 parts: *
+1. The short name. On Windows this is the name of the Portable Executable file without the extension
+2. The culture.
+3.. The version.
+4. A/an
+me
+A. private key token
+B. public key token
+C. strong name
+D. None ofthe others<split>B  | What is output of the following code?
+class Program
+{
+delegate void Display();
+static void Main()
+{
+Display d1 = new Display(DisplayHello);
+d1();
+}
+static void DisplayHello()
+{
+Console.WriteLine("Hello");
+}
+}
+A. Runtime error
+B. Hello
+C. Compile error at line: dlO:
+D. Compile error at line: delegate void DisplayO:<split>A  | Which event handler is fired when a new user logs on to your application?
+[A]
+Session_Start()
+[B]
+Application_Start()
+[C]
+Application_End()
+[D]
+Session_End()<split>C  | What is CLR?
+[A]
+CLR is a language that sits above any particular platform-specific instruction set.
+[B]
+CLR is a formal specification that documents how types must be defined in order to be hosted by the CLR.
+[C]
+CLR is a set of rules provided to ensure that products of compilers will work properly in .NET environment.
+[D]
+CLR is physically represented by mscore.dll library.<split>B  | Which sentence about HTML form is correct?
+[A]
+An HTML form is located at header of web page.
+[B]
+An HTML form is a named group of related Ul elements used to gather user input.
+[C]
+An HTML form is entire display area shown by a given browser.
+[D]
+An HTML form is placed outside of <body> section.<split>B  | Which property of Control type is used to set a widget should be attached to which side (or sides) of a Form?
+A.Dock
+B.Top
+C.Anchor
+D.Left<split>A  | Which object provides access to the provider's data reader object?
+[A]
+Command
+[B]
+DataReader
+[C]
+Connection
+[D]
+DataAdapter<split>B  | Which sentence about background threads is correct?
+[A]
+Background threads have the ability to prevent the current application from terminating.
+[B]
+Background threads are viewed by the CLR as expendable paths of execution that can be ignored at any point in time.
+[C]
+By default, every thread that is created via the Thread.StartQ method is automatically a background thread.
+[D]
+You cannot create any background threads.<split>C  | Can we work with server-side code on HTML controls?
+A. No
+[B]
+Yes, we can do it without any changes on HTML controls.
+[C]
+Yes, by setting value for "runat" property of HTML controls is "client".
+[D]
+Yes, by setting value for "runat" property of HTML controls is "server".<split>A  | When update an existing record in one table of database, should we use which method of Command objects?
+[A]
+ExecuteNonQuery
+[B]
+ExecuteXml Reader
+[C]
+ExecuteScalar
+[D]
+ExecuteReader<split>C  | What is name of templates that wrap a block of selected statements within a relevant scope?
+[A]
+Console Application
+[B]
+Class Library
+[C]
+Surround With
+[D]
+Snippets<split>D  | Which control is usually used to input text?
+[A]
+RadioButton
+[B]
+Label
+[C]
+CheckBox
+[D]
+Text Box<split>A  | Which sentence about components is correct?
+[A]
+An example of components is OpenFileDialog.
+[B]
+Most of components are not visible at runtime.
+[C]
+Components are types that derive from the Control base class.
+[D]
+Cannot configure components at design time.<split>B  | Does .NET Framework support to monitor the modification of a given external file?
+[A]
+No
+[B]
+Yes<split>C  | Which sentence is correct about C# language?
+[A]
+C# language does not have pointer type.
+[B]
+You do not have to de-allocate memory in C# language.
+[C]
+C# language does not full support for interface-based programming techniques.
+[D]
+C# language does not support to overload operators.<split>A  | We have to following sentences:
+1) VBScript and JavaScript are client-side script codes.
+2) JavaScript is a full-fledged OOP language.
+[A]
+Sentence 1 is correct, sentence 2 is not correct.
+[B]
+Sentence 1 is not correct, sentence 2 is not correct.
+[C]
+Sentence 1 is not correct, sentence 2 is correct.
+[D]
+Sentence 1 is correct, sentence 2 is correct.<split>D  | What is output of the following code?
+class Human
+{
+public void Display()
+{
+Console.WriteLine("Human");
+}
+}
+class Student : Human
+{
+public override void Display()
+{
+base.Display();
+Console.WriteLine("Student");
+}
+}
+class Program
+{
+static void Main()
+{
+Student s = new Student();
+s.DisplayQ;
+}
+}
+[A]
+Human
+Student
+[B]
+Human
+[C]
+Student
+[D]
+Compile error<split>B  | What is utility shows all of the types in your current project from an object-oriented perspective?
+[A]
+Solution Explorer.
+[B]
+Object Browser.
+[C]
+Class View.
+[D]
+Code Definition Window.<split>C  | Which sentence about Session variables is correct?
+[A]
+Session variable is maintained by an instance of the HttpApplicationState type.
+[B]
+Session variables cannot be shared among all users.
+[C]
+You cannot change value of a Session variable.
+[D]
+Session variables cannot be shared across all pages.<split>A  | Assume that you create a Web service by Visual C# language .
+Can you consume this Web service by a client that is written in Java language
+A. Yes
+B. No<split>D  | What is UDDI?
+[A]
+UDDI is a protocol to move information between consumers and web services.
+[B]
+UDDI is a the white pages for XML web services.
+[C]
+UDDI is a language is used to build a XML web service.
+[D]
+UDDI is a language is used to describe a XML web service.<split>C  | Does the following code have any errors?
+class Program
+{
+static void Input(ref string s1)
+{
+Console.Write("Enter a string:"); s1 = Console.ReadLine();
+}
+static void Main()
+{
+string s2;
+Input(ref s2);
+}
+}
+[A]
+Yes, there is an error at line: string s2;
+[B]
+No, there are not any errors.
+[C]
+Yes, there is an error at line: lnput(ref s2);
+[D]
+Yes, there is an error at line: static void lnput(ref string s1)<split>C  | Which sentence is correct?
+[A]
+A persistent cookie exists only within the HTTP header.
+[B]
+A temporary cookie is not destroyed after the user logs off your site.
+[C]
+A persistent cookie is not destroyed after the user logs off your site.
+[D]
+A temporary cookie is saved to the user's hard drive.<split>B  | What is output of the following code?
+class Program
+{
+static void Main()
+{
+try
+{
+int n1 = 1;
+int n2 = 0;
+int n3 = n1 / n2;
+Console.WriteLine("try");
+}
+catch
+{
+Console.WriteLine("catch");
+}
+finally
+{
+Console.WriteLine("finally");
+}
+}
+}
+[A]
+catch
+[B]
+catch
+finally
+[C]
+finally
+[D]
+Runtime error
+[E]
+try<split>B  | What is advantage of code-behind page model?
+[A]
+Pages are easier to deploy or send to another developer.
+[B]
+It is possible to have designers working on the markup while programmers author the C# code.
+[C]
+Pages are easier to rename.
+[D]
+Managing files in a source control system is slightly easier.<split>B  | What is output of the following code?
+using System;
+using System.Data;
+using System.Data.SqICIient;
+class Program
+{
+static void Main()
+{
+SqlConnection cn = new SqlConnection();
+cn.Open();
+cn.Close();
+Console.WriteLine(cn.State.ToString());
+}
+}
+[A]
+Open
+[B]
+Runtime error
+[C]
+Compile error
+[D]
+Closed<split>A B  | What kind of memory where an object is allocated?
+[A]
+Stack area
+[B]
+Managed heap
+[C]
+Data area
+[D]
+Code area<split>D  | Study the following code and choose one correct sentence.
+using System;
+using System.Collections;
+class Program {
+static void MainQ {
+ArrayList arr1 = new ArrayListQ; Console.WriteLine(arr1 .Capacity);
+}
+}
+[A]
+To run this code, you must using another namespace is System.Collections.Generic.
+[B]
+This code will raise a runtime error.
+[C]
+This code has error at line: Console.WriteLine(arr1 .Capacity);
+[D]
+Output of this code is 0.<split>C  | Which event of the Page type is fired lastly when loading the page?
+[A]
+PreRender
+[B]
+Load
+[C]
+Unload
+[D]
+Prelnit
+[E]
+Init<split>D  | Study the following code and choose one correct sentence.
+using System; class Human {
+string name; public string Name {
+get { return name;}
+}'
+}
+class Program {
+static void MainQ {
+Human h = new HumanQ; h.Name = "Nguyen Van A"; Console.WriteLine(h.Name);
+}
+}
+[A]
+This code has error at line: Console.WriteLine(h.Name).
+[B]
+This code has error at line: h.Name = "Nguyen Van A".
+[C]
+There is no output when run this code.
+[D]
+Output of this code is "Nguyen Van A".<split>B  | Which property of the Form type sets the button on the Form that is clicked when user press the Esc key?
+[A]
+EnterButton
+[B]
+Cancel Button
+[C]
+OKButton
+[D]
+EscButton<split>D  | Which sentence about ASP.NET View State is correct?
+[A]
+You cannot add some values to View State data.
+[B]
+View State data is embedded in a hidden formfield, which will flow between the browser and a specific page.
+[C]
+View State data is resided in a server variable.
+[D]
+View State data can be transferred between ASP.NET web pages<split>A  | Which sentence about BufferedStream is correct?
+[A]
+BufferedStream provides temporary storage for a stream of bytes that may be committed to storage at a later time.
+[B]
+BufferedStream provides random access to streamed data stored in memory rather than a physical file.
+[C]
+BufferedStream allows for random file access with data represented as a stream of bytes.
+[D]
+BufferedStream is used to store textual information to a file.<split>B  | What is name of this web service?
+[WebService(Namespace = "http://tempuri.org/",
+Name="My Webservice")]
+[WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
+[System. ComponentModel.Toolboxltem(false)]
+public class WebServicel : System.Web.Services.WebService
+{
+[WebMethod]
+public string HelloWorldQ
+{
+return "Hello World";
+}
+[A]
+HelloWorld
+[B]
+My Webservice
+[C]
+WebServicel
+[D]
+Web Service<split>D  | What is output of the following code?
+using System;
+interface Animal
+{
+public void Display();
+}
+class Mammal : Animal
+{
+public void Display()
+{
+Console.WriteLine("Mammal");
+}
+}
+class Program
+{
+static void Main()
+{
+Animal a = new Mammal();
+a.Display();
+}
+}
+[A]
+Compile error at line: Animal a = new MammalQ;
+[B]
+Runtime error
+[C]
+Mammal
+[D]
+Compile error at line: void Display();<split>C  | What is output of the following code?
+using System;
+using System.Data.SqlClient;
+class Program
+{
+static void Main()
+{
+SqlCommand cmd = new SqlCommand();
+SqlDataReader dr = cmd.ExecuteReader();
+Console.WriteLine(dr.HasRows.ToString());
+}
+}
+[A]
+True
+[B]
+Compile error
+[C]
+Runtime error
+[D]
+False<split>D  | What is output of the following code?
+using System; using System.Data;
+class Program {
+static void Main()
+{
+DataTable dt = new DataTable();
+Console.WriteLine(dt.Columns.Count);
+}
+}
+[A] Runtime error
+[B] 1
+[C] Compile error
+[D] 0<split>A  | What are formatters you can choose when serialization an object?
+[A]
+BinaryFormater, SoapFormater and XMLSerializer
+[B]
+TextFormater, BinaryFormatter and XMLSerializer.
+[C]
+TextFormater, SoapFormatter and XMLSerializer.
+[D]
+TextFormater, BinaryFormatter and SoapFormatter.<split>D  | What is default value of AutoPostBack property?
+A .0
+B. true
+C. 1
+D. false<split>C  | Which sentence is correct?
+[A]
+The method on which a delegate makes calls cannot have return type.
+[B]
+The method on which a delegate makes calls cannot have any arguments.
+[C]
+A delegate must define name of the method on which it makes calls.<split>B  | What is output of this code?
+class Student
+{
+internal string studentNo;
+}
+class Program
+{
+static void Main()
+{
+Student s = new Student();
+s.studentNo = "01234";
+System.Console.WriteLine(s.studentNo);
+}
+}
+[A]
+Runtime error
+[B]
+01234
+[C]
+Compile error
+[D]
+Nothing<split>B  | Which control is a kind of value setting controls?
+[A]
+GroupBox
+[B]
+ListBox
+[C]
+Text Box
+[D]
+CheckBox<split>B  | What are enumerations?
+[A]
+Enumerations are a handy programming construct that allows to group name/value pairs.
+[B]
+Enumerations are composed of any number of members, such as properties, methods, and events.
+[C]
+Enumerations are the .NET equivalent of a type-safe C-style function pointer.
+D .Enumerations are named collections of abstract member definitions.<split>D  | The control is used to display text when the mouse points to a particular control
+[A]
+StatusStrip
+[B]
+ToolStrip
+[C]
+MenuStrip
+[D]
+ToolTip<split>C  | How can we define an overridden base method?
+[A]
+Use sealed keyword.
+[B]
+Use new keyword.
+[C]
+Use virtual keyword.
+[D]
+An overridden base method is the same as a normal method.<split>B  | What is unboxing?
+[A]
+Unboxing is conversion from a value type to an object.
+[B]
+Unboxing is conversion from an object to a value type.
+[C]
+Unboxing is conversion from a string to an integer.
+[D]
+Unboxing is conversion from an integer to a string.<split>D  | How do we implement encapsulation by C#?
+[A]
+Define a destructor.
+[B]
+Define overloaded operators.
+[C]
+Define a constructor without arguments.
+[D]
+Define named properties.<split>B  | Item stored in ViewState exist for the life of the current page?
+A . True
+B. False<split>C  | Given the following code segment, what will the value returned from the method be? public int ViktorMove()
+{
+int x = 42; inty = 12; int w; object o; o = x;
+w = y * (int)o;
+return w;
+}
+A . 491
+B. 42
+C.504<split>D  | studentConnection.Open();
+studentCommand = studentConnection.CreateCommand(); studentCommand.CommandType = CommandType.Text; studentCommand.CommandText = "SELECT * FROM Student"; studentAdapter = new SqlDataAdapter (studentCommand); studentSet = new DataSet();
+this.txtFirstName.DataBindings.Add ("Text", studentSet, "FirstName");
+[A]
+The command object is instantiated incorrectly.
+[B]
+The dataset object is instantiated incorrectly.
+[C]
+The data binding is done incorrectly.
+[D]
+The dataset has not been populated.<split>C  | Select the correct statements about ADO.NET:
+1) ADO.NET provides a single set of types that communicate with multiple database management systems (DBMSs).
+2) ADO.NET supports multiple data providers, each of which is optimized to interact with a specific DBMS.
+[A]
+1,2
+[B]
+Only 1
+[C]
+Only 2
+[D]
+None of the others<split>A  | System.Data.SqICIient.SqICommand cmd = cn.CreateCommand(); string query = "Select * From Customers"; Console.WriteLine(cmd.ExecuteNonQuery().ToString()); cn.Close();
+(Assume that connection string and table name are correct.)
+[A]
+-1
+B .Complie Error
+[C]
+Nothing
+D . Running Error<split>B  | The ... object allows us to retrieve & manipulate data In the database.
+[A]
+Connection
+[B]
+Command
+[C]
+Import
+[D]
+GetData<split>B  | What is output of the following code?
+System.Data.SqICIient.SqIConnection cn = new System.Data.SqlClient.SqlConnection(); cn.OpenQ;
+[A]
+Nothing
+[B]
+Runtime error
+[C]
+Compile error<split>B  | A C# class can be inherited from multi interfaces?
+[A] Yes
+[B] No<split>A  | You need to get access to an Microsoft Excel 2003 file. Which data adapter would you use?
+[A] OleDbDataAdapter
+[B] ODBCDataAdapter
+[C] SqlDataAdapter
+[D] OleDataAdapter<split>B  | Do we have to set value for a variable before using?
+[A]
+No
+[B]
+Yes<split>A C  | Which sentence about private assemblies is correct?
+[A]
+Private assemblies reside in the same directory of application making use of them.
+[B]
+Private assemblies are *.dll files only.
+[C]
+Private assemblies are intended to be consumed by numerous applications on a single machine.
+[D]
+Private assemblies are deployed to GAC.<split>B  | It is possible to check whether an .aspx page is posted back to the server with the help of the ... property of the page
+[A]
+IsPosted
+[B]
+IsPostBack
+[C]
+IsPostForward
+[D]
+IsPostedBack<split>D  | _______property is used to get or set the edges of the control are anchored to the edges of its container.
+[A]
+Fixed
+[B]
+Dock
+[C]
+Hang
+[D]
+Anchor<split>C  | What is the result of the following code?
+SqIConnection conn = new SqlConnection(); conn.ConnectionString = CONNECTION_STRING;
+SqICommand cmd = new SqlCommand(); cmd.Connection = conn;
+cmd.CommandText = "SELECT FROM t1; SELECT FROM t2; SELECT * FROM t3"; SqlDataAdapter adapter = new SqlDataAdapter(); adapter.SelectCommand = cmd;
+DataSet ds = new DataSet(); adapter.Fill(ds);
+[A]
+We cannot place multiple select commands in one SqICommand
+[B]
+We cannot place multiple select command in the SelectCommand property of the DataAdapter
+[C]
+The DataAdapter will create 3 data tables in the dataset<split>A B  | Choose 2- correct statements about Server-side and Client-side codes?
+[A]
+Client side code is executed on the browser.
+[B]
+Server side code is executed at the server side on IIS in ASP.NET framework.
+[C]
+Server side code is executed on the browser.
+[D]
+Client side code is executed on the IIS.<split>C  | Determine the output of the following code segment:
+intx = 2009; decimal y = 2m; int z = x/y;
+System.Console.WriteLine ("The value of x/y is : {0}", z);
+[A]
+1004
+[B]
+1004.5
+[C]
+Compile error!
+[D]
+1005<split>A B  | How do we create a new text file? (choose 2)
+[A]
+Use StreamWriter class.
+[B]
+Use CreateTextQ method of Filelnfo class.
+[C]
+Use StreamReader class.
+[D]
+Use CreateQ method of Filelnfo class<split>D  | Which of following extension does a Web service file will have?
+A.Ascx
+B.Resx
+C.Aspx
+D.Asmx<split>A  | Choose 2 correct statements about Application_Start and Session_Start
+[A]
+Application_Start - We can place code to initialize variables once during application start, (e.g, db connection string)
+[B]
+Session_Start - We can place code to initialize variables once during application start, (e.g, db connection string)
+[C]
+Application_Start - We can place code to initialize variables specific to the session (e.g, USER ID and other specific info related to this session)
+[D]
+Session_Start - We can place code to initialize variables specific to the session (e.g, USER ID and other specific info related to this session)<split>A D  | ... variable can be accessed by all the pages in the application. (Choose 2)
+[A]
+Session
+B.
+Global
+[C]
+Server
+[D]
+Application<split>B  | What is protected access modifier?
+[A]
+Defines a member as accessible only by the class.
+[B]
+Marks a member as accessible only by the class or any derived classes.
+[C]
+Defines a member as accessible from an object variable as well as any derived classes.
+[D]
+Marks a member as accessible limited to the current assembly, but not outside the assembly.<split>D  | Why the data is not inserted using the following code?
+SqICommand insertCommand = new SqlCommand(); insertCommand.CommandType = CommandType.Text;
+insertCommand.CommandText = "Insert Into Classes (ClassID, ClassName) Values (5, 'SE0301')"; insertCommand.ExecuteNonQueryQ;
+[A]
+ExecuteNonQueryQ method doesn't return any value.
+[B]
+Use incorrect command type.
+[C]
+Don't have integrated connection for the command object.
+[D]
+The "Insert" query is wrong.<split>C  | System.Data.DataTable dt = new System.Data.DataTablef'Products");
+System.Data.SqICIient.SqlDataAdapter da = new System.Data.SqlClient.SqlDataAdapterfSelect * From
+Products", cnnString);
+da.Fill(dt);
+Console.WriteUne(dt.Rows.Count.ToStringO);
+(Assume that connection string and table name are correct.)
+[A]
+Total columns of Products table
+[B]
+Runtime error
+[C]
+Compile error
+[D]
+Total rows of Products table<split>D  | What are formatters you can choose when serialization an object?
+[A]
+TextFormater, BinaryFormatter and XMLSerializer.
+[B]
+TextFormater, BinaryFormatter and SoapFormatter.
+[C]
+TextFormater, SoapFormatter and XMLSerializer.
+[D]
+BinaryFormater, SoapFormater and XMLSerializer.<split>A  | Select the output of the statement <form method = "post" action = "test.aspx"
+[A]
+Transfers all the form data to test.aspx with HTTP headers.
+[B]
+Transfers all the form data to test.aspx without HTTP headers.
+[C]
+Calls post method on test.aspx.<split>C  | Can we use methods that have some arguments for a delegate?
+[A]
+No
+[B]
+Yes, but methods have to only one argument.
+[C]
+Yes<split>D  | What are properties of [WebMethod] attribute?
+[A]
+Description, MessageName and Namespace.
+[B]
+Description, Name and Namespace.
+[C]
+Description and MessageName.
+[D]
+Description, MessageName and EnableSession.<split>C D  | Web service technology is based on what? (choose 2)
+[A]
+TCP/IP
+[B]
+UDP
+[C]
+XML
+[D]
+SOAP<split>C  | class Animal {
+public string Name {get; set;}
+}
+class Mammal : Animal {
+public string Name {get; set;}
+}
+What is happened when compiling the program?
+[A]
+Compile error.
+[B]
+No errors, no warnings.
+[C]
+No errors, but there is 1 warning.<split>D  | Which sentence about namespace is correct?
+[A]
+Namespaces are physical mechanism.
+[B]
+Classes from one namespaces cannot reside in many assemblies.
+[C]
+Namespaces are runtime entities.
+[D]
+Classes from many namespaces can reside in one assembly.<split>A  | control combines the features of the TextBox and the ListBox controls
+[A]
+ComboBox
+[A] |
+Label
+[C]
+ToolBar
+[D]
+StatusBar<split>A D  | Name two properties common in every validation control?
+[A]
+Color property
+[B]
+CommandArgument property
+[C]
+Text property
+[D]
+ControlToValidate property<split>D  | Determine the output of the following code segment:
+intx = 2009; int y = 2010;
+System.Console.WriteLine ("The value of x & y is : {0}", (x & y));
+[A]
+Compile error!
+[B]
+2010
+[C]
+2009
+[D]
+2008<split>B  | What are responsibilities of CLR?
+[A]
+Compiling source codes into an assembly and loading the type into memory.
+[B]
+Loading the type into memory and compiling CIL into platform-specific instruction.
+[C]
+Compiling source codes into an assembly and resolving the location of an assembly.
+[D]
+Compiling source codes into an assembly and executing the code.<split>B  | What is output of the following code?
+List<int> arrayl = new List<int>();
+foreach (int n in arrayl)
+System.Console.WriteLine(array1 .ToStringQ);
+[A]
+arrayl
+[B]
+Nothing
+[C]
+0
+[D]
+Compile error<split>B  | The event of the Form control is used to perform tasks such as allocating resources used by the
+form
+[A]
+Load
+[B]
+Allocate
+[C]
+Activated
+[D]
+Activate<split>D  | The ... method of the ... object is used to redirect the user to another page.
+[A]
+Form.Get, Request
+[B]
+Form.Let, Request
+[C]
+Redirect, Request
+[D]
+Redirect, Response<split>C  | How can we check that some changes have been made to a DataTable since it was loaded?
+[A]
+We can use the method HasChanges() to check whether a datatable is changed or not
+[B]
+We can use the method HasNewRows to check whether a datatable Is changed or not
+[C]
+We can use the property IsChanged to check whether a datatable Is changed or not<split>B  | What is output of the following code?
+string cnnString = @"Data Source=localhost\SQLExpress;lnitial Catalog=Northwind;lntegrated Security=True"; System.Data.SqICIient.SqIConnection cn = new System.Data.SqlClient.SqlConnection(cnnString); cn.Open();
+System.Data.SqICNent.SqICommand cmd = cn.CreateCommand(); cmd.CommandText = "Select * From Employees";
+Console. WriteLine(cmd.ExecuteReader().HasRows); cn.Close();
+(Assume that connection string and table name are correct.)
+A.Runtime error
+B.True
+C.Compile error
+D.false<split>A  | Which sentence about foreground threads is correct?
+[A]
+Foreground threads have the ability to prevent the current application from terminating.
+[B]
+You cannot create any foreground threads.
+[C]
+You can set a thread is foreground thread by using IsForeground property.
+[D]
+Foreground threads are viewed by the CLR as expendable paths of execution that can be ignored at any point in time.<split>A  | The method___of the Control class conceals the control from the user.
+Hide
+[B]
+Close
+[C]
+Dispose
+[D]
+Visible<split>A  | Which sentence about Application Domain is correct?
+[A]
+The CLR is able to load and unload a formal process much quicker than Application Domains.
+[B]
+The CLR does not create automatically any Application Domains at the time the process launches.
+[C]
+A single process cannot host some Application Domains.
+[D]
+Application Domain is a logical partition within a process<split>B  | You are required to build an application that can serialize an object to a file. Then, this file can be transferred to another program written in Java and running in Linux operating system to be de-serialized. Which of the following classes is the best choice for the above task?
+[A]
+BinaryFormatter
+B .
+SoapFormatter
+[C]
+NetworkFormatter
+[D]
+Formatter<split>B  | Which of the following can be defined as generic?
+[A]
+Structures
+[B]
+All of the others
+[C]
+Methods. Classes. Interfaces
+[D]
+Delegates<split>B  | What is output of this code? static void MainO {
+intnumberl = 3; intnumber2 = 2;
+float number3 = numberl / number2; Console.Wntel_ine(number3.ToStringO);
+}
+[A]
+1.5
+B . 1
+C .compile error<split>B  | What are NOT Web Server controls?
+[A]
+ASP.NET controls.
+[B]
+HTML controls
+[C]
+HTML with value of runat property is server.<split>B  | What is output of the following code?
+string cnnString = @"Data Source=localhost\SQLExpress;lnitial Catalog=Northwind;lntegrated Security=True";
+System.Data.DataTable dt = new System.Data.DataTable("Products");
+System.Data.SqICIientSqlDataAdapter da = new System.Data.SqlClientSqlDataAdapter("Select* From Products". cnnString): da.Fill(dt);
+Console.WriteLine(dtRows.CountToStringO);
+(Assume that connection string and table name is correct)
+A .Running error
+B.Total row of product table
+C.Total colum of product table
+D.Compile error<split>C  | Which of the following associations of try. catch and finally is INVALID?
+[A]
+try {} catch {}
+[B]
+try {} catch {} finally {}
+[C]
+catch {} finally {}
+[D]
+try {} finally {}<split>A  | What is output of this code?
+string si = "Visual C# And .NET Technology"; string s2 = s1.Substring(0. s1.lndexOf('#')); System.Console.WriteLine(s2.ToUpper());
+[A]
+VISUAL C
+[B]
+Visual C
+[C]
+VISUAL C#
+[D]
+Compile error<split>A  | _ is an object in which the data retrieved from the database can be stored.
+[A]
+DataSet
+[B]
+SqICommand
+[C]
+Command
+[D]
+Connection<split>A  | What kind of memory where an object is allocated?
+[A]
+Managed heap
+[B]
+Data area
+[C]
+Stack area
+[D]
+Code area<split>B  | To help optimize the garbage collection process, each object in the heap is assigned to a specific generation. If an object is marked as Generation 0. it means:
+[A]
+That object is an allocated object and has survived through three garbage collection.
+[B] . That object is a newly allocated object and has never been marked for collection.
+[C]
+That object is an allocated object and has survived through one garbage collection.
+[D]
+That object is an allocated object and has survived through two garbage collection<split>B  | What is output when request the page that contains the code bellow? protected void Page_Load(object sender. EventArgs e)
+{
+Response.Write("<h1>Hello world!</h1 >"):
+}
+[A]
+<h1>Hello world!</h1>
+[B]
+Hello world!
+[C]
+Compile error
+[D]
+Response.Write("<h1>Hello world!</h1>")<split>D  | Which sentence about thread pool is correct?
+[A]
+You can set priority for a thread in thread pool.
+[B]
+Threads in thread pool are always foreground threads.
+[C]
+Default priority of a thread in thread pool is BelowNormal.
+[D]
+The thread pool manages threads efficiently by minimizing the number of threads that must be created, started, and stopped.<split>B  | Given the following code segment what is the output?
+string s = "Hello"; string r; r = s;
+r+= "World!";
+System. Console.WriteLine(s);
+[A]
+Nothing, it is garbage collected
+[B]
+Hello
+[C]
+The code will not compile
+[D]
+Hello World!<split>D  | Which sentence is correct?
+[A]
+An abstract class is a class that cannot be inherited from.
+[B]
+A class can inherit from many abstract classes.
+[C]
+An abstract class is a class that can be sealed.
+[D]
+An abstract class is a class that cannot be instantiated.<split>D  | What is output of this code? interface Classl {
+interface Class1 {
+public void SayHello(string yourName);
+}
+class Class2 : Class1
+{
+public override void SayHello(string yourName)
+{
+System.Console.WriteLine("Hello {0}",yourName);
+}
+}
+class Program
+{
+static void Main(string[] args)
+{
+Class2 obj = new Class2();
+obj.SayHello("Visual C#");
+}
+}
+[A]
+Hello Visual C#
+[B]
+Hello
+[C]
+Hello {0}
+[D]
+Compile error<split>A  | Does C# support multi inheritance? (Choose the most correct answer)
+[A]
+Yes. but only for inheritance from many interfaces.
+[B] No
+[C]
+Yes<split>C  | What is output of this code? class Classl
+{
+internal string field1;
+}
+class Program
+{
+static void Main(string[] args)
+{
+Classl obj1 = new Classl();
+obj1.field1 = "abcdef";
+Classl obj2 = obj1;
+obj2.field1 = "defabc";
+System.Console.WriteLine(obj1.field1); System.Console.ReadLine();
+}
+}
+[A]
+abcdef
+[B]
+null
+[C]
+defabc
+[D]
+Compile error<split>A  | What is utility allows you to view the set of all content files and referenced assemblies?
+[A]
+Solution Explorer.
+[B]
+Class View.
+[C]
+Code Definition Window.
+[D]
+Object Browser.<split>A  | What is term for conversion from an object to a value type?
+[A]
+Unboxing.
+[B]
+Implicit conversion.
+[C]
+Explicit conversion.
+[D]
+Boxing.<split>B  | The _ object allows us to retrieve & manipulate data in the database.
+[A]
+GetData
+IB]
+Connection
+[C]
+Import
+[D]
+Command<split>C  | In Windows Form application, which control is used to display text when the mouse points to a particular control?
+[A]
+Status Strip
+[B]
+ToolStrip
+[C]
+ToolTip
+[D]
+MenuStrip<split>C  | Web service technology is based on what?
+[A]
+SOAP and TCP/IP
+[B]
+TCP/IP and UDP
+[C]
+XML and SOAP
+[D]
+UDP and XML<split>B  | SqICommand insertCommand = new SqICommandO: insertCommand.CommandType = CommandType.Text
+insertCommand.CommandText = "Insert Into Classes (ClasslD. ClassName) Values (5. 'SE0301')"; insertCommand.ExecuteNonQuery();
+[A]
+ExecuteNonQueryQ method doesn't return any value.
+B.
+Don't have integrated connection for the comand object
+C.Use inconnect command type
+D.The insert query wrong<split>C  | Which property of Form allows to set the button on the Form that is clicked when user press the Enter key?
+[A]
+DefaultButton
+[B]
+EnterButton
+[C]
+AcceptButton
+[D]
+OKButton<split>D  | In ASP.NET application, and variables can be accessed by all the pages in the application.
+[A]
+Global. Session
+[B]
+Application. Server
+[C]
+Server. Session
+[D]
+Session. Application<split>C  | Which property of TextBox control in Windows Forms application is used to create password input box?
+[A]
+Multiline
+[B]
+ReadOnly
+[C]
+PasswordChar
+[D]
+Text<split>C  | SqIConnection conn = new SqIConnectionO: conn.ConnectionString = CONNECTION_STRING;
+SqICommand cmd = new SqICommandO; cmd.Connection = conn:
+cmd.CommandText = 'SELECT FROM tl; SELECT FROM t2: SELECT * FROM t3': SqlDataAdapter adapter = new SqlDataAdapterO: adapter.SelectCommand = cmd;
+DataSet ds = new DataSetO; adapter.Fill(ds);
+A. We cannot place multiple select commands in one SqlCommand
+[B]
+We cannot place multiple select command in the SelectCommand property of the DataAdapter
+[C]
+The DataAdapter will create 3 data tables in the dataset<split>B  | An object that supports the interface stores state information for an asynchronous operation, and provides a synchronization object to allow threads to be signaled when the operation completes.
+[A]
+AsyncCallback
+[B]
+lAsyncResult
+[C]
+Delegate
+[D]
+Event<split>D  | For using SQL .NET Data Provider what using statement of the following is correct?
+[A]
+using System.Data.SqIServer;
+[B]
+using System.Data.OleDb:
+[C]
+using System.Data;
+D. using Systems.Data.SqlClient<split>A  | What is output of the following code?
+using System; class Program {
+static void MainO {
+intnl = 1; object o1 = n1;
+Console.WriteLine(o1 .ToString());
+}
+}
+A . 1
+[B]
+Compile error
+[C]
+object
+[D]
+Runtime error<split>D  | The type of event declaration must be of _ type.
+[A]
+Constructor
+[B]
+Indexers
+[C]
+Event
+D. Delegate<split>D  | Which property of the Exception class specifies textual information that indicates the reason for the error and provides possible resolutions?
+[A]
+InnerException
+[B]
+StackTrace
+C
+Source
+D
+Messager<split>B  | In Windows Forms application.. which property is used to get or set the edges of the control is anchored to the edges of its container?
+A.Dock
+B
+Anchor
+[C]
+Hang
+D
+Fixed<split>D  | What is the property of ASP.NET DropDownList control can make change events cause a postback?
+[A]
+SelectedValue
+B
+Text
+[C]
+IsValid
+D
+AutoPostBack<split>A  | What are formatters you can choose when serialization an object?
+[A]
+BinaryFormater. SoapFormater and XMLSerializer.
+[B]
+TextFormater. BinaryFormatter and XMLSerializer.
+[C]
+TextFormater. BinaryFormatter and SoapFormatter.
+[D]
+TextFormater. SoapFormatter and XMLSerializer.<split>B  | How do you explicitly kill a user's session?
+[A]
+Session.End()
+[B]
+Session.Abandon()
+C
+Session.Close()
+[D]
+Session.Discard()<split>B  | Determine the output of the following code segment
+intx = 2009: decimal y = 2m; intz = x/y;
+System.Console.WriteLine ("The value ofx/y is : {0}". z);
+[A]
+1004.5
+[B]
+Compile error!
+[A] 1005
+[B] 1004<split>A  | What is first step to define an event?
+A .Define a delegate that contains the method to be called when the event is fired.
+[B]
+Declare an event using the C# event keyword.
+[C]
+Declare an event in term of the related delegate.
+[D]
+Define a method that is called when the event is fired.<split>B  | Which kind of thread is automatically killed when the application domain unloads?
+A . Foreground threads
+B. Background threads<split>C  | When will the garbage collector run?
+[A]
+Every 15 minutes.
+[B]
+Once every day at 13.00.
+[C]
+When the application is low on memory<split>A  | ____is the normal output tvpe for a Windows Forms proied
+[A]
+Windows Application
+[B]
+Console Application
+[C]
+Windows Forms
+D
+Class Library<split>A  | Which namespace does the class ListView belong to?
+[A]
+System.Windows.Forms
+[B]
+System.Windows.Drawing
+[C]
+System.Windows.Paint
+[D]
+System.Windows.Lists<split>A  | Session variables can be any valid .Net Framword type?
+A .Yes
+B . NO<split>B  | Can we enable and disable connection pooling?
+A.No,we can not
+B. Ys,we can by setting Pooling= true in ADO.Net connection string<split>A  | In Winforms, specify the method to place the focus on the control
+A.Focus
+B.Focused
+C.SetFocus
+D.GotFocus<split>A  | The ... object allows us to retrieve & manipulate data in the database.
+[A]
+Connection
+[B]
+GetData
+[C]
+Command
+[D]
+Import<split>A  | Which control is used to link an HTML file with the WinForms application?
+A.HelpProvider
+B.HelpText
+C.HelpLink
+D.HelpButton
+E.HelpString<split>A  | Select the type Processing modelthatASP.NET simulate
+A.Event-driven
+B.TopDown
+C.Static
+D.Linear<split>C  | What is significance of Server. Map Path?
+[A]
+Maps the specified virtual path to physical path.
+[B]
+Returns the virtual path of the web folder.
+[C]
+Returns the physical file path that corresponds to virtual specified path.<split>C  | What is authentication?
+A.The process of determining whether the proven identity is allowed access to a specific resource
+B.Ensures code can only perform legal operations.
+C.The process of accepting credential from a user and validating those credentials against a designated authority
+D. Allows .Net to control acess to resoures by an assembly<split>C  | ... is an object in which the data retrieved from the database can be stored.
+A.SqlCommand
+B.Connect
+C.DataSet
+D.Command<split>D  | How to disable client side script in validation controls?
+[A]
+Set 'EnableServerScripf to true.
+[B]
+Set 'EnableClientScripf to true.
+[C]
+Set 'EnableServerScripf to false.
+[D]
+Set 'EnableClientScripf to false.<split>C  | By setting the Text property on the form, you will cause the value of the Text property to display on which part of the form?
+A.Status bar
+B. Bottom-right conner
+C.Title bar
+D.Top-right conner<split>B  | Which keyword prevents your class from being inherited by another class?
+[A]
+virtual
+[B]
+sealed
+[C]
+new
+[D]
+override<split>B  | How can we save all data from dataset?
+A.We can use the RejectChanges method to save all data from DataSet
+B.We can use the AcceptChangrs methods methos to sace all data from DataSet
+C.we can use the CommitChanges method to save all data from DataSet<split>B D F  | What does the "EnableViewState" property do? (choose 3)
+[A]
+ViewState is used to increase the performance.
+[B]
+ViewState is used to ensure the security.
+[C]
+When the page is posted back to the server the server control is recreated with the state stored in viewstate.
+[D]
+It saves the server-side values for a given control into ViewState, which is stored as a hidden value on the page before sending the page to the clients browser.
+[E]
+ViewState is used to save your identity.
+[F]
+It allows the page to save the users input on a form across postbacks.<split>D  | ___is any action directed at the application.
+[A]
+Class
+B
+Object
+C
+Method
+D
+Event<split>C  | In Winforms,_____property is used to get or set a value that is returned to the parent form when the button is clicked.
+A
+Return Value
+B
+ButtonValue
+[C]
+DialogResult
+D
+ResultDialog<split>D  | The method___ of the control class conceals the contrl from the user
+A. Visible
+B. Close
+C. Dispose
+D. Hide<split>B  | How to user a checkbox in a data grib(in web forms)?
+A.Use Template Fields
+B.Use DataBound Fields
+C.None of the above<split>A  | What tags do you need to add within the asp:datafrid tags to bind columns manally?
+A. Inside tag in asp:Datagrid we set Text attribute to <%DataBinder.Eval(Container.dataItem,"Col_Name")%>
+B. Inside tag in asp:Datagrid we set Text attribute to <%Datagrib.Eval(Container.dataItem,"Col_Name")%>
+C. Inside tag in asp:Datagrid we set Text attribute to <%Datagrib.Eval(Col_Name,Container.dataItem)%>
+D. Inside tag in asp:Datagrid we set Text attribute to <%Datagrib.Eval(Col_Name,Container.dataItem)%><split>D  | A Thread object will change to "Blocked" state, when
+[A]
+It completes.
+[B]
+We call it's SleepO method.
+[C]
+It is suspended.
+[D]
+(tissues an I/O request.<split>B D  | ADO.NET has two core components, are
+A. Data Provide.Set
+B. .Net Datas Providers
+C.ApplicationSets
+D.DataSets<split>A  | What is not a characteristic of Web Service?
+A.Is registered with operating system of client.
+B.Is accessed over the web.
+C.Uses standard web protocaols to communicate
+D.Is called using its Interface.<split>C  | ... are used to retrieve values in the DataTable.
+A.DataTable object
+B.DataColums object
+C.DataRow objects
+D.DataRelation object<split>D  | What is default authentication mode for IIS?
+A.Window
+B.None
+C.Basic Authetication
+D.Anoymous<split>A D E F  | What 4-methods are fired during the page load?
+[A]
+PreRenderO
+[B]
+O n Button Cl ickO
+[C]
+OnTextChangedO
+[D]
+LoadQ
+[E]
+InitO
+[F]
+UnloadO<split>D  | In Webforms, the ... property of the RadioButton control restricts the user to select only one option from a given set of options
+A.PanelName
+B.ButtonName
+C.GroupName
+D.RadioName<split>B  | What is not LINQ provider?
+A.LINQ to ADO.NET
+B.LINQ to SQL
+C.LINQ to DataSet
+D.UNO to Objects<split>C  | _____propertv is used to aet or set the edges of the control are anchored to the edaes of its container.
+A.Dock
+B.fixed
+C.Anchor
+D.Hang<split>C  | Under which of the following environments does your programs execution code run?
+[A]
+VB.NET
+[B]
+CLS
+[C]
+CLR
+[D]
+MSIL<split>A B  | What are new language enhancements in Visual Studio 2008? (Choose 2)
+A.Extension methods
+B.Automatic properties
+C.Object destructor
+D.Pointer types<split>D  | Which sentence is correct?
+A.Microsoft Ajax Library doesn't support to JSON
+B.Microsoft Ajax Library is only used dependently from the server features.
+C.Microsoft Ajax Library doesn't extend existing JavaScript types
+D.Microsoft Ajax Library consists of a set of JavaScript files.<split>A D  | Which of the follwing statements is true?
+A. An object is the implementation of a class
+B.A class is the instantitaion of an object
+C.A class is the inplementation of an object
+D. An object is the instantiation of a class<split>C  | Which sentence is incorrect?
+A.Require explicit conversion from decimal type to floating type.
+B.double type follows IEEE 754 specification.
+C.Cannot convert implicitly from integer type to decimal type.
+D.float type supports NaN value.<split>C  | A remote object is an object that runs on ....
+[A]
+User interface 
+Client
+[C]
+Server
+[D]
+Custom interface<split>C  | What is the Server.MachineName does?
+[A]
+Gets the Referred Website name on the server.
+[B]
+Gets the Client's Machine Name.
+[C]
+Gets the Server's Machine Name.<split>D  | In Winforms, specify method used to specify the next control to be navigated according to the tab order
+A.SetNextTab
+B.SetNextTab Order
+C.SetNextOrder
+D.SetNextControl<split>D  | The .. diractive is user to consume a created custom control
+A. TagPrefix
+B.Contro;
+C.Import
+D.Register<split>C  | To use SQL .NET Data Provider what using statement of the following is correct?
+[A]
+using System.Dataj
+[B]
+using System.Data.OleDb;
+[C]
+using System.Data.SqICIient
+[D]
+using System.Data.SqIServer;<split>C D  | Choose 2- correct statements about Server-side and Client-side codes?
+[A]
+Client side code is executed on the IIS.
+[B]
+Server side code is executed on the browser.
+[C]
+Server side code is executed at the server side on IIS in ASP.NET framework.
+[D]
+Client side code is executed on the browser<split>B  | Unboxing is
+A. Convert a numeric value to object
+B.Convert an object to a value type
+C.Convert a value type a object
+D.Convert a string to a numeric value<split>C  | What is WCF?
+A.A programming model engine and tools for quickly building workflow enabled applications on Windows.
+B.A vital component to the future of application development.
+C.Unified framework for rapidly building service-oriented applications.
+D.A framework for building object-oriented applications.<split>C  | The ____component is used to fetch the values from the data source to the DataSet and also to update the data source with the DataSet data.
+[A]
+DataColumn
+B .DataReader
+C .
+DataAdapter
+[D]
+DataRow<split>C  | Which object is used to automatically generate commands?
+[A]
+SqlDataAdapter
+[B]
+SqICommand
+[C]
+SqICommandBuilder
+[D] SqlDataReader<split>A  | What is the result of the following code snipset:
+SqIConnection conn = new SqlConnedion0; conn.ConnectionString = CONNECTION_STRING;
+SqICommand cmd = new SqlCommand0; cmd.Connection = conn;
+cmd.CommandText = "SELECT FROM t1; SELECT FROM t2; SELECT* FROM t3"; SqlDataAdapter adapter = new SqlDataAdapterO; adapter.SeledCommand = cmd;
+DataSet ds = new DataSet0; adapter.Fill(ds);
+[A]
+The DataAdapter will create 3 data tables in the dataset
+[B]
+We can not place multiple seled command in the SeledCommand property of the DataAdapter
+[C]
+We can not place multiple seled commands in one SqICommand<split>D  | You are developing a WinForm application. You have received instructions to make sure that the PidureBox will display dynamically loaded images. Which property will display a static image if any dynamic image fails to load?
+A. Backgroundlmage
+B .Initaillmage
+C. Errorlmage 
+D. Image<split>B  | What is output of this code?
+protected void Page Load(objed sender, EventArgs e)
+{
+Response.Write(Server.HtmlDecode("<h1 >Hello world!</h1 >"));
+}
+A.Server.HtmlDecode("<h1 >Hello world!</h1 >")
+B.Hello world!
+C.<h1>Hello world!</h1>
+D. Compile error<split>A  | The code will be processed on web server when the runat attribute of the <-Script-> tag has the following value
+A.Server
+B.Desktop
+C.client<split>A  | What is the most important component of ASP.NET AJAX Client Framework?
+A.Microsoft Ajax Library
+B.ASP.NET 2.0 Ajax Server Extensions
+C.ASP.NET AJAX Web Service Proxies
+D.HTML JavaScript and XML Script<split>C  | Which event is raised when user choose an item in ComboBox control?
+[A]
+Validated
+[B] Click
+[C]
+SelectedlndexChanged
+[D]
+DropDown<split>B  | The____ propertv of the LinkLabel control is used to specifvthe text, which has to be displayed as a link.
+A.UnkName
+B.LinkArea
+C.URLName
+D.HyperLink<split>C  | What is output of this code?
+System.Data.SqlClient.SqlCommand cmd =cn.CreateCommand():
+cmd.CommandText ="Select * from customers";
+System.Console.WriteLine(cmd.ExecuteNonQuery().ToString());
+A. 0
+B. -1
+C. 1
+D.Compile error<split>D  | In WInforms , specify method used to specidy the next control to be navigated according to the tab order
+A. SetNextTab
+B.SetNextOder
+C.SetNextControl
+D.SetNextTabOrder<split>D  | How many classes can a single _.NET DLL contain?
+A. 3
+B. 1
+C. 2
+D. As much as you want<split>A  | Session variables can be any valid .NET Framework type?
+A .Yes
+B. No<split>A  | _____is the normal output type for a Windows Forms project
+[A]
+Windows Application
+[B]
+Console Application
+[C]
+Windows Forms
+[D]
+Class Librai<split>C  | What tags do you need to add within the asp:datagrid tags to bind columns manually?
+[A]
+Inside tag in asp:Datagrid we set Text attribute to <%# Datagrid.Eval (Container.Dataltem "Col_Name") %>
+[B]
+Inside tag in asp:Datagrid we set Text attribute to <%# Datagrid.Eval(~Col_Name~ Container.Dataltem) %>
+[C]
+Inside tag in asp:Datagrid we set Text attribute to <%# DataBinder.Eval(Container.Dataltem "Col_Name") %>
+[D]
+Inside tag in asp:Datagrid we set Text attribute to <%# DataBinder.Eval(~Col_Name~ Container.Dataltem) %><split>A  | Session variables (HttpContext.Session) are stored in a SessionStateltemColledion object?
+A. Yes
+B. No<split>A  | ViewState allows the state of object (serializsble) to be stored in a hidden field on the page
+A. True
+B. False<split>A  | Sessions are identified by a unique identifier that can be read by using the SessionID property?
+A. Yes
+B. No<split>C  | Which thing is not included in a .NET PE file?
+[A]
+Resource file
+[W
+Metadata
+[C]
+Source code
+[D]
+IL<split>D  | Which of the following statements is true?
+[A]
+A class is the implementation of an object.
+[B]
+A class is the instantiation of an object.
+[C]
+An object is the implementation of a class.
+[D]
+An object is the instantiation of a class.<split>A B  | Choose 2 correct statements about the ViewState and SessionState
+A. ViewState persist the values of controls of controls of particular page in the client(Browser) when post back operation done. WHen request another page previous page
+B. SessionState persist the values of controls of controls of particular page in the client(Browser) when post back operation done. WHen user request another page previous
+C . SessionState persist the data of particular user in the server .This data available till user close the browser or session time completes
+D . View State persist the data of particular user in the server . This data available till user close the browser or session time completes<split>B  | How to use a checkbox in a data grid (in WebForms)?
+[A]
+Use Template Fields.
+[B]
+Use DataBound Fields.
+[C]
+None of the above.<split>B (?1)  | Which following sentence is not correct?
+[A]
+Message Contract defines specific message parts.
+[B]
+Service Contract defines operations, behaviors, and communication shape.
+[C]
+Data Contract defines schema and versioning strategies.
+[D]
+Data Contract defines the method signatures.<split>B  | Thread is executed when we create a new instance of a Thread object
+A .False
+B. True<split>C  | To perform a change to a table using the Command object named Cmd, what statement of the following is correct?
+[A]
+Cmd.ExecuteReader()
+[B]
+Cmd.ExecuteUpdate()
+[C]
+Cmd.ExecuteNonQuery()
+[D]
+Cmd.ExecuteQuery()
+[E]
+Cmd.ExecuteScalar()<split>B  | In ASP.NET,"Change" events execute only on next action event by default
+A. Yes
+B. True<split>A  | How do you register user control ?
+A. Add Src ,TagRrefix , TagName
+B . Add Src , TagName
+C. Add Sourxe ,Tag prefix<split>B  | How do we connect to SQL server Database without using SqlConnection?
+A. We can connect to SQL server Database using OleDnConnection
+B. We cannot connect o SQL Server Database without using SqlConnection<split>D  | What is not a component of ASP.NET AJAX Server Framework?
+[A]
+Microsoft AJAX Library
+[B]
+Web Services bridge
+[C]
+ASP.NET 2.0 Ajax Server Extensions
+[D]
+Ajax-enabled ASP.NET Pages<split>B  | Will the finally block get executed if an exception has not occurred?
+A. No
+B. Yes<split>B  | To get values of the columns of the i-th row in aDataTable object named datatable, what of the followings is correct?
+[A]
+DataColumn array = datatable.Rows[i], Item Array;
+[B]
+DataRow array = datatable.Rows[i], Item Array;
+[C]
+StringQ array = datatable.Rows[i], Item Array;
+[D]
+Object [] array = datatable.Rows[i], Item Array;<split>A  | What is output of this code?
+static void MainQ
+{
+intnumberl = 1;
+switch (numberl)
+{
+case 1:
+System. Console.WnteLine("Nurnber 1 is 1");
+case 2:
+System. Console.WnteLine("Nurnber 1 is 2");
+break;
+default:
+break;
+}
+}
+[A]
+Compile error j
+[B]
+Numberl is 1
+[C]
+Numberl is 1
+Numberl is 2
+[D]
+Numberl is 2<split>A  | The_____control is used to display text when the mouse points to a particular control
+A. ToolTip
+B .StatusStrip
+C.MenuStrip
+D.TollStrip<split>B  | The two built-in channels available in .NET Framework are ... and ...
+[A]
+XML SOAP
+[B]
+Client Server
+[C]
+NetBIOS, SPX
+[D]
+TCP, HTTP<split>B  | What is the kind of ASP.NET technology
+A. Client-side technology
+B . Server-side technology<split>D  | Which of the following is not a member of Response Object?
+A. Flush
+B. Write
+C. Clear
+D . Execute<split>A  | Why does the data not display using the following code?
+studentConnection.Open();
+studentCommand = studentConnection.CreateCommandQ; studentCommand.CommandType = CommandType.Text studentCommand.CommandText = "SELECT* FROM Student"; studentAdapter = new SqlDataAdapter (studentCommand); studentSet = new DataSet0;
+this.MFirstName.DataBindings.Add ("Text", studentSet"FirstName");
+[A]
+The dataset has not been populated.
+[B]
+The command object is instantiated incorrectly.
+[C]
+The dataset object is instantiated incorrectly.
+[D]
+The data binding is done incorrectly.<split>C  | You need to define a delegate forthe following method:
+public class Classl {
+public static int Method42(int i) {
+return ¡*42;
+}
+How is the delegate for Method420 declared?
+[A]
+delegate Classl .Method42;
+[B]
+delegate void Method42(string s);
+[C] ^
+delegate int Met42(int i); J
+[D]
+delegate int Classl .Method42(int i);<split>C  | A Delegate object
+A . is mutable
+B . Is an instance of a class
+C . Is created with the new operator
+D. is static object<split>B  | Which method is fired lastly during the page load?
+A . PreRender()
+B . Unload()
+C . Init()
+D. Load()<split>B  | What is the size of the SessionID?
+[A]
+32 bit long integer
+[B]
+32 bit long string
+[C]
+32 bit long double
+[D]
+32 bit long character<split>C  | How can we add a row is in a Data Table object ?
+[A]
+We can use the NewRow method of DataTable class
+[B]
+We can use the Insert method of DataTable class
+[C]
+We can use the Add method of DataTable<split>C  | Which control is not used to receive information?
+A. ComboBox
+B . TextBox
+C. Label
+D . ListBox<split>B  | Internet Explorr 6.0 is UpLevel browser
+A. False
+B. True<split>A  | What are not Server controls?
+[A]
+HTML controls
+[B] _
+ASP.NET controls.
+[C]
+HTML with value of runat property is server.<split>C  | What is the lifespan for items stored in ViewState
+[A]
+20 minutes
+[B]
+2 seconds
+[C]
+Exists for the Life of the current paae
+D .
+2 minutes<split>?!  | Which of following enables you to make sure that the users log on before they can access to Orders.aspx page?
+[A]
+In the Web.Config file, set the authentication mode to Forms.
+[B]
+Create a Page directive in Orders.aspx to load the Login.aspx page.
+[C]
+In the Web.Config file, set the users attribute of the deny element to"?"
+[D]
+Set the name attribute of the Forms element to Login.aspx.
+Set the loginUrl attribute of the forms element to Login.aspx.
+In the Web.Config file, set the users attribute of the deny element to"?"
+[E]
+In the Web.Config file, set the authentication mode to Forms.
+Set the loginUrl attribute of the forms element to Login.aspx.
+In the Web.Config file, set the users attribute of the deny element to"?"<split>C  | Which of the following statements with respect to ADO.Net are True? (Choose all correct answers)
+[A]
+When we use the DataSet object ADO.NET is based on disconnected data access.
+[B]
+ADO.NET objects are all strongly typed.
+[C]
+Systems built on ADO.NET are intrinsically highly scalable.
+[D]
+In ADO.NET, the RecordSet is bound to the data source<split>B  | What is the output format of the file the c# compiler produces?
+A .Native Machine Code
+B .IL
+C . Byte code
+D. Hex dump<split>B  | Where is a protected class-level variable available?
+[A]
+It is available only in this class.
+[B] )
+It is available to any sub-class derived from base class.
+[C]
+It is available to any classes in the same assembly.
+[D]
+It is available to all other classes.<split>D  | What of the following is correct for creating acommand object with the connection con?
+A. SqlCommand Cmd =com.GetSqlCommand(Select * From Student");
+B. SqlCommand Cmd =com.SqlCommand(Select * From Student");
+C . SqlCommand Cmd =com.SetSqlCommand(Select * From Student");
+D .SqlCommand Cmd =com.SqlCommand(Select * From Student");<split>B  | THe first event to be triggered in an ,aspx page is
+A. Page_Click
+B . Page_Init
+C. Reader
+D. Page_Load<split>C  | Choose the correct statement
+1) The Deactivate event occurs when the user switches away from the from and concentrates on other form
+2) The FormClosing event arises when the form is in its hiding state
+3) The FormClosed event arises when the form is closing
+[A]
+Statement 1 is correct
+[B]
+Statement 2 is correct
+[C]
+Statement 3 is correct
+[D]
+All statements are correc<split>B  | What is the correct way of creating a DataTable in a DataSet?
+[A]
+D ataTab 1 e dtO rd e rs;
+[B]
+DataTable dtOrders = new DataTable("Orders");
+[C]
+DataTable dtOrders = DataTable("Orders");
+[D]
+ds.T ables.Add("Orders");<split>B  | By default , the session ID values that are in coolieless sessions are recycled?
+A. NO
+B .Yes<split>A  | What does the following SQL statement return, assuming that all tables and column names are correct?
+SELECT FirstName, StreetAddress FROM Employees JOIN AddressBook
+ON Employees.EmpID = AddressBook.EmpID
+[A] —
+Only the matching records from the two tables.
+[B]
+All the records from the StreetAddress table and only the matching records from the Employees table.
+[C]
+Nothing, the JOIN syntax is wrong.
+[D]
+All the records from the Employees table, and only the matching ones from the StreetAddress table<split>B  | Which control supports paging ?
+A. Repeater
+B . DataGrid
+C. Both of them
+D . None of them<split>C  | What is output of this code?
+static void Main() {
+int number1 = 3; intnumber2 = 2;
+float number3 = number1 / number2; Console.WriteUne(number3.ToString());
+}
+A. 3
+B. 1.5
+C. 1
+D . 2
+E . Compile error<split>C  | In Winform Form ,Which property of TextBox control is used to create password input box ?
+A. ReadOnly
+B . Text
+C. PasswordChar
+D. Multiline<split>A  | The ____directive is used to set the Caching duration of the output a page
+A. @ CacheOutput
+B . @ CacheDUration
+C . @output
+D. @OutputCache<split>A  | What is WSDL?
+A. Is used to descibe information
+about the web service
+B. Is based on the HTML
+C. Is executed by client
+D. Is executed bby web server<split>B  | Winforms is a class library that enables developers build Web application.
+[A]
+TRUE
+[A]
+FALSE<split>A  | What of the follwings is correct if we want to set the Achild form as a child form of the parent form named TheParent ?
+A. TheParenr.MdiChild = Achild;
+B. Achild.MdiParent =TheParent
+C . The Parent.AChild = true;
+D. Achild.TheParent =true;
+E .Achild.MdiChild =TheParent;<split>A  | You want to create a database connection to connect to a SQL Server instance Universal\Paramount and set Showroom as the default database. Which one of the following codes represents the correct connection string element in Web.config for this?
+[A]
+<connectiopStrings>
+<CQm*eetion= "ParamountConnectionString" connectionString="Data Source=Universal\ParamountInitial Catalog=Showroom; Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+[B]
+<connedionStrings>
+<add name="ParamountConnectionString" connectionString="Data Source=Universal\ParamountInitial Catalog=Showroom; Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+[C]
+<connedionStrings>
+<add connedion="ParamountConnectionString" connectionString="Data Source=Universal\ParamountInitial Catalog=Showroom; Integrated Security=True' providerName="System.Data.SqlClient"/>
+</connectionStrings>
+[D]
+<connedionStrings>
+<add name="ParamountConnedionString" connedionString='Database=Universal\Paramountlnitial Catalog=Showroom; Integrated Security=True" providerName="System.Data.SqlClient"/>
+</connedionStrings><split>B  | The DataTable structure is defined by its ... and ....
+[A]
+Columns, Rows
+[B] N
+Columns, Constraints
+[C]
+Primary keys. Foreign keys
+[D]
+Rows, Constraints<split>A B  | A class can hace(choose 2)
+A. Many constructors
+B .Only one destructor
+C. May destructors
+D. Only one constructor<split>B  | The variable of wich type is not signed number ?
+A. int
+B . Byte
+C . short
+D. long<split>A D  | Web service technology is based on what ?(choose 2)
+A.SOAP
+B.UDP
+C.TCP/IP
+D.XML<split>D  | You want to write the content of a DataSet dsetl to a file Scores.xml. Next copy the contents of this file into a new DataSet named dset2. Then, retrieve the contents jil as a string and display them. Which one of the following codes represents the correct code to accomplish this?
+[A] )
+dsetlWriteXmI(@11 p;\Scores. xml"); DataSet dset2 = new DataSetQ; dset2.ReadXml(@"D:\Scores.xml"); Response.Write(dset2.GetXml());
+[B]
+dsetl.WriteXml(@"D:\Scores.xml"); DataSet dset2 = new DataSetO; dset2.Read(@"D:\Scores.xml"); Response.Write(dset2.GetXml());
+[C]
+dsetl.WriteXml(@"D:\Scores.xml"); DataSet dset2 = new DataSetO; dset2.ReadXml(@"D:\Scores.xml"); Response.Write(dset2.ReadXml());
+[D]
+dsetl.GetXml(@"D:\Scores.xml"); DataSet dset2 = new DataSetQ; dset2.ReadXml(@"D:\Scores.xml"); Response.Write(dset2.GetXml());<split>D  | Override method
+[A]
+Is declared with virtual keyword.
+[B]
+Has different declared accessibility with overridden base method.
+[C]
+Is a method overridden by an override declaration.
+[D]
+Is an instance method declaration includes an override modifier,<split>A B  | What are kinds of constranint in ADO.NET?(choose 2)
+A . UniqueConstraint
+B. ForeignKeyConstraint
+C.AllowNullConstraint
+D.PrimaryKeyConstraint<split>A  | You want to add a control to your that allows ou to set a particular option on or off.Which control would you choose?
+A. CheckBox
+B.ListBox
+C.Button
+D.CheckListBox<split>B  | Can associate a validation control with multiple target controls?
+A.No
+B.Yes<split>A D  | ____are the visual effects supported in WinFoems
+A.Control Anchoring
+B. Transparent Forms
+C. Class Libraried
+D. Control Docking
+E . Opaque Forms
+F .Visual Inheritance<split>A  | _____ property is used to get or set the data source that GridView is displaying data for
+A. DataSource
+B.DataSrc
+C. DataSet
+D.DataMember
+E.DaraSender<split>C  | In Windows Form, is a Command type control.
+A. LinkLabel
+B. Text
+C. TextBox
+D .Label<split>A  | What is default session time out?
+[A]
+20 minute
+[B]
+20 second
+[C]
+1 hour<split>C  | What is different between Server.Execute and Server.Transfer ?
+A/ Server.Transfer is used to transfer the execution from current page to another page , but Server.Execute does not transfer the execution
+B. No difference
+C. Server.Execute returns the execution back to the current page, and Server.Transfer transfers the execution completely to the specified page
+D. Server.Transfer returns the execution back to the current page, and Server.Execute transfers the execution completely to the specified page<split>C D  | Choose conrrect statements about User Controls (choose 2)
+A .We cannot edit the content of a User contrl
+B. A User contrl consisrs of previously built server contrls (called constituent contrls when used within a user control)
+C.A User control has an interface that can be completely edited and changed
+D. A User contrl is a server-side component that is shopped with .NET Framework
+E . A User control is a compiled DLL file and cannot be edited<split>C  | Choose the concept that is not related to ASP.NET security.
+A. Roles
+B. Credentials
+C, ViewState
+D. Anonymous<split>A  | What does the keyword "virtual" declare for a method?
+[A]
+The method can be overridden.
+[B]
+The method cannot be overridden.
+[C]
+The method cannot be inherited.
+[D]
+The method cannot be accessible.<split>B  | What is name of tempplates that warp a block of selected statements within a relevant scope?
+A.Snippets
+B.Surround with
+C.COnsole Application
+D.Class library<split>A  | Suppose we have multi-file assembly as follows: lib.dll,part1.netmodule,part2.netmodule,part3.netmodule.
+Which file is the manifest information located in?
+A. In lib.dll
+B.In part1.netmodule
+C. Inpart3.netmodule
+D. Each file contain a piece of manifest information<split>A  | Read-only fields allow you to establisht a point of data whose value is not known at ____ but that should never change once estabished
+A.Compile time
+B.Run - time
+C. Debug-time
+D.None of the others<split>A  | What is sequence of tasks to CLR excute an assembly?
+1. Lays out the type in memory
+2. Performs any nesessary security checks
+3.Resolves the location of an assembly and finds the requested type .
+4. Compliles the associated CIL into platform-specific instructuions
+5. Executes the code
+A. 3,1,4,2,5
+B . 1,2,3,4,5
+C . 2,3,4,5,1
+D .4,3,2,1,5<split>?!  | Which of the following is the correct way to call subroutine MyFun() of the Sample class given below?
+Class Sample
+{
+public void MyFun(int i,int j)
+{
+console.WriteLIne("Welcome to FU");
+}
+}
+A. delegate void del(int i); Sample s=new Sample(); del d= new del(s.MyFun); d(10,1);
+B. delegate void del(int i,int j); del d; Sample s=new Sample(); d=new del(s.MyFun); d(10,1);
+C.Sample s=new Sample(); delegate void d=new del(MyFUn); d(10,1)'
+D. delegate void del(int i, int j); Sample s =new Sample(); del=new delegate(MyFun); del(10,1);<split>D  | What is output of the following code?
+using SYstems;
+class program
+{
+delegate void DIsplay();
+static void Main()
+{
+Display d1=new Display(DisplayHello);
+d1();
+}
+void DisplayHello()
+{
+console.WriteLine("Hello");
+}
+}
+A . Hello
+B . Complie error at line : delegate void Display();
+C. Complie error at line: d1();
+D. Compile error at line : Display d1 = new Display(DIsplayHello);<split>B  | Which collection in System.Collection.Generic can be described as 'last-in-first-out'?
+A . Queue
+B. Stack
+C . List<split>C  | A program in .Net is first compiled by the language specific compiler into..
+A. common language
+B. tuntime language
+C. Intermediate language
+D. Visual basic<split>A  | Which sentences are correct ?
+A. A form is a class
+B . A form is not a control
+C. A form is only used to present information to the user
+D. A form is only used to receive information from the user<split>A  | What is defalut accessiblity for the structures in c#?
+A. Internal
+B. Public
+C. Private
+D. Protected<split>A  | Which sentence about MemoryStream is correct?
+A. MemotyStream procides random access to streamed data stored in memory rather than a physical file.
+B. MemoryStream allows foe random file access woth dât represented á a stream ò bytes
+C. MemoryStream provides temporaty stoage foe a stream of bytes that may be committed to storage at a later time
+D. MemoryStream is user to store textual information to a file<split>A  | In the .Net framwork , an assembly is a __ code libraty for use in deployment, versioning and security .There are two types of assemblies : process assemblies(EXE) and library assemblies (DLL)
+A. compiled
+B. Interpreted
+C. Tranlated
+D. None of the others<split>B  | Where do we ca change default namespace of a project
+A. The project's Property window
+B> The solution Explorer untility
+C. The code definitition window
+D. The object brower utility<split>A  | Where acan you change "Default Namespace" of visual studio?
+A. The Application tab of the project's properties window
+B. The built tab of the project's properties window
+C. The debug tab of the project's Properties window
+D> the resources tab of the project's properties window<split>A  | Which sentences are correct?
+A .A form is a class
+B. A form is not a control
+C. A form is only userd to resent information to ther user
+D. A form is only used to receive information form the user<split>A  | int[] myArray = new int[10] ; What will be the value of myArray[1]?
+A .0
+B. Null
+C. 10
+D. A null reference exception would be thrown unless mtArray[1] is first initialized to a value<split>c  | Which of the following keywords is used to extend or modify the abstract or virtual implementation of an inherited method, property, or event?
+a.sealed
+b.virtual
+c.override
+d.abstract<split>C  | What are the benefits of the Design Pattern?
+a.Reusing design patterns helps to prevent subtle issues that can cause major problems
+b.Improves code readability for coders and architects familiar with the patterns
+c.All of the others
+d.Design patterns can speed up the development process by providing tested, proven development paradigms<split>d  | Which of the following statements related to Constraints on Type Parameters in Generic is True?
+a.Without any constraints, the type argument could be default is an integer type
+b.Constraints are specified by using the new contextual keyword
+c.All of the others
+d.Constraints inform the compiler about the capabilities a type argument must have<split>A  | Which of the following statements is not true about C#?
+A. Pointer has completely removed in C#
+B. Automatic memory management through garbage collection
+C. Full support for interface-based programming techniques
+D. Support pass parameters by ref and out keyword<split>c  | For the following statements related to ThreadPool:
+Statement 1. The thread pool manages threads efficiently by minimizing the number of threads that must be created, started, and stopped.
+Statement 2. By using the thread pool, we can focus on your business problem rather than the application's threading infrastructure.
+Choose the correct answer :
+
+a.
+Statement 1 is False and 2 is True
+b.
+Statement 1 and 2 are False
+c.
+Statement 1 and 2 are True
+d.
+Statement 1 is True and 2 is False<split>d  | Which of the following entry points of the application does not the C# compiler accept?
+a.public static void Main(int[] agrs)
+b.public static int Main()
+c.public static int Main(string [] Arguments)
+d.public static void Main(string[] Arguments)<split>c  | Which statement is incorrect about C# language?
+a.C# fully supports interface-based programming techniques
+b.C# fully supports aspect-oriented programming techniques
+c.There is no pointer required in C#
+d.C# does support Automatic memory management through the delete keyword<split>d  | Which of the following is the benefit of Concurrency?
+a.Deadlock: It occurs when two processes are blocked and hence neither can proceed to execute
+b.None of the others
+c.Starvation: It occurs when a process does not obtain service to progress
+d.Running of multiple applications: It enables to run of multiple applications at the same time<split>c  | Which of the following keywords is used to override (hidden) an existing method (must not virtual method) of the base class?
+a.override
+b.hidden
+c.new
+d.virtual<split>c  | Choose the correct statement related to events in C#.
+a.An event is a notification sent by an object to signal the occurrence of an action. Events in .NET follow the singleton design pattern
+b.None of the others
+c.An event is a user-generated or system-generated action
+d.The events allow an object (source of the event) be able to notify other objects (subscribers) when the event was destroyed<split>b  | In Visual Studio, which utility is used to show all files in the project and to remove a project out of in the solution?
+a.Object Viewer
+b.Solution Viewer
+c.Class Viewer
+d.Code Viewer<split>a  | Choose the correct statement about .NET Framework.
+a.It was developed to run on the Windows platform only
+b.It used to develop two application types: ASP.NET Web Forms and WinForms applications
+c.It is open source
+d.None of the others<split>d  | Which of the following statements related to .NET Solution is True?
+1. Full interoperability with existing code
+2. Complete and total language integration
+3. A common runtime engine shared by all. NET-aware languages
+
+a.
+1 and 2
+b.
+2 and 3
+c.
+1 and 3
+d.
+1, 2 and 3<split>a  | Which of the following is one of the Gang of Four (GoF) patterns categories?
+a.All of the others
+b.Creational
+c.Structural
+d.Behavioral<split>d  | Which of the following is one of the Structural Design Patterns?
+a.Singleton
+b.All of the others
+c.Abstract Factory
+d.Decorator<split>a  | Which of the following statements related to the Generic Method is True?
+a.A method declared with the type parameters for its return type or parameters is called a generic method
+b.Generic methods can not be defined within non-generic classes
+c.Generic methods can only be used to static methods
+d.None of the others<split>d  | Which information is correct about the reference types?
+a.Can be quickly removed from memory once they fall out of the defining scope
+b.Allocated on the managed data
+c.Allocated on the stack
+d.Allocated on the managed heap<split>a  | Which of the following statements about the class is TRUE?
+a.A class have multiple instances (objects) in memory
+b.None of the others
+c.An object of a class can be created without a new keyword
+d.A class is a definition for a client-defined type (CDT)<split>a  | Which of the following keywords meaning access is limited in the same assembly but not outside the assembly?
+a.internal
+b.private
+c.public
+d.protected internal<split>a  | Which is a definition of a static method?
+a.public static void MethodA()
+b.public void MethodA()
+c.public static MethodA()
+d.private static MethodA()<split>c  | Which of the following is one of the Creational Design Patterns?
+a.Adapter
+b.All of the others
+c.Singleton
+d.Decorator<split>a  | Choose the correct statement related to Generics in C#.
+a.Generic means the general form, not specifiC. In C#, generic means not specific to a particular data type
+b.A type parameter is a placeholder for a particular type specified when creating an instance of the generic type
+c.Generic can be used with classes, interfaces, fields, methods, properties, and delegates using the out parameter
+d.None of the others<split>c  | Choose the correct statement related to using collections.
+a.None of the others
+b.Using collections involves a significant performance overhead in the form of access to elements
+c.A primary limitation of collections is the absence of effective type checking
+d.The implicit and explicit type casting in the collections help to gain the high performance<split>b  | Which of the following is one of the Behavioral Design Patterns?
+a.Facade
+b.Chain of responsibility
+c.Bridge
+d.Abstract Factory<split>b  | Choose the correct statement related to Design Patterns is True?
+a.A design pattern is a description or template for how to implement an algorithm that can be used in many different applications
+b.A design pattern provides a general reusable solution for the common problems that occur in software design
+c.A design pattern is a finished design that can be transformed directly into code C# or Java
+d.None of the others<split>d  | Which of the following statement is one of the core components of the .NET Framework integral to any application or service development?
+a.Microsoft Intermediate Language (MSIL)
+b.None of the others
+c.Custom Assemblies
+d..NET Framework Class Library (FCL)<split>a  | Choose the correct statement related to Concurrency in Operating System
+a.All of the others
+b.Concurrency is the execution of the multiple instruction sequences at the same time
+c.The running process threads always communicate with each other through shared memory or message passing
+d.Concurrency happens in the operating system when several process threads are running in parallel<split>a  | Which of the following statements related to the characteristics of the delegate type is True?
+Statement 1: Invoke to methods that have the same signature.
+Statement 2: Can be used as the parameters of any method.
+Statement 3: Can be used to invoke methods via synchronous model by BeginInvoke() method.
+
+a.Statement 1 and 2
+b.Statement 1, 2 and 3
+c.Statement 2 and 3
+d.Statement 1 and 3<split>b  | Which of the following statement is one of the components in .NET (.NET Core) Architecture?
+a.None of the others
+b.Common Language Specification (CLS)
+c.Class Libraries and Web Services
+d.User Class Library<split>d  | Which of the following statements related to the ThreadPool is True?
+a.Once thread pool threads finish executing their tasks, they will be killed
+b.None of the others
+c.The thread pool manages threads efficiently by minimizing the number of threads that must be killed
+d.A thread pool is a pool of worker threads that have already been created and are available for apps to use as needed<split>b  | U06-Q007 Which the following query operators can use to calculate the sum of the elements in the expression?
+a.All of the others
+b.Sum
+c.SumWhile
+d.SumAll<split>b  | Choose the incorrect statement about the delegate.
+a.Delegates are used to invoke methods that have the same signatures
+b.A delegate cannot use with event
+c.Delegates are type-safe
+d.Delegates are of reference types<split>a  | The ways to identify an event are:
+1. First, define a delegate that contains the methods to be called when the event is fired. Next, declare the events (using the C# event keyword) in terms of the related delegate.
+2. First, declare the events (using the C# event keyword) in terms of the related delegate. Next, define a delegate that contains the methods to be called when the event is fired.
+
+a.1 is True
+b.1 and 2 are True
+c.1 and 2 are False
+d.2 is True<split>d  | U06-Q008 Choose the correct statement related to Query Expressions
+a.None of the others
+b.A from clause must be used to start a lambda expression and a sum or count clause must be used to end the query expression
+c.A query expression consists of a set of clauses written in a declarative syntax similar to SQL Server or XPathQuery
+d.A query expression is a query expressed in query syntax<split>a  | U01-Q001 Which of the following performs functions such as memory management, error handling, and garbage collection?
+a.Core Common Language Runtime (Core CLR)
+b.Common Type System (CTS)
+c.Microsoft Intermediate Language (MSIL)
+d.Common Language Specification (CLS)<split>c  | Which the following are important pieces of information of a delegate type?
+1. The name of the method on which it makes calls
+2. The arguments (if any) of this method
+3. The return value (if any) of this method
+
+a.1 and 2
+b.1 and 3
+c.1, 2 and 3
+d.2 and 3<split>c  | Which of the following statements related to Generic Class is True?
+a.None of the others
+b.Generic classes are defined using a type parameter in parentheses after the class name
+c.Generic classes encapsulate operations that are not specific to a particular data type
+d.When creating generic classes, important considerations include: class type to generalize into type parameters<split>d  | What is the benefit of Generics?
+a.All of the others
+b.Can be reusable with different types but can not accept values of a single type at a time
+c.Allow safely upgrading the code with casting or boxing
+d.Ensure type-safety at compile-time (ensure strongly-typed programming model)<split>c  | Choose the correct statement related to the Design Pattern?
+a.None of the others
+b.Design patterns provide specific solutions, documented in a format that require specifics tied to a particular problem
+c.Patterns allow developers to communicate using well-known, well-understood names for software interactions
+d.Increased software development costs, because problems arise, are not known<split>b  | Choose the correct statement related to Lambda Expressions
+a.The '-&gt;' is the lambda operator which is used in all lambda expressions
+b.Lambda expressions in C# are used like anonymous functions
+c.All of the others
+d.With Lambda expressions we need to specify the type of the value that we input thus making it more flexible to use<split>d  | Choose the correct statement of Singleton Pattern?
+a.Responsible for creating and maintaining many instances at the same time
+b.None of the others
+c.The single instance is a public static attribute. The accessor function is a private static method
+d.Defines an Instance operation that lets clients access its unique instance. The instance is a class operation<split>c  | In Visual Studio, which utility is used to view: namespaces, classes, methods of the assemblies?
+a.Solution Viewer
+b.Class Viewer
+c.Object Browser
+d.Code Browser<split>d  | To read a line from the command line window (console window), which of the following statements should be used?
+a.System.Read.ReadLine();
+b.System.ReadLine();
+c.System.Console.WriteLine();
+d.System.Console.ReadLine();<split>a  | Which of the following statements related to Static Constructor is True?
+a.The Static Constructor executes exactly one time, regardless of how many objects of the type are created
+b.The Static Constructors can be used to initialize the value for members in the level object.
+c.The Static Constructor executes after any instance-level constructors
+d.All of the others<split>b  | For the following statements related to Thread:
+Statement 1. Foreground threads can prevent the current application from terminating. The Core CLR will not shut down an application until all foreground threads have ended.
+Statement 2. Background threads are viewed by the Core CLR as expendable paths of execution that can be ignored at any point in time.
+Choose the correct answer :
+
+a.Statement 1 is False and 2 is True
+b.Statement 1 and 2 are True
+c.Statement 1 is True and 2 is False
+d.Statement 1 and 2 are False<split>a  | The first character of an identifier (variable) can not be:
+a.A digit
+b.An uppercase letter
+c.An underscore character
+d.A lowercase letter<split>d  | For steps are used to create a Thread as the following:
+Step 1. Create a type method to be the entry point for the new thread.
+Step 2. Create a Thread object, passing the ParameterizedThreadStart/ThreadStart delegate as a constructor argument.
+Step 3. Create a new ParameterizedThreadStart (ThreadStart) delegate, passing the address of the method defined in step 1 to the constructor.
+Step 4. Establish any initial thread characteristics (name, priority, etc.)
+Step 5. Call the Thread.Start() method. This starts and creates the thread at the method referenced by the delegate created in Step 2 as soon as possible.
+
+Choosing the correct order of steps.
+
+a.
+1 -> 5 -> 3 -> 2-> 4
+b.
+1 -> 2 -> 3 -> 5 ->4
+c.
+1 -> 4 -> 5 -> 2 ->3
+d.
+1 -> 3 -> 2 -> 4 ->5<split>b  | Choose the correct statement related to the Namespaces in C#?
+a.It helps to control the scope of methods and variables in larger .Net programming projects
+b.It is used to organize the classes
+c.All of the others
+d.The members of a namespace can be interfaces, structures, and delegates but not namespaces<split>c  | Which of the following is the Issue of Concurrency?
+a.Average response time: Without concurrency, each application has to be run to completion before the next one can be run
+b.None of the others
+c.Blocking: Processes can block waiting for resources. A process could be blocked for a long period waiting for input from a terminal
+d.Resource utilization: It enables that the resources that are unused by one application can be used for other applications<split>d  | Which is keyword meaning access is limited to the current assembly or types derived from the defining class in the current assembly?
+a.public
+b.private
+c.internal
+d.protected internal<split>b  | Which of the following is one of the features of ASP.NET Core?
+a.A system that is set to work on cloud
+b.All of the others
+c.Streamlined Web development
+d.Good community base<split>b  | Which of the following is one of the new features of Entity Framework Core?
+a.On mobile devices, EF Core supports only access to the local database such as SQL Server Database
+b.Entity Framework Core runs not only on Windows, Linux, and macOS but also on mobile devices running Windows 10, iOS, and Android
+c.None of the others
+d.Entity Framework Core have slowly execution speeds and especially when reading data exceed 1.000 records<split>a  | Which of the following statements related to the limitations of ASP.NET is True?
+a.All of the others
+b.ASP.NET lack of testability, a complex stateful model, and limited influence over the generated HTML led developers to evaluate other options
+c.ASP.NET Web Form suffered from many issues, especially when building larger applications
+d.Auto-generated HTML does not provide full control to the developers<split>c  | Which of the following methods of the SqlCommand object is used to add a new record into the SQL Server database?
+a.ExecuteUpdate
+b.UpdateNonQuery
+c.ExecuteNonQuery
+d.ExecuteQuery<split>b  | Which of the following statements correctly describes the "FileInfo.CreateText ()" method?
+a.Return a StreamReader to open and read file from the stream
+b.Creates a StreamWriter that writes a new text file
+c.Creates a StreamWriter that appends text to the file
+d.Creates a StreamWriter that writes a new binary file<split>c  | Which of the following allows to store primitive data types (Integers, Booleans, Strings,..) as a binary value?
+a.BinaryReader
+b.FileWriter
+c.BinaryWriter
+d.FileReader<split>c  | Which property of ComboBox is used to specify the string displayed in the editing field?
+a.SelectedIndex
+b.SelectedValue
+c.Text
+d.SelectedItem<split>d  | Which of the following statements related to ASP.NET Web API is True?
+a.Calls to a Web API service are based on the core HTTP Verbs (Read, Update, Add and Remove) through a URI (Uniform Resource Identifier)
+b.ASP.NET Web API is based on the MVVM(Mode View-View Model) framework with optimizations for creating headless services
+c.None of the others
+d.ASP.NET Web API from the beginning was designed to be a service-based framework for building RESTful services<split>c  | Which of the following methods is used to show a form as a non-modal?
+a.DialogForm
+b.ShowDialog
+c.Show
+d.ShowForm<split>b  | Which of the following statements related to Object-Relational Mapper is True?
+a.Working with objects as instances of classes in memory is at the core of object-oriented programming (OOP)
+b.All of the others
+c.In the database world, relational databases are prevalent and the programming world is all about objects
+d.To make the handling of relational databases more natural in object-oriented systems, the software industry has been relying on object-relational mappers<split>d  | Which of the following methods of the SqlDataAdapter object is used to fill data into DataSet from the database?
+a.PushData
+b.FillData
+c.GetData
+d.Fill<split>d  | For the database named SaleDB has a table named Items ( ItemID int PRIMARY KEY, ItemName varchar(50) , Quantity int )
+Three records had been inserted in Items table are :
+{1, 'Chocolade', 5} , {2, 'Pavlova', 25}, {3, 'Coffee', 20}
+For the program as the following :
+using System.Data;
+using Microsoft.Data.SqlClient;
+class Program {
+static void Main(string[] args){
+string strConnection =
+@"server =(local);database=SaleDB;uid=sa;pwd=123";
+string SQL = "select * from Items where ItemID=@ID";
+SqlConnection cnn = new SqlConnection(strConnection);
+SqlCommand cmd = new SqlCommand(SQL, cnn);
+cmd.Parameters.Add("@ID", SqlDbType.Int).Value = 2;
+SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+DataTable table = new DataTable();
+adapter.Fill(table);
+DataTableReader reader = table.CreateDataReader();
+reader.Read();
+Console.WriteLine("{0}",reader.GetValue(2));
+}
+}
+The output will be :
+a.5
+b.An exception will be thrown
+c.20
+d.25<split>d  | Which of the following packages used to connect to MS SQL Server Database by Entity Framework Core?
+a.Microsoft.EntityFrameworkCore.Sqlite
+b.Oracle.ManagedDataAccess.Core
+c.MySQL.Data.EntityFrameworkCore
+d.Microsoft.EntityFrameworkCore.SqlServer<split>d  | For the database named SaleDB has a table named Items ( ItemID int PRIMARY KEY, ItemName varchar(50) , Quantity int )
+Three records had been inputted in Items table are :
+{1, 'Chocolade', 10} , {2, 'Pavlova', 20}, {3, 'Coffee', 15}
+For the program as the following :
+using System.Data;
+using Microsoft.Data.SqlClient;
+class Program {
+static void Main(string[] args){
+string strConnection =
+@"server =(local);database=SaleDB;uid=sa;pwd=123";
+string SQL = "select * from Items";
+SqlConnection cnn = new SqlConnection(strConnection);
+SqlCommand cmd = new SqlCommand(SQL, cnn);
+SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+DataTable table = new DataTable();
+adapter.Fill(table);
+for (int i = 0; i <table.Rows.Count -1;i++) {
+Console.Write(table.Rows[i][1] + " ");
+}
+}
+}
+The output will be :
+a.1 2
+b.10 20
+c.Chocolade Coffee
+d.Chocolade Pavlova<split>d  | Which event should be used to detect whenever the text in a TextBox or RichTextBox changes?
+a.KeyUp
+b.KeyDown
+c.Click
+d.TextChanged<split>a  | Which of the following statements related to routing in ASP.NET Core is True?
+a.The Routing is the process by which ASP.NET Core inspects the incoming URLs and maps them to Controller Actions
+b.The Routing is the process of URLs handled by the middleware server
+c.The main responsibility of Routing: generate outgoing URLs that correspond to the view model
+d.None of the others<split>d  | Which of the following consisted of a REST request generally?
+a.RequestHeader: This element of the REST request allows the client to get more information about the request object
+b.URLAction: The virtual path to the resource that the REST request wants to operate on
+c.None of the others
+d.HTTP verb: This denotes what kind of operation the requests want to perform on the server<split>c  | Choose the correct statement related to the File in .NET?
+a.A memory location that has not a name
+b.Each file starts with a marking-end-character
+c.A file is a collection of bytes stored on a secondary storage device, which is generally a disk of some kind
+d.All of the others<split>b  | Which of the following statements related to Web Service is True?
+a.Web services can also mean Simple Object Access Protocol (SOAP) services that implement some of the WS-* standards
+b.All of the others
+c.Web services are services that use the HTTP communication standard
+d.Web services are sometimes called HTTP or RESTful services<split>c  | Which of the following provides temporary storage for a stream of bytes that may be committed to storage at a later time?
+a.BufferedReader
+b.BinaryReader
+c.BufferedStream
+d.FileReader<split>d  | Which of the following is one of the process models for Entity Framework Core?
+a.Forward of existing databases
+b.None of the others
+c.Databases engineering
+d.Reverse engineering of existing databases<split>c  | 1.For the database named SaleDB has a table named Items ( ItemID int PRIMARY KEY, ItemName varchar(50) , Price int )
+Three records had been inserted in Items table are :
+{1, N'Cake', 5} , {2, N'Milk', 10}, {3, N'Coffee', 15}
+
+In this database included a store procedure is :
+CREATE PROC spGetPriceByItemID( @ID int, @UnitPrice int output)
+as
+select @UnitPrice = Price from Items
+where ItemID = @ID
+
+2.For the program as the following :
+using System.Data;
+using Microsoft.Data.SqlClient;
+class Program {
+static void Main(string[] args){
+int s = 0;
+string strConnection =
+@"server =(local);database=SaleDB;uid=sa;pwd=123";
+string SQL = "spGetPriceByItemID";
+SqlConnection cnn = new SqlConnection(strConnection);
+SqlCommand cmd = new SqlCommand(SQL, cnn);
+cmd.Parameters.Add("@ID", SqlDbType.Int).Value = 3;
+cmd.Parameters.Add("@UnitPrice", SqlDbType.Int);
+cmd.Parameters["@UnitPrice"].Direction =
+ParameterDirection.Output;
+cmd.CommandType = CommandType.StoredProcedure;
+cnn.Open();
+cmd.ExecuteNonQuery();
+s = (int)cmd.Parameters["@UnitPrice"].Value;
+Console.WriteLine("{0}",s);
+cnn.Close();
+}
+}
+The output will be :
+a.5
+b.10
+c.15
+d.An exception will be thrown<split>a  | What is the data representation in ADO.NET's memory?
+a.Dataset
+b.Database
+c.Datatable
+d.Recordset<split>c  | Which of the following statements related to Entity Framework Core (EF Core) is True?
+a.Entity Framework Core supports only database provider to access to MS SQL Server
+b.EF Core allows interaction with data from relational databases using a database model that maps directly to the business objects in the application
+c.EF Core is a lightweight, extensible, open-source, and cross-platform version of the popular Entity Framework data access technology
+d.None of the others<split>a  | Which of the following properties were provided by the ControllerBase Class?
+a.HttpContext
+b.NotFound
+c.Routing
+d.NoContent<split>a  | Which states of the CheckedListBox object supports through the CheckState enumeration?
+a.Checked and Unchecked
+b.True and False
+c.Selected and UnSelected
+d.0 and 1<split>d  | The StreamWriter and StreamReader classes are useful whenever you need to read or write data as:
+a.Integer data
+b.Array data
+c.Binary data
+d.Character-based data<split>c  | Which of the following commands in EF Core global tool can be used to create object models from an existing database schema?
+a.Migrations scaffold
+b.Database scaffold
+c.DbContext scaffold
+d.Dotnet scaffold<split>c  | Which of the following statements related to Client-Server Architecture is True?
+a.That is the type of architecture that has two client computers connected to a central server over a network or internet connection
+b.Client-server architecture is also known as a computing model or network model because all the requests and services are delivered over computers
+c.That is is a computing model in which the server hosts, delivers, and manages most of the resources and services to be consumed by the client
+d.None of the others<split>c  | Which of the following web servers support for ASP.NET Core application?
+a.Tomcat
+b.Local computer
+c.Internet Information Services (IIS)
+d.ReactJS<split>

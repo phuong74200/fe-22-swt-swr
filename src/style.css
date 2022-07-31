@@ -47,6 +47,10 @@ input {
     color: blue;
 }
 
+.sub.prn {
+    color: green;
+}
+
 .ReactVirtualized__Grid__innerScrollContainer {
     overflow: visible !important;
 }
