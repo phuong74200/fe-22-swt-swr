@@ -29,7 +29,7 @@ const Example = () => {
 
         Promise.all([$swt2]).then(([swt2]) => {
             const _swt2 = swt2.split('<split>').map((text) => ({
-                code: 'prn',
+                code: 'ite',
                 text: text
             }))
             const list = _swt2;
@@ -65,7 +65,7 @@ const Example = () => {
                     <>
                         <div>
                             <span className=
-                                {`sub ${filter[index].code}`}>{filter[index].code}
+                                {`sub swt ${filter[index].code}`}>{filter[index].code}
                             </span> <span>{filter[index].text}</span>
                         </div>
                     </>
