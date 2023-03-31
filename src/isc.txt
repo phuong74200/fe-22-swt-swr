@@ -1,0 +1,1662 @@
+c | QN=1 Dell's cornerstone business model is based on the concept of:
+a. rapid business growth and threatening competitors
+b. selling directly to small and medium sized businesses
+c. build-to-order which allows customers to configure their own customized systems
+d. e-collaboration with a few select business partners<split>b | QN=2 ______ refers to the buying and selling of goods and services; servicing of
+ customers; collaborating with business partners; and conducting electronic transactions within an organization.
+a. E-commerce
+b. E-business
+c. Pure EC
+d. Partial EC<split>a | QN=3 EC can take several forms depending on the degree of digitization of the following
+ three dimensions:
+a. the product or service sold, the process, and the delivery method
+b. the business process, the collaboration, and the transaction
+c. the payment method, the delivery method, and the production method
+d. the marketing channel, the agent, and the collaboration methods<split>b | QN=4 Purely physical companies are referred to as ____ companies, where as companies that are engaged only in EC are considered ______ companies.
+a. pure play; virtual
+b. brick-and-mortar; virtual
+c. click-and-mortar; click-and-brick
+d. virtual; pure play<split>d | QN=5 The ways in which EC is done include:
+a. the Internet and extranets
+b. the Internet and private networks
+c. the Internet, extranets, and private networks
+d. the Internet, value-added networks, on local area networks using intranets, or on a single computerized machine<split>b | QN=6 ______ are systems where only routine transaction processing and information flow take place between two or more organizations using a standard protocol, such as electronic data interchange (EDI).
+a. E-CRM
+b. Interorganizational information systems
+c. Intrabusiness EC
+d. 13213<split>d | QN=7 EC applications are supported by infrastructure and by each of the following support
+ areas EXCEPT:
+a. People
+b. Public policy
+c. Marketing and advertisement
+d. Mobile devices<split>a | QN=8 Intrabusiness EC is usually performed over intranets and/or .
+a. corporate portals
+b. mobile networks
+c. exchanges
+d. P2P networks<split>c | QN=9 A technology that is used to electronically transfer routine documents, such as
+ invoices and purchase orders, and for financial transactions is .
+a. Electronic funds transfer
+b. Exchange-to-exchange
+c. Electronic data interchange
+d. Peer-to-peer<split>c | QN=10 ________refers to the second-generation of Internet-based services that let people collaborate and share information online in new ways, such as social networks and wikis.
+a. Virtual Web
+b. Media Web
+c. Web 2.0
+d. Social Web<split>a | QN=11 Which of the following is not a characteristic of the Digital Revolution ?
+a. Many business processes are expedited by up to 50 percent.
+b. Intelligent search agents to help manage information overload.
+c. A high rate of obsolescence.
+d. Fraud and other cybercons carried out via the Internet.<split>a | QN=12 According to the Business Environment Impact Model, _____ provide support to organizations' activities and to actual performance, countering business pressures.
+a. EC and IT
+b. missions and strategies
+c. core competencies and critical response activities
+d. markets and government<split>b | QN=13 A _____ is a company's method of doing business to generate revenue to
+ sustain itself.
+a. marketing strategy
+b. business model
+c. value chain
+d. business plan<split>c | QN=14 According to the _____ revenue model, companies receive commissions for referring customers to others' EC Web sites.
+a. subscription fees
+b. advertising fees
+c. affiliate fees
+d. transaction fees<split>a | QN=15 According to the _____ revenue model, customers page a fixed amount, usually monthly, to receive some type of service.
+a. subscription fees
+b. advertising fees
+c. affiliate fees
+d. transaction fees<split>a | QN=16 Large private organizational buyers and government agencies make large-volume or large-value purchases through ______ , also known as reverse
+auctions.
+a. electronic tendering systems
+b. online direct marketing
+c. name-your-own-price models
+d. viral marketing<split>d | QN=17 According to the _______ model, an organization can increase brand awareness or even generate sales by Web-based word-of-mouth marketing or promoting a product or service to other people.
+a. electronic tendering systems
+b. online direct marketing
+c. name-your-own-price models
+d. viral marketing<split>b | QN=18 Online group purchasing organizations are known as:
+a. SMEs
+b. e-co-ops
+c. exchanges
+d. barters<split>d | QN=19 Major barriers to EC include all of the following EXCEPT:
+a. cost
+b. lack of potential customers
+c. implementation difficulties
+d. lack of technology<split>c | QN=20 Which of the following is a technological limitation of EC?
+a. Security and privacy concerns that deter customers from buying.
+b. Difficulty obtaining venture capital.
+c. Order fulfillment requirements of large-scale B2C.
+d. Unresolved taxation, public policy, and legal issues.<split>d | QN=19 A job opening in the Sales Department posted on the company's Intranet by the Human Resources Department is an example of:
+a. E2C
+b. B2S
+c. B2B
+d. B2E<split>a | QN=21 Boeing designing a product together with a business partner is this type of interaction:
+a. Collaborative Commerce
+b. Nonbusiness EC
+c. B2B2C
+d. B2B.<split>c | QN=22 The second-generation of Internet-based services that lets people collaborate and share information online is known as Web 2.0. An example of this is:
+a. mp3.com
+b. DoubleClick
+c. blogging
+d. Evite<split>b | QN=23 The digital enterprise shifts the focus from managing individual information resources such as devices, applications, and data to_____that define the business
+and ultimately deliver value to customers and end users.
+a. developing models
+b. orchestrating the services and workflows
+c. organizing supply chains
+d. transforming revenue models<split>d | QN=24 A corporation uses the Internal Revenue Service's Web site to learn how to pay its estimated quarterly income taxes. This is an example of:
+a. G2G
+b. G2B
+c. G2C
+d. E2E<split>a | QN=25 Many companies employ a(n) _____ , which is a gateway for customers, employees, and partners to reach corporate information and to communicate with the company.
+a. corporate portal
+b. intranet
+c. extranet
+d. social network<split>b | QN=26 Because the rate of change and the level of uncertainty are expected to accelerate, organizations are
+a. unable to react quickly enough to threats and opportunities.
+b. operating under increasing pressures to produce more products, faster, and with fewer resources.
+c. making fewer decisions and/or decisions less frequently.
+d. considering less information when making decisions.<split>b | QN=27 A large number of EC companies, especially e-tailing and B2B ones, failed from 1999 to 2005 for each of the following reasons EXCEPT:
+a. The companies lacked financial skills.
+b. The companies failed to register with search engines, such as Google.
+c. The companies failed to ensure they had sufficient inventory and a distribution setup to Meet initial demand.
+d. The companies had little marketing experience.<split>a | QN=28 Intrabusiness EC is usually performed over intranets and/or .
+a. corporate portals
+b. mobile networks
+c. exchanges
+d. P2P networks<split>a | QN=29 A business such as Apple Computers making online transactions with its trading partners is an example of:
+a. B2B
+b. B2C
+c. e-CRM
+d. EDI<split>d | QN=30 Challenges that Boeing faced with its global collaboration for the design and assembly process of its new Dreamliner passenger plane included each of the following EXCEPT:
+a. Data management
+b. Information security
+c. Teams working across various time zones
+d. Lag time<split>d | QN=31 Fundamentally, the success of the pure-play jewelry e-tailer Blue Nile was due to the company's use of Internet technologies to:
+a. go public
+b. provide quality ratings
+c. eliminate intermediaries
+d. offer lower prices than competitors<split>a | QN=32 Traditional and electronic markets have three main functions, which include each of the following EXCEPT:
+a. transforming raw materials into finished products.
+b. matching buyers and sellers.
+c. facilitating the exchange of information, goods, services, and payments associated with market transactions.
+d. providing an institutional infrastructure, such as a legal and regulatory framework that enables the efficient functioning of the market.<split>b | QN=33 Digital products have different cost curves than those of regular products because:
+a. in digitization, most of the costs are variable and fixed costs are low.
+b. in digitization, most of the costs are fixed, and variable costs are very low.
+c. in digitization, most of the costs are fixed, but variable costs are high.
+d. in digitization, all of the costs are variable.<split>a | QN=34 The portion of an e-seller's business processes through which customers interact, including the seller's portal, electronic catalogs, a shopping cart, a search engine, and a payment gateway is referred to as the of the business.
+a. front end
+b. back end
+c. infrastructure
+d. intermediary<split>d | QN=35 The major e-marketplaces are storefronts and Internet malls.
+a. B2B
+b. C2B
+c. B2B2C
+d. B2C<split>c | QN=36 An electronic storefront includes several mechanisms that are necessary for conducting the sale. The most common mechanisms include each of the following EXCEPT:
+a. an electronic catalog
+b. a search engine
+c. a supply chain
+d. a payment gateway<split>b | QN=37 All the activities that are related to order aggregation and fulfillment, inventory management, purchasing from suppliers, accounting and finance, insurance, payment processing, packaging, and delivery are done in what is termed the of the _____business.
+a. front end
+b. back end
+c. infrastructure
+d. intermediary<split>a | QN=38 _____are online markets owned and operated by a single company and may be either sell-side or buy-side.
+a. Private e-marketplaces
+b. Commercial portals
+c. E-malls
+d. 13213 marketplaces<split>c | QN=39 A(n) _____is a single point of access through a Web browser to help users find relevant and accurate business information and reduce information overload.
+a. intermediary
+b. search engine
+c. information portal
+d. browser<split>a | QN=40 Finding relevant and accurate information is often time-consuming and requires access to multiple systems causing organizations to lose a lot of productive employee time. One solution to this problem is the use of:
+a. portals.
+b. intermediaries.
+c. browsers.
+d. intranets.<split>c | QN=41 A type of broker that helps consumers compare different stores is a:
+a. virtual mall.
+b. search agent.
+c. shopping facilitator.
+d. metamediary.<split>d | QN=42 Human or electronic intermediaries attempt to address each of the following limitations of direct interaction EXCEPT:
+a. search costs.
+b. lack of privacy for those wanting to remain anonymous.
+c. contract risk.
+d. product distribution.<split>b | QN=43 The elimination of various types of agents that mediate between buyers and sellers, such as travel and insurance agents, is referred to as:
+a. remediation
+b. disintermediation
+c. e-distribution
+d. automation<split>a | QN=44 A mode is purchasing where prices are negotiated or discounted is, which refers to nonfixed prices, such as those in auctions or stock markets.
+a. dynamic pricing
+b. commodity pricing
+c. pre-shopping
+d. negotiation<split>b | QN=45 Although used occasionally in 132C commerce, customized catalogs are especially useful in 13213 e-commerce for each of the following reasons EXCEPT:
+a. e-catalogs can show only the items that the employees in a specific organization are allowed to purchase.
+b. Intranets, in particular, can deliver customized catalogs to different business customers.
+c. e-catalogs can show the buyer's ID number for the item, model, or SKU number rather than the seller's ID numbers.
+d. E-catalogs can be customized to show the same item to different customers at different prices, reflecting discounts or purchase-contract agreements.<split>a | QN=46 To be successful and useful, large e-catalogs need a(n) __________.
+a. search engine
+b. directory
+c. data mining technology
+d. enhanced viewing capability<split>c | QN=47 A_____has capabilities that can be used to perform routine tasks that require intelligence such as providing customers with assistance based on their movements on a Web site.
+a. search engine
+b. intelligent engine
+c. software agent
+d. software engine<split>c | QN=48 Popular search engines include all of the following EXCEPT:
+a. Google
+b. MSN
+c. AltaVista
+d. Lycos<split>c | QN=49 A(n)_____is an order-processing technology that allows customers to
+accumulate items they wish to buy while they continue to shop.
+a. intelligent agent
+b. e-fulfillment agent
+c. electronic shopping cart
+d. merchant server<split>a | QN=50 The most common and traditional form of auctions in which one seller entertains bids from many buyers is referred to as:
+a. forward auctions.
+b. reverse auctions.
+c. double auction.
+d. e-auctions.<split>b | QN=51 An auction in which there is one buyer and many potential sellers; or in which a buyer places an item for bid on an RFQ system and the lowest bid wins is referred to as all of
+ the following EXCEPT:
+a. reverse auctions.
+b. forward auctions.
+c. bidding system.
+d. tendering system.<split>d | QN=52 What is a benefit of e-auctions to sellers?
+a. Convenience since the bidding can occur anywhere and any time.
+b. High stickiness to the Web site.
+c. Anonymity.
+d. The optimal price is determined by the market.<split>c | QN=53 Organizations are embracing mobilized computing technologies for several reasons EXCEPT:
+a. It improves the productivity of workers in the field.
+b. Wireless telecom support for mobility is growing quickly.
+c. Wireless security problems have been solved with encryption.
+d. The prices of notebook computers, wireless handhelds, and smart phones continue to fall and the capabilities continue to increase.<split>b | QN=54 EC competition is very intense because online transactions enable each of the following EXCEPT:
+a. For buyer, e-markets reduce the cost of searching for product information; e.g., sellers, models,prices, frequently to zero.
+b. Higher prices because of a greater number of potential buyers.
+c. Setting up a Web site is relatively easy and inexpensive, and doing so reduces the need for a saforce and brick-and-mortar stores.
+d. Product or service differentiation and personalization.<split>a | QN=55 Which of the following statements about differentiation and personalization is not correct?
+a. Products must be differentiated for perfect competition.
+b. Consumers like differentiation and personalization and are frequently willing to pay more for them.
+c. Differentiation reduces the substitutability between products, benefiting sellers who use this strategy.
+d. Price cutting in differentiated markets does not impact market share very much.<split>d | QN=56 It can be said that competition between companies is being replaced by competition between .
+a. industries
+b. digital products and services
+c. differentiated products and services
+d. networks<split>b | QN=57 The Internet has influenced industry structures in each of the following ways EXCEPT:
+a. A flood of new entrants has come into many industries because of reduced barriers to entry.
+b. Increases differences among competitors whose offerings are kept proprietary.
+c. There has been a shift in bargaining and buyer power to end users.
+d. Industries are more efficient overall.<split>c | QN=58 Impacts of e-marketplaces on B2C direct marketing include all of the following EXCEPT:
+a. The existence of e-marketplaces has increased the promotion of products and services through direct marketing.
+ 
+b. The administrative work related to physical delivery, especially across international borders, can be reduced significantly, cutting the cycle time by more than 90 percent.
+c. Brand images for new companies have become more difficult to establish.
+d. EC enables customization of products and services, which is changing marketing and sales activities both in B2C and in B2B.<split>a | QN=59 One of the major benefits of e-markets is the improvement in supply chains with the creation of a(n) .
+a. hub-based chain
+b. customized chain
+c. support chain
+d. logistics chain<split>b | QN=60 provides customers with exactly what they want, when and where
+ they want it. Effective communication between the supply chain and the factory floor is needed to make it happen
+a. Virtual manufacturing
+b. Demand-driven manufacturing
+c. Build-to-order manufacturing
+d. Real-time manufacturing<split>a | QN=61 Which of the following is true of virtual banks?
+a. Virtual banks have no physical location.
+b. Virtual banks combine online and traditional branch banking services.
+c. Stringent regulations have eliminated fraud risk in virtual banks.
+d. Virtual banks have proven very successful and profitable.<split>b | QN=62 According to data from eMarketer, approximately shop online
+ and/or research offline-sales online
+a. two in five Internet users age 18 and over.
+b. three in four Internet users age 14 and over
+c. three in four Internet users age 25 and over
+d. two in five Internet users age 30 and over<split>a | A traditional brick-and-mortar store with a mature Web site uses a click- and mortar strategy to do all of the following EXCEPT:
+a. reduce refunds and exchanges.
+b. empower customers.
+c. leverage each channel's advantages for all customers.
+d. speak with one voice.<split>a | QN=64 All of the following categories have already been selling well online EXCEPT:
+a. new cars
+b. travel
+c. computer hardware and software
+d. pet supplies<split>a | QN=65 DeFreshFish has been in business for ten years selling custom fishing lures to local fishermen through its store in a shopping mall. The company's owners are considering opening a Web site and selling their products internationally. One new risk they will face in going from a brick-and-mortar strategy to a click-and-mortar strategy is:
+a. the risk associated with trying to comply with conflicting rules and regulations in many different locales.
+b. the risk that their products will not meet the needs of their target market.
+c. the risk that costs will erode their profit margin.
+d. the risks associated with shifting their cost structure from mostly fixed costs to mostly variable costs<split>c | QN=66 ....are those who are young and comfortable with technology.
+a. Leading edgers
+b. Time-starved customers
+c. New technologists
+d. Shopping avoiders<split>b | QN=67 The original click-and-mortar strategy used by Toys R Us failed, as did the original toy venture of Amazon.com. Afterwards, Toys R Us sold toys online through Amazon.com. This is an example of:
+a. disintermediation.
+b. an alliance of a pure-player with a traditional retailer.
+c. channel conflict.
+d. reintermediation.<split>d | QN=68 The TRUSTe seal is an example of:
+a. a business rating.
+b. an intermediary.
+c. a B2B exchange.
+d. a trustmark.<split>b | QN=69 Software tools that scout the Web for stores that sell similar items at low prices are called:
+a. Shopping portals.
+b. Shopbots.
+c. Shopping browsers.
+d. Intelligent search engines.<split>b | QN=70 are extremely busy customers willing to shop online in order to free up time.
+a. Leading edgers
+b. Time-starved customers
+c. New technologists
+d. Shopping avoiders<split>b | QN=71 Important trends in B2C EC include all of the following EXCEPT:
+a. many offline transactions are now heavily influenced by research conducted online.
+b. the Internet will influence approximately 25 percent of all retail sales by 2010.
+c. the use of cell phones to shop online is increasing rapidly.
+d. online advertising will increasingly use rich media.<split>c | QN=72 Sears marketing strategy would best be described as:
+a. a brick-and-mortar strategy.
+b. a shared service mall strategy.
+c. a click-and-mortar strategy.
+d. direct marketing from a manufacturer.<split>d | QN=73 Dell's strategy is best described as:
+a. a brick-and-mortar strategy.
+b. a shared service mall strategy.
+c. a click-and-mortar strategy.
+d. direct marketing from a manufacturer.<split>c | QN=74 Amazon.com experienced all of the following EXCEPT:
+a. Amazon.com maintained its position as the number one e-tailer in 2006.
+b. Amazon.com have trended upward, driven largely by product diversification and its international presence.
+c. The company's financial success has been assured.
+d. Despite increasing a sales and net profits, in percentage terms, Amazon has seen a drop in profitability in 2006, attributed to huge spending on further developing its technology infrastructure and its investment in the Amazon Prime discount shipping program.<split>c | QN=75 With all else being equal in the online environment, goods with any of the following
+ product characteristics are expected to facilitate greater online sales EXCEPT:
+a. High brand recognition.
+b. Digitized format.
+c. Relatively expensive items.
+d. Frequently purchased items.<split>a | QN=76 Marketing that takes place without the help of intermediaries is called:
+a. direct marketing.
+b. disintermediation
+c. pure-play e-tailing
+d. e-malls.<split>c | QN=77 In direct marketing:
+a. shipments are made directly from the seller to the customer.
+b. electronic distributors must be used.
+c. customers are contacted directly without the help of intermediaries.
+d. sales are made in malls only.<split>b | QN=78 An online seller of travel services that generates revenue by charging fees for its
+ services is an example of a(n):
+a. market maker.
+b. transaction broker.
+c. content disseminator.
+d. viral marketer.<split>d | QN=79 A marketer that uses e-mail to advertise to potential customers is called a:
+a. market maker.
+b. transaction broker.
+c. content disseminator.
+d. viral marketer.<split>a | QN=80 A company that creates and manages many-to-many markets is called a:
+a. market maker.
+b. transaction broker.
+c. content disseminator.
+d. viral marketer.<split>b | QN=81 In an e-market, Federal Express is an example of a(n):
+a. intermediary.
+b. service provider.
+c. content disseminator.
+d. viral marketer.<split>a | QN=82 All of the following are potential sources of revenue for online independent travel
+ agents EXCEPT:
+a. direct marketing revenues.
+b. transaction fees.
+c. subscription fees.
+d. advertising fees.<split>a | QN=83 Which of the following is true of virtual banks?
+a. Virtual banks have no physical location.
+ 
+b. Virtual banks combine online and traditional branch banking services.
+c. Stringent regulations have eliminated fraud risk in virtual banks.
+d. Virtual banks have proven very successful and profitable.<split>d | QN=84 are customers who are willing to shop online because they dislike
+ going to grocery stores.
+a. Leading edgers
+b. Time-starved customers
+c. New technologists
+d. Shopping avoiders<split>b | QN=85 All of the following are examples of interactive entertainment EXCEPT:
+a. Internet gaming.
+b. purchasing theatre tickets online.
+c. adult sites.
+d. fantasy sports games.<split>a | QN=86 are gateways to storefronts and e-malls.
+a. Shopping portals
+b. Shopbots
+c. Shopping browsers
+d. Intelligent search engines<split>c | QN=87 are sites that evaluate and verify the trustworthiness of e-tailers
+a. Shopping portals
+b. Shopbot sites
+c. Trust verification sites
+d. Business rating sites.<split>a | QN=88 Charles wants to buy a John Lennon lithograph over the Internet, but he is unwilling to pay for it until he inspects it to ascertain authenticity. The auction site through which he purchases the painting agrees to hold his money until he tells them to release it to the seller. This is an example of:
+a. an escrow service.
+ 
+b. a trustmark.
+c. a warranty.
+d. a verification.<split>d | QN=89 A software agent that surveys user's reading interests, then uses machine learning to
+ find new Web pages and news articles using neural-network-based collaborative filtering technology is called:
+a. an aggregator portal.
+b. a real-time agent.
+c. the sponsorship model.
+d. a learning agent.<split>a | QN=90 A traditional brick-and-mortar store with a mature Web site uses a click-and-mortar
+ strategy to do all of the following EXCEPT:
+a. reduce refunds and exchanges.
+b. empower customers.
+c. leverage each channel's advantages for all customers.
+d. speak with one voice.<split>c | QN=91 The single factor that will determine which intermediaries continue to exist and which
+ are replaced is:
+a. the ability of the intermediary to match up buyers and sellers
+b. the profitability of the intermediary
+c. the addition of value-added services by the intermediary
+d. the length of the relationship between the intermediary and its customers<split>a | QN=92 An e-tailer uses cookies to identify returning customers and to provide suggested products for purchase based on prior shopping behavior. This is an example of:
+a. personalization.
+b. channel cooperation.
+c. on-demand delivery.
+d. advertising supported model.<split>a | QN=93 According to the EC consumer behavior model, personal characteristics and
+ environmental characteristics are classified as:
+a. independent variables
+b. dependent variables
+c. intervening variables
+d. decision variables<split>b | QN=94 The major environmental variables influencing EC purchasing are:
+a. price, brand, frequency of purchase, and tangibility.
+b. social, cultural, community, regulatory, political, and legal.
+c. age, gender, ethnicity, education, and lifestyle.
+d. price, social, cultural, ethnicity, and lifestyle.<split>c | QN=95 Pricing, technical support, and logistics support are several of the
+ that can be controlled by EC vendors and sellers
+a. independent variables
+b. dependent variables
+c. intervening variables
+d. decision variables<split>b | QN=96 Because online buyer's decisions depend on numerous independent and intervening variables, decisions made by customers are classified as:
+a. independent variables
+b. dependent variables
+c. intervening variables<split>a | QN=97 Banner advertising on Web sites helps trigger a realization that there is a gap between reality and a desired state, which occurs in the stage of the EC purchase
+ decision-making process.
+a. need identification
+b. information search
+c. evaluation, negotiation, and selection
+d. purchase, payment, and deli<split>b | QN=98 Marketing and advertising approaches has evolved from mass marketing to market segmentation to one-to-one marketing. This evolution occurred because:
+a. the marketing focus shifted from customers to products.
+b. the Internet enabled companies to better communicate with customers and understand their needs and buying habits.
+c. companies sought to decrease the number of marketing campaigns.
+d. concerns about privacy had diminished.<split>d | QN=99 The core of the "new marketing model" consists of:
+a. four P's—product, place, price, and promotion.
+b. customer profiles.
+c. online marketing channels.
+d. customer relationships.<split>a | QN=100 Personalization and user profiling strategies include each of the following EXCEPT:
+a. Segmenting the market based on demographics.
+b. Using questionnaires to collect information directly from the user.
+c. Placing cookies on a user's hard drive to collect information with or without the user's knowledge.
+d. Building from previous purchases or purchase patterns.<split>c | QN=101 The two key factors limiting the use of personalization to more precisely target marketing efforts to individual customers are:
+a. matching profiles with product offerings and delivering those offerings.
+b. communication costs and filtering costs.
+c. privacy and trust issues.
+d. lack of customer loyalty and service customization costs.<split>b | QN=102 The term refers to the number of times users call up a page that has a banner on
+ it during a specific period
+a. conversion rate
+b. ad view
+c. click through
+d. unique visit<split>d | QN=103 By increasing customer loyalty, EC companies can achieve each of the following benefits EXCEPT:
+a. lower marketing and advertising costs.
+b. lower warranty claims costs.
+c. lower transaction costs.
+d. lower resistance to competitors.<split>a | QN=104 What has been the impact of the introduction of EC on customer loyalty in general?
+a. Loyalty has decreased because of customers' ability to shop, compare, and shift vendors.
+b. Loyalty has increased because of targeted relationship marketing.
+c. There has been little change in loyalty because the impacts have cancelled each other out.
+d. It is not known whether loyalty has increased or decreased.<split>c | QN=105 According to research, customer satisfaction with an Internet store:
+a. cannot be predicted.
+b. depend on two types of factors: information quality and customer service quality.
+c. drops dramatically when certain Web site features fail to perform properly, such as the content's reliability, loading speed, or usefulness.
+d. is higher for new customers than former customers.<split>b | QN=106 The Internet introduced the concept of , which has enabled marketers and
+ advertisers to interact or communicate directly with customers and consumers can interact with marketers/advertisers
+a. direct marketing
+b. interactive marketing
+c. one-to-one marketing
+d. advertising channel<split>a | QN=107 Issues related to trust in EC include all of the following EXCEPT:
+a. As a result of trust-transference programs through portal affiliation, seal of approval programs, online shopping communities, and customer endorsements, customers are fully confident in online purchasing transactions.
+b. When parties trust each other, they have confidence that transaction partners will keep their promises. However, both parties in the transaction assume some risk.
+c. Trust is particularly important in global EC transactions due to the difficulty of taking legal action in cases of a dispute or fraud.
+d. If people do not trust the security of the EC infrastructure, they will not feel
+ 
+ comfortable about using credit cards to make EC purchases.<split>a | QN=108 is an advertising strategy that uses word-of-mouth marketing in which
+ customers promote a product or service by telling others about it
+a. viral marketing
+b. affiliate marketing
+c. ad customizing
+d. ads as a commodity<split>c | QN=109 All of the following are correct about market research methods EXCEPT:
+a. It is important first to understand how groups of consumers are classified or segmented.
+b. Markets can be segmented to increase the percentage of responses and to formulate effective marketing strategies that appeal to specific consumer groups.
+c. Direct mail marketing methods are usually cost-effective.
+d. Market segmentation is done with the aid of tools such as data modeling and data warehousing.<split>c | QN=110 Social class, lifestyle, personality, and activities are descriptors used in
+ market segmentation.
+a. geographic
+b. demographic
+c. psychographic
+d. cognitive, affective, behavioral<split>c | QN=111 Advertising in chat rooms, blogs, or social networks can achieve each of the following EXCEPT:
+a. advertising can become more thematic than on static Web sites.
+b. they improve a company's search engine ranking
+c. they can be used as one-to-one connections between a company and its customers
+d. advertising can be easily targeted to customer interests<split>d | QN=112 To avoid getting false information from participants of online surveys, marketers learn about customers by observing their behavior using each of the following EXCEPT:
+a. Transaction logs that record user activities at a company's Web site.
+ 
+b. Cookies that allow a Web site to store data on the user's PC.
+c. Spyware that gathers user information through an Internet connection without the user's knowledge.
+d. Data mining to analyze clickstream data.<split>a | QN=113 According to Inmon, B2C clickstream data can reveal information each of the following EXCEPT:
+a. What goods the customer wanted to but could not find.
+b. What goods the customer examined but did not purchase.
+c. Which ads and promotions were effective and which were not.
+d. Whether there are too many products for the customer to wade through.<split>b | QN=114 Web analytics and mining tools and services:
+a. simply report which pages were clicked and how long a visitor stayed there.
+b. offer advanced functions that help marketers decide which products to promote, and merchandisers achieve a better understanding of the nature of demand.
+c. are used to redesign Web sites quickly and on the fly.
+d. provide most companies with knowledge about how to use clickstream data effectively.<split>c | QN=115 Once a company knows a consumer's preferences, the company can predict, without asking the consumer directly, what other products or services that consumer might enjoy through .
+a. active web bugs
+b. spyware
+c. collaborative filtering
+d. personalization<split>d | QN=116 Limitations of online research methods are all of the following EXCEPT:
+a. Loss of respondents because of equipment problems.
+b. The ethics and legality of Web tracking.
+c. Focus group responses lose eye contact and body language.
+d. E-mail surveys have the lowest response rate.<split>b | QN=117 The risks of e-mail advertising management include all of the following EXCEPT:
+a. spam
+b. measuring e-mail advertising effectiveness
+c. e-mail hoaxes
+d. fraud<split>b | QN=118 Procter & Gamble (P&G) used the Internet in the new product development of Whitestrips, a teeth-brightening product. Based on this experience, P&G:
+a. decided to add Internet research to its traditional marketing test model.
+b. reduced the time-to-market from concept to market launch by approximately two years.
+c. learned that the cost of online surveys were about the same as similarly sized telephone surveys, but online surveys expedited research considerably,
+d. could not determine the target market segments for the Whitestrips.<split>a | QN=119 Online methods of bringing new customers to a B2B site when a B2B vendor wants to grow by adding new customers or products include all of the following EXCEPT:
+a. through direct mail campaigns.
+b. through an affiliation service.
+c. through Web advertising such as using an ad server network provider.
+d. by contacting all of its targeted customers individually to attract them to an electronic exchange.<split>a | QN=120 The major disadvantage of banners is .
+a. their cost
+b. the limited amount of information can be placed on the banner
+c. the limited amount of time the banner is present to the visitor
+d. viewers have become immune to banners and seldom notice them<split>c | QN=121 A(n) is an HTML coding statement that describes the content of a Web page
+ and is used by search engines to index the site's content so that it can be found.
+a. domainer
+b. associated ad display
+c. meta-tag
+d. advertorial<split>c | QN=122 A(n) is a type of pop-up ad that appears after a user clicks a link and remains
+ while content is loading to capture the user's attention for a short time, either as a promotion or a lead-in to the site's homepage or to advertise a product or a service.
+a. banner exchange
+b. keyword banner
+c. interstitial
+d. CPM<split>c | QN=123 Key business drivers for B2B are all of the following EXCEPT:
+a. the availability of a secure broadband Internet platform.
+b. numerous private and public B2B e-marketplaces.
+c. the willingness of companies to incur higher costs to improve collaboration.
+d. the need for collaborations between suppliers and buyers.<split>c | QN=124 In selling directly, manufacturers may encounter a similar problem to that of B2C, namely with the regular distributors, including corporate dealers
+a. the availability of a secure broadband Internet platform.
+b. numerous private and public B2B e-marketplaces.
+c. the willingness of companies to incur higher costs to improve collaboration.
+d. the need for collaborations between suppliers and buyers.<split>a | QN=125 In selling directly, manufacturers may encounter a similar problem to that of B2C, namely with the regular distributors, including corporate dealers
+a. channel conflict
+b. multichannel distribution
+c. direct sales conflict
+d. indirect competition<split>b | QN=126 B2B transactions that involve communication, design, planning, information sharing, and activites beyond financial transactions among business partners is referred to as
+.
+a. exchanges
+b. collaborative commerce
+c. trading communities
+d. public marketplaces<split>a | QN=127 The Cisco Connection Online (CCO) Website receives over 2 million hits per month for technical assistance, ordering, order checking, or software downloads. This online service had been so well received that nearly percent of all customer service
+a. 25/35
+b. 45/55
+c. 85/95
+d. 15/25<split>a | QN=128 The aggregation of suppliers' catalogs on the buyer's server to make it easier to centralize and control all procurement is called a(n):
+a. internal procurement marketplace
+b. buy-side e-marketplace
+c. sell-side e-marketplace
+d. bartering exchange<split>a | QN=129 In general, the benefits of contract-management software include all of the following EXCEPT
+a. Reduces contract-related risks
+b. Reduces contract negotiation time and efforts
+c. Enables standardization of contracts throughout the enterprise
+d. Provides more efficient approval provesses<split>a | QN=130 With , a business sells to a business but delivers small quantities to
+ customers of the buying business.
+a. B2B2C
+b. B2B
+c. B2C2B
+d. B2C<split>d | QN=131 A(n) is an online third party that brokers B2B transactions between a
+ buyer and seller.
+a. strategic source
+b. horizontal marketplace
+c. vertical marketplace
+d. intermediary<split>c | QN=132 The purchase of goods and services as they are needed, usually at prevailing market prices is referred to as:
+a. direct materials
+b. Consolidation
+c. spot buying
+d. strategic sourcing<split>a | QN=133 Indirect materials are typically used in activities
+a. maintenance, repair, and operation (MRO)
+b. sales and marketing
+c. intermediary
+d. supply chain<split>c | QN=134 Some of the benefits of a(n) are that distributor scan check inventory,
+ make transactions, and look up the status of their orders significantly reducing the number of phone calls, e-mails, and incorrect product shipments
+a. custom catalog
+b. electronic data interchange
+c. extranet-based order-entry tool
+d. intranet-based order-entry tool<split>d | QN=135 Purchases of goods and services based on long-term contracts is referred to as.
+a. direct materials
+b. Consolidation
+c. spot buying
+d. strategic sourcing<split>a | QN=136 can be supported more effectively and efficiently through direct buyer-
+ seller offline or online negotiations, which can be done in private exchanges or private trading rooms in public exchanges.
+a. Strategic purchases
+b. Spot buying
+c. B2C commerce
+d. MRO<split>b | QN=137 What are the two types of materials and supplies that are traded in B2B?
+a. Digital and physical.
+b. Direct and indirect.
+c. Horizontal and vertical.
+d. Commodities and nonproduction.<split>a | QN=138 Nonproduction materials such as equipment and tools that support production are called:
+a. indirect materials
+b. operational materials
+c. direct materials
+d. virtual materials<split>a | QN=139 The consists of a number of interrelated subprocesses that extend from
+ the acquisition of materials from suppliers to packaging it and moving it to distributors and retailers.
+a. supply chain
+b. vertical market
+c. horizontal market
+d. production chain<split>a | QN=140 1. Companies will usually separate B2C orders from B2B orders because B2C and
+B2B orders have different
+a. order-sulfillment processes and different pricing models
+b. marketing processes
+c. buying and delivery processes
+d. accounting processes<split>b | QN=141
+ Because conducting reverse auction in B2B can be afairly complex process, a(n) may be essenial
+a. open RFQ
+b. third-party intermediary
+c. online directory
+d. software agent<split>b | QN=142 Companies that use an intermediary to do their buying and selling tend to be:
+a. high on supply chain power and low on buying/selling capabilities
+b. low on supply chain power and low on buying/selling capabilities
+c. high on supply chain power and high on buying/selling capabilities
+d. low on supply chain power and high on buying/selling capabilities<split>d | QN=143 The major 13213 services include each of the following EXCEPT:
+a. Travel and hospitality
+b. Financial
+c. Stock trading
+d. Retail<split>d | QN=144 Major implementation challenges that companies must consider when planning e¬procurement initiatives include all of the following EXCEPT:
+a. reviewing and changing the procurement process it self
+b. coordinating the buyer's information system with that of the sellers
+c. Providing interfaces between e-procurement and integrated enterprisewide information systems, such as ERP or supply chain management
+d. Increasing the number of regular suppliers and integrating with their information systems and possibly with their business processes<split>b | QN=145 Which of the following is not one of the major benefits of 13213?
+a. Expedites processing and reduces cycle time.
+b. Enables customized online catalogs with the same prices for different customers.
+c. Increases production flexibility, permitting just-in-time delivery.
+d. Increases opportunities for collaboration.<split>c | QN=146 occurs when 13213 eliminates a distributor or a retailer.
+a. Purging
+b. Collaboration
+c. Disintermediation
+d. Just-in-time delivery<split>a | QN=147 In a sell-side e-marketplace, a business sells products and services to business customers, frequently over .
+a. an extranet
+b. an intranet
+c. an exchange
+d. a web service<split>a | QN=148 One of the major problems facing direct sellers is .
+a. how to find buyers
+b. how to find suppliers
+c. how to advertise in traditional channels
+d. how to manage the supply chain<split>c | QN=149 Companies use to sell their unneeded assets for quick disposal or to
+ easily dispose of excess, obsolete, and returned products.
+a. private auctions
+b. liquidation
+c. forward auctions
+d. reverse auctions<split>a | QN=150 Benefits of using a third-party hosting company for conducting B2B auctions instead of developing an auction site in-house include all of the following EXCEPT:
+a. Time-to-market of several weeks.
+b. No additional resources are needed such as hardware, bandwidth, engineering resources, or IT personnel.
+c. No hiring costs.
+d. No redeployment of corporate resources.<split>b | QN=151 A company-based acquisition site that uses e-procurement methods such as reverse auctions, negotiations, or group purchasing, to overcome the manual searching of e-stores and e-malls is referred to as a(n):
+a. desktop procurement method
+b. buy-side e-marketplace
+c. intermediary
+d. aggregated catalog<split>c | QN=152 Benefits of e-procurement over traditional procurement methods include all of the following EXCEPT:
+a. Increasing the productivity of purchasing agents.
+b. Lowering purchase prices through product standardization, reverse auctions, volume discounts, and consolidation of purchases.
+c. Increasing the skill requirements and training needs of purchasing agents.
+d. Streamlining invoice reconciliation and dispute resolution.<split>c | QN=153 By using the Internet and automatic-response software agents, GE reduced the cost of customer service calls from $5.00 per call when done by phone to per
+ electronically answered call.
+a. $2.50
+b. $1.00
+c. $0.20
+d. $0.50<split>b | QN=154 Before the Internet, the trading process for raw and partially processed chemicals, plastics, and fuel oil was each of the following EXCEPT:
+a. slow
+b. disintermediated
+c. fragmented
+d. expensive<split>b | QN=155 A third party that operates an exchange and in many cases, also owns the exchange is known as a(n):
+a. intermediary
+b. market maker
+c. negotiator
+d. agent<split>a | QN=156 In the context of EC, are electronic trading-community meeting places
+ for many sellers and many buyers, and possibly for other business partners.
+a. exchanges
+b. portals
+ 
+c. social networks
+d. B2C<split>b | QN=157 In spot-sourcing, prices are:
+a. set by the market maker
+b. dynamic and set based on supply and demand
+c. fixed and set by contract
+d. based solely on the cost structure of the seller<split>a | QN=158 An exchange whose members are in one industry or industry segment and that trades only in materials/services unique for that industry is referred to as a(n):
+a. vertical exchange
+b. horizontal exchange
+c. lateral exchange
+d. commodity exchange<split>b | QN=159 Light bulbs and office supplies might be purchased in a(n) by
+ both an automaker and a steelmaker.
+a. vertical exchange
+b. horizontal exchange
+c. lateral exchange
+d. commodity exchange<split>d | QN=160 In , the prices are usually dynamic and are based on changes in
+ supply and demand.
+a. strategic sourcing
+b. vertical sourcing
+c. horizontal sourcing
+d. spot sourcing<split>a | QN=161 In , the prices are usually negotiated or fixed.
+a. strategic sourcing
+b. vertical sourcing
+c. horizontal sourcing
+d. spot sourcing<split>c | QN=162 The exchange model in which RFQs are aggregated then linked to a pool of suppliers who are notified automatically of the RFQ is the model
+a. seller aggregation
+b. supplier aggregation
+c. buyer aggregation
+d. reverse auction<split>b | QN=163 Spot sourcing of direct materials takes place:
+a. on exchanges which operate without a market maker.
+b. in vertical exchanges.
+c. in horizontal exchanges.
+d. only in virtual exchanges.<split>c | QN=164 In an exchange where plastic components are bought and sold, the market maker collects money from the buyer, and releases it to the seller once successful delivery is completed. This is an example of:
+a. matching buyers and sellers.
+b. maintaining exchange infrastructure.
+c. transaction facilitation.
+d. maintaining exchange policies.<split>b | QN=165 In an exchange where plastic components are bought and sold, the market maker purchases a new server that will be used to conduct auctions. This is an example of:
+a. matching buyers and sellers.
+b. maintaining exchange infrastructure.
+c. transaction facilitation.
+d. maintaining exchange policies<split>b | QN=166 A market maker evaluates an exchange between a buyer in the United States and a seller in Spain to ensure that import laws for the U.S. are followed. This is an example of the market maker:
+a. matching buyers and sellers.
+b. maintaining exchange infrastructure.
+c. transaction facilitation.
+ 
+d. maintaining exchange policies.<split>b | QN=167 In the consortia model:
+a. a neutral third party establishes and manages the exchange.
+b. several industry players come together to establish the exchange for the benefit of all.
+c. the public is invited to join the exchange as a way to offset expenses.
+d. a dominant player in the industry establishes the exchange and invites others to join.<split>a | QN=168 The exchange model in which a third party sets up the exchange and promises to run it efficiently and without bias is called the:
+a. neutral entrepreneur model.
+b. industry giant model.
+c. co-op model.
+d. consortia model.<split>b | QN=169 A market maker charges a percentage on every buy and sell made in the exchange. The revenue model in place in this exchange is the:
+a. fee for service model.
+b. transaction fee model.
+c. advertising fee model.
+d. membership fee model.<split>a | QN=170 A market maker bills a buyer for reviewing several seller contracts and making a recommendation on what to buy and from whom. The revenue model being used in this example is the:
+a. fee for service model.
+b. transaction fee model.
+c. advertising fee model.
+d. membership fee model.<split>a | QN=171 Chem Connect is an example of a successful e-exchange with:
+a. many buyers and many sellers
+b. many buyers and few sellers
+c. many buyers and one sellers
+d. few buyers and few sellers<split>b | QN=172 All of the following are potential sources of revenue for an exchange EXCEPT:
+a. advertising fees.
+b. shipping and handling fees.
+c. fees for services rendered.
+d. membership fees.<split>b | QN=173 An exchange charges an annual fee of $25,000 for all parties who want to trade in the exchange. The revenue model in use by this exchange is the
+a. transaction fee model
+b. membership fee model
+c. fee for service model
+d. advertising fee model<split>b | QN=174 Markets in which several large sellers sell to a large number of buyers are called
+a. fragmented markets
+b. seller-concentrated markets
+c. buyer-concentrated markets
+d. differentiated markets<split>d | QN=175 The concept of liquidity for a 13213 exchange is the:
+a. ease with which information flows between exchange members
+b. ease with which orders can be placed, processed, and shipped using the exchange
+c. amount of available cash on hand
+d. number of buyers and sellers in a market <271><split>b | QN=176 The most attractive industries for a vertical exchange are characterized by:
+a. stagnant technology
+b. a market in which a small number of very large orders account for more than half the total market volume per year
+c. many fragmented buyers and sellers
+d. a few very large players that totally dominate the industry<split>c | QN=177 When membership fees are the basis for revenue generation in an e-exchange, it has been shown that:
+a. there should be a fee for every service provided; there should be no free services for members.
+b. the higher the fees charged, the greater the total profit.
+c. low membership fees often result in losses to the exchange,; however, high fees discourage participation.
+d. when fees are very low, the exchange sees greater utilization which leads to greater revenue and profit.<split>a | QN=178 In dealing with exchange members, the management of the exchange should:
+a. make certain that the exchange is neutral in its dealings with all members.
+b. leave the management of day-to-day operations of the exchange to the members.
+c. strive to maximize exchange revenues through charging the highest possible fees.
+d. take special care of the companies that share ownership in the exchange.<split>c | QN=179 Brand building is important in B2B exchanges because:
+a. exchange members typically buy only the best brands of product.
+b. information flow is poor in most exchanges, making trust of suppliers very important.
+c. it is easy for exchange members to change to another exchange.
+d. exchange members typically buy products at the lowest cost unless branded.<split>b | QN=180 From 2001 to 2006, a majority of e-exchanges:
+a. devised new methods to increase revenues and profits
+b. folded due to a lack of customers, cash, or both
+c. increased in size due to mergers of small e-exchanges
+d. expanded by adding business partners<split>c | QN=181 Attracting large business sellers to public exchanges is often difficult for all of the following reasons EXCEPT:
+a. it is sometimes difficult to recruit large suppliers
+b. they are required to pay transaction fees even when they engage in transactions with existing customers
+c. advertising costs in public exchanges are very expensive <288>
+d. competitors who are also exchange member may gain access to confidential information<split>b | QN=182 Using tunneling technology to improve security of communication over the Internet is called:
+a. electronic data interchange (EDI).
+b. virtual private network (VPN).
+c. Internet protocol (IP)
+d. local area network (LAN)<split>b | QN=183 An exchange that handles materials used by companies in different industries is referred to as a(n):
+a. vertical exchange
+b. horizontal exchange <264>
+c. commodity exchange
+d. lateral exchange<split>b | QN=184 A company's internal operations and its relationships with suppliers and other business partners are frequently:
+a. much more complex than customer-facing applications such as taking an order online.
+b. as complex as customer-facing applications such as taking an order online.
+c. much less complex than customer-facing applications such as taking an order online.
+d. replaced by customer-facing applications.<split>b | QN=185 For a manufacturer, the supply chain ends:
+a. when the supplier delivers raw materials and component parts to the manufacturer.
+b. when the product is used up and disposed of.
+c. when the customer buys the product.
+d. when the customer decides he/she is satisfied with a product.<split>c | QN=186 The use of Web technologies to manage warehousing and transportation processes is called:
+a. collaborative planning
+b. downstream processing
+c. e-logistics
+d. e-replenishment<split>a | QN=187 The e-SCM process that includes integrated production and distribution processes is:
+a. supply chain replenishment
+b. collaborative planning
+c. e-procurement
+d. e-logistics<split>b | QN=188 All of the following are true about product lifecycle management (PLM) EXCEPT:
+a. PLM is a big step for an organization because it requires integrating different processes and systems
+b. The demand for PLM in limited because it does not apply to products that have short lifecycles or are complex <337+338>
+c. PLM can have significant beneficial impacts in cycle time, design reuse, and engineering
+d. PLM tools are offered by SAP, Matrix One, EDS, and IBM<split>d | QN=189 The major benefit of group decision support systems is:
+a. in passive listening while information is distributed
+b. in faster decision making with greater agreement
+c. in easier decision making
+d. in conducting virtual meetings<split>b | QN=190 is the transfer of documents and computer files while video
+ conferencing
+a. CPFR
+b. Data conferencing
+c. Web conferencing
+d. Interactive white boarding<split>c | QN=191 RFID can provide immediate, short-term, and long-term value to organizations. An example of immediate value from RFID is when
+a. an RFID tag tells customer service which factory made the faulty product returned by a customer
+b. an RFID tag reveals the supplier of a faulty component without the need for quality control to research component order records
+ 
+c. an RFID tag tells inventory control every time a roll of wire moves out of the ware house and onto the factory floor
+d. an RFID tag send a report to the supplier every time one of its component parts is used in the manufacturing process<split>c | QN=192 B2B systems which are used for communication, design, planning, information sharing, and information discovery are called:
+a. electronic bartering systems.
+b. information aggregation systems.
+c. collaborative commerce.
+d. electronic data systems.<split>a | QN=193 All of the following would be considered c-commerce EXCEPT:
+a. aggregating catalogs on a central server.
+b. connecting suppliers.
+c. communication and collaboration with suppliers.
+d. sharing on-demand training courses across many locations simultaneously.<split>d | QN=194 A major block in the widespread implementation of collaborative commerce is:
+a. the theory of collaborative commerce hasn't been proven effective in real-world applications.
+b. the technology needed isn't available.
+c. collaborative commerce is extremely expensive.
+d. the lack of universally accepted standards.<split>d | QN=195 The last fifteen orders from a manufacturer to its suppliers range from $100,000 to $8,740,000. This is an example of:
+a. order instability
+b. supply inadequacy
+c. demand manipulation
+d. the bullwhip effect<split>b | QN=196 Wal-Mart and LeviStrauss collaborate on demand forecasting in order to optimize the flow of materials along the supply chain. This is an example of:
+a. reducing design cycle time
+ 
+b. CPFR
+c. APS
+d. Reducing product development time<split>a | QN=197 Addressing mission-critical, high-volume transaction processes is the goal of:
+a. production workflow applications
+b. collaborative workflow applications
+c. administrative workflow applications
+d. portal applications<split>c | QN=198 is a business strategy that enables manufacturers to control and share
+ product-related data as part of product design and development efforts.
+a. Advanced planning and scheduling
+b. Collaborative planning
+c. Product lifecycle management
+d. Internal commerce<split>a | QN=199 Today, many business experts agree with each of the following EXCEPT:
+a. Supply chain integration has reduced the intensity of competition in most industries.
+b. The insightful way to view contemporary business is that competition exists between or among supply chains rather then individual companies.
+c. Supply chains from the suppliers' suppliers to the customers' customers should be jointly planned and designed for overall optimality by all of the supply chain partners.
+d. The supply chain needs to be operationally integrated so that inventory activities link seamlessly to manufacturing activities.<split>b | QN=200 When planning, designing and implementing integrated supply chain operations, management requires a holistic focus that takes account all of the following primary factors EXCEPT:
+a. strategy, structure, and people.
+b. location and revenues.
+c. IT and business processes.
+d. culture, including performance measurement, monitoring, and incentives.<split>a | QN=201 Software that helps integrate different types of information systems among collaborating companies is called:
+a. middleware.
+b. browser technology.
+c. collaborative software.
+d. extranet technology.<split>a | QN=202 Collaborative workflow applications:
+a. address project-oriented and collaborative processes.
+b. address mission-critical, transaction-oriented, high volume processes.
+c. are business process automation tools that place system controls in the hands of users.
+d. have predefined workflows, but can be redefined quickly when needed.<split>b | QN=203 Software applications that address project management concerns are examples of:
+a. portal applications.
+b. collaborations workflow applications.
+c. production workflow applications.
+d. administrative workflow applications.<split>c | QN=204 The steps required to approve an expense report is an example of:
+a. production workflow applications
+b. collaborative workflow applications
+c. administrative workflow applications
+d. portal applications<split>a | QN=205 When large suppliers or buyers are involved, a workflow system:
+a. is needed for both the collaborative efforts and for supply chain and production improvements.
+b. is needed for collaborative efforts only.
+c. may be helpful for supply chain improvements.
+d. will fail because of system incompatibilities<split>b | QN=206 Corporations are moving their phone systems to to cut costs and boost
+ efficiency 
+a. video kiosks 
+b. VoIP
+c. GDSS
+d. RTC<split>d | QN=207 The primary benefits of workflow management systems include all of the following EXCEPT:
+a. cycle time reduction.
+b. less management intervention.
+c. fewer chances for delay or misplaced work.
+d. increased data security.<split>a | QN=208 When large suppliers or buyers are involved, a workflow system:
+a. is needed for both the collaborative efforts and for supply chain and production improvements.
+b. is needed for collaborative efforts only.
+c. may be helpful for supply chain improvements.
+d. will fail because of system incompatibilities.<split>a | QN=209 means that the communication and collaboration are done in real
+ time.
+a. Synchronous
+b. Asynchronous
+c. Bi-synchronous
+d. Multi-Synchronous<split>d | QN=210 Group ware is appropriate in all of the following situations EXCEPT:
+a. for networked environments
+b. for groups to share idea and opinions
+c. for people in the same room
+d. for people working on different tasks or projects<split>d | QN=211 The purpose of CPFR is to:
+a. minimize quality problems in supplies
+b. eliminate intermediaries
+c. optimize the flow of materials along the supply chain
+ 
+d. ensure that members of the supply chain will have the right amount of raw
+ materials and finished good when they need them <334><split>a | QN=212 All of the following are types of communication and collaboration done in real time EXCEPT:
+a. blogging
+b. webinars
+c. instant messaging
+d. VoIP<split>a | QN=213 The growth in electronic meeting systems has been driven by all of the following EXCEPT:
+a. Shorter cycle times.
+b. Improvements in supporting technology.
+c. Reductions in the price of the technology.
+d. Acceptance of virtual meetings as a respected way of doing business.<split>d | QN=214 All of the following apply to instant video EXCEPT:
+a. It evolved from the spread of instant messaging and Internet telephony.
+b. The idea is for a kind of video chat room that allows users to chat in real time and see the person(s) they are communicating with.
+c. It is the natural result of wanting to link people via both voice and audio.
+d. The highest quality approach is to add video cameras to the participants' computers.<split>a | QN=215 All of the following are examples of e-government EXCEPT:
+a. a company sells army and navy surplus supplies at auction over the Internet.
+b. a contractor submits an application for a building permit using a city hall Web site.
+c. an unemployed worker consults a Web site operated by the state employment department to learn about job openings in his city.
+d. a state purchasing officer places an online order for office supplies from an e-catalog sent to her by a national office supply store.<split>d | QN=216 The exclusively online publication of Stephen King's e-book Riding the Bullet in March 2000
+a. produced very few sales
+b. was an unqualified success and established electronic publishing as a legitimate competitor for traditional publishers
+c. was a failure because the cost of the book was too high
+d. as disrupted by hackers who breached security, then distributed free copies of the book<split>c | QN=217 The tasks if KM include each of the following EXCEPT:
+a. creating knowledge repositories where knowledge can be stored and retrieved easily
+b. enhancing a knowledge environment in order to conduct more effective knowledge creation, transfer, and use
+c. restricting knowledge access to prevent its transfer between individuals <393>
+d. managing knowledge as an asset so as to increase the effective use of knowledge assets over time<split>a | QN=218 Risks in corporate blogging include all of the following EXCEPT:
+a. the risk of disciplinary action against abusive bloggers
+b. the risk making statements that are or could be construed as libel or defamation
+c. the risk of lawsuits
+d. the risk of revealing trade secrets<split>b | QN=219 An example of G2C is:
+a. an employee at the Chamber of Commerce gets local demographic data from a U.S. Census site.
+b. a driver applies for and pays for the renewal of his auto tag online.
+c. a road contractor uses the Internet to submit a closed bid on a paving contract.
+d. a regional hospital conducts an online reverse auction for cleaning supplies.<split>c | QN=220 are a popular online publishing technology for creating a Web page that
+ can be edited by anyone with a standard Web browser.
+a. Blogs
+b. Point-casts
+c. Wikis
+d. P2P<split>d | QN=221 A type of e-book referred to as the is a truly multimedia, online-only
+ book that has hyperlinks, three-dimensional text and display, graphics, audio, and video. It supports non linear exploration of topics
+a. download
+b. online reference book model
+c. interactive, build-your-own decision book
+d. rubics-cube hyperlink book<split>c | QN=222 Chaplin reports quarterly sales revenue from his business to city hall over the Internet. He pays his local business tax with a credit card. This is an example of:
+a. e-government
+b. G2C e-commerce
+c. G2B e-commerce
+d. e-Procurement<split>c | QN=223 A podcast is distinguished from other digital audio formats by:
+a. its lack of proprietary content
+b. its use of unpaid subscriptions
+c. its ability to be downloaded automatically, using software capable of reading feed formats such as RSS
+d. the iPod hardware required to hear it<split>d | QN=224 A government agency uses an online reverse auction to satisfy the tendering system requirements specified by law. This is an example of:
+a. e-government
+b. G2C e-commerce
+c. G2B e-commerce
+d. e-Procurement<split>a | QN=225 Government-to-employee applications can lead to significant efficiency improvements for all of the reasons EXCEPT:
+a. Most government employees use handheld digital devices.
+b. Governments employ large numbers of people that need to be paid and trained.
+c. Employees of federal and state governments often work in a variety of geographic locations.
+d. Many military employees are stationed in remote locations that are best served via the Internet<split>a | QN=226 Which of the following is an example of edutainment?
+a. an online game that uses colorful characters to teach young children about
+ numbers
+b. an online science fiction game whose object is to blast as many aliens as possible in a 60 second round
+c. a community college providing an online college course on digital media
+d. two or more student sharing music over the Internet<split>c | QN=227 One of the most important issues in implementing e-government is:
+a. designing feature-rich Web sites.
+b. the use of encryption and digital signatures.
+c. its adoption and usage by citizens.
+d. providing for secure payments.<split>a | QN=228 All of the following are advantages of e-learning EXCEPT:
+a. college professors are anxious to develop new online courses.
+b. knowledge retention is higher.
+c. learning time is reduced.
+d. it costs less to deliver education online than in a traditional classroom.<split>b | QN=229 All of the following are problems in implementing e-Government EXCEPT:
+a. it is difficult to protect personal data collected through an e-Government site
+b. the technology needed to implement stage 6 of the Deloitte transformation process does not exist yet
+c. businesses have been more receptive to G2B than individuals to G2C
+d. transformation is typically very slow<split>b | QN=230 All of the following are potential drawbacks of e-learning EXCEPT:
+a. instructors must be retrained.
+b. knowledge retention is lower than in traditional classrooms.
+c. assessment issues remain to be resolved.
+d. protecting the intellectual property of content developers.<split>d | QN=231 Most universities use e-learning:
+a. exclusively in reaching students who couldn't otherwise attend classes.
+b. only when forced by administrators to use it as a way to recruit distant students or reduce costs.
+c. as a total replacement for traditional classrooms.
+d. as a supplementary channel to traditional classrooms.<split>a | QN=232 Knowledge is of limited value if:
+a. it is not shared
+b. company databases are not accessible to decision makers
+c. companies protect it to maintain competitive advantage
+d. users contribute their own specialized content<split>b | QN=233 Knowledge generated in e-business contributes to the enhancement of three core operating process, which include all of the following EXCEPT:
+a. supply chain management
+b. project management
+c. product development management
+d. customer relationship management<split>d | QN=234 The business forces that are driving the transition from traditional education to online learning are all of the following EXCEPT:
+a. technological change.
+b. competition and cost pressures.
+c. network connectivity.
+d. limited supply of faculty with specialized expertise.<split>a | QN=235 One of the facilitators of e-learning is technology such as wikipedia.org.
+a. Web 2.0
+b. Blackboard
+c. WebCT
+d. Macromedia<split>c | QN=236 More and more people are willing to pay for digital music, as shown by the success of .
+a. a. Napster
+b. b. Kazaa
+c. c. Apple's iTunes
+d. d. P2P<split>a | QN=237 is the electronic delivery of newspapers, magazines, books, videos,
+ music, and other digitizable information over the Internet.
+a. Online publishing
+b. Blogging
+c. Webinar
+d. Social networking<split>b | QN=238 is commonly used to broadcast public lectures and e-seminars, promote
+ the work of new or unknown musicians, and broadcast international entertainment activities.
+a. Podcasting
+b. Webcasting
+c. File sharing
+d. Dynamic publishing<split>b | QN=239 The primary advantage that e-books offer publishers is:
+a. the ability to reach many readers.
+b. lower production, marketing, and delivery costs.
+c. the ease of customizing textbooks and trade books.
+d. the ease of updating books in real-time.<split>c | QN=240 Which of the following statements about blogs is not true?
+a. A blog is a personal Web site, open to the public, in which the owner expresses his or her feelings or opinions.
+b. Blogs became very popular after the September 11, 2001 terrorist attacks when people were looking for as many sources of information as possible and for personal connections to the tragedy.
+c. Blogs are limited to one-way communication.
+d. The most common types of blogs are professional blogs.<split>a | QN=241 A major purpose of an organizational knowledge base is to support and allow .
+a. knowledge sharing
+b. e-learning
+c. responsible blogging
+d. organizational capital<split>a | QN=242 involves using various computer-based tools and techniques to
+ analyze transaction data and generate new ideas.
+a. Knowledge creation
+b. Knowledge capture
+c. Knowledge classification
+d. Knowledge management<split>a | QN=243 Customer-to-customer (C2C) e-commerce is conducted in various ways on the Internet, but the best-known C2C activities are:
+a. C2C auctions
+b. Classified ads
+c. Personal services
+d. C2C exchanges<split>c | QN=244 P2P systems have all of the following key characteristics EXCEPT:
+a. They provide for real-time access to other users through techniques such as instant messaging and multichannel collaboration applications.
+b. The users' computers can act as both clients and servers.
+c. The overall system is well integrated, but lacks tools for easy creation of content or for adding functionalities.
+d. They support cross-networking protocols such as SOAP or XML-RPC, which enables a program on one computer to execute a program on a server computer.<split>c | QN=245 M-commerce transactions and activities require and
+ . 
+a. wired networks; access points 
+ 
+b. cell phones; portable computers
+c. hardware and software infrastructures; infrastructure support
+d. smartphones; switches<split>a | QN=246 Infrastructures that support the wireless connection are:
+a. network access points, mobile communications server switches, and cellular transmitters and receivers.
+b. WAP gateways, GPS locators, and GPS satellites.
+c. PDAs, smartphones, and portable computers.
+d. web servers, mobile devices, and microbrowsers.<split>b | QN=247 Components of a wireless infrastructure that support delivery of services over a wireless connection are:
+a. network access points, mobile communications server switches, cellular transmitters, and receivers.
+b. WAP gateways, GPS locators, and GPS satellites.
+c. PDAs, smartphones, and portable computers.
+d. web servers, mobile devices, and microbrowsers.<split>d | QN=248 Characteristics of mobile devices that create special requirements that hardware and software designers need to anticipate when designing mobile computing systems include all of the following EXCEPT:
+a. small screens
+b. reduced memory
+c. restricted input capabilities
+d. broad bandwidth<split>c | QN=249 The exchange of updated information with other computing devices is called:
+a. docking
+b. data transferring
+c. synchronization
+d. marking<split>a | A suite of network protocols designed to enable different kinds of wireless devices is called:
+a. Wireless Application Protocol.
+b. a mobile operating system.
+c. a mobile application user interface.
+d. wireless middleware.<split>c | QN=251 The application logic in a handheld PDA, smart phone, Palm or Wintel notebook is called:
+a. Wireless Application Protocol.
+b. a mobile operating system.
+c. a mobile application user interface.
+d. wireless middleware.<split>b | QN=252 enables the determination of the location of an enabled device.
+a. PDA
+b. GPS
+c. SMS
+d. WAP<split>c | QN=253 Rick sends a message from a delayed flight to his friend on her cell phone that he will be arriving late. The service that allows the sending and receiving of such short text messages on mobile phones is called:
+a. TMG
+b. MSG
+c. SMS
+d. LOL<split>c | QN=254 Micropayments are electronic payments:
+a. from a mobile device.
+b. that are less than $1.00.
+c. that are less than $10.00.
+d. that are less than $100.00.<split>a | QN=255 Infrastructures that sua. pport the wireless connection are:
+a. a. network access points, mobile communications server switches, and cellular transmitters and receivers.
+b. b. WAP gateways, GPS locators, and GPS satellites.
+c. c. PDAs, smartphones, and portable computers.
+d. d. web servers, mobile devices, and microbrowsers.<split>a | QN=256 The IEEE standard offers bandwidth transfer rates of 200 to 540 Mbps,
+ which makes it impractical because it exceeds the limits of most broadband connections used by homes and small businesses
+a. 802.11n
+b. 802.1 1b
+c. 802.16
+d. 802.11<split>d | QN=257 Most WLANs run on a telecommunications standard known as , which
+ is more commonly called .
+a. WLAN; hotspot
+b. IEEE 802.16; WiMax
+c. IEEE 802.11; Bluetooth
+d. IEEE 802.11; Wi-Fi<split>a | QN=258 ...is suitable for mobile users who need to make very short-range device 
+ to-device wireless connections within a small space, such as a single room, and most commonly with Bluetooth.
+a. personal area network
+b. local area network
+c. wireless area network
+d. Wi-Fi area network<split>a | QN=259 All of the following about wireless wide area networks (WWAN) are true EXCEPT:
+a. The single WWAN network standard insures compatibility of handsets within and between countries.
+b. Most WWANs are cellular phone networks.
+c. At the center of each cell is a base station transceiver or cell tower that is used to send and receive signals to and from mobile devices operating within the cell.
+d. When a device is turned on, a SIM card inside the device identifies itself to the WWAN.<split>b | QN=260 The major attributes that enable development of new applications that are possible only in a mobile environment include all of the following EXCEPT:
+a. Ubiquity
+b. Security
+c. Localization
+d. Personalization<split>c | QN=261 As in e-commerce, m-commerce B2C applications are concentrated in each of the following areas EXCEPT:
+a. a. retail shopping for products and services
+b. b. targeted advertising
+c. c. telecommunications
+d. d. providing content for a fee through mobile portals<split>c | QN=262 Mobile access supports the two functions of sales force mobilization and field service, which extends the reach of to both employees and business partners on a 24/7 basis to any place where recipients are located.
+a. supply chain management
+b. inventory management
+c. customer relationship management <442>
+d. vendor management<split>c | QN=263 One way to share information with supply chain partners is wireless , which is the science of measuring physical phenomena such as temperature, volume, or an on/off condition at a remote point and transmitting the value to a distant recorder or observer.
+a. RFID
+b. mobilization
+c. telemetry
+d. osmosis<split>a | QN=264 The development of m-commerce is being driven by the following technological, business, social, and economic factors EXCEPT:
+a. The transition to a manufacturing economy.
+b. The widespread availability of more powerful wireless devices.
+c. The growth of a handset culture and mobile workforce.
+d. The improved price/performance of mobile services.<split>d | QN=265 One initiative underway that could lead to widespread support for the introduction of RFID
+is the , which identifies the manufacturer, producer, version, and serial number of each item and does not require line-of-sight contact to be read.
+a. Universal Product Code
+b. Sensor Network
+c. Smart Product Network
+d. Electronic Product Code<split>d | QN=266 The major enterprise mobile applications are all of the following EXCEPT:
+a. e-mail and cell phone contacts
+b. customer relations and sales force automation
+c. logistics and supply chain
+d. research and development<split>b | QN=267 By enabling sales force employees to record orders in real time, the organization benefits through each of the following EXCEPT:
+a. improved manufacturing and delivery scheduling.
+b. more extensive collaboration and sharing of customer leads.
+c. fewer data entry errors.
+d. lower clerical and administrative overhead.<split>b | QN=268 refers to the integration of computers and wireless communications in order to improve information flow
+a. mobility
+b. telematics
+c. E-911
+d. remote telemetry<split>b | QN=269 All of the following about RFID are true EXCEPT:
+a. an RFID tag remains inactive until radio frequency energy from the tag's radio transmitter hits its antenna, giving the chip enough power to emit a 96-bit string of information
+b. an RFID tag can hold 20 times the amount of information a bar code can hold, and the tag can be read through cardboard, wood, and plastic at a range of up to 100 feet <456> 
+c. an RFID tag includes an antenna and a chip with information about the item
+d. an RFID reader contains a radio transmitter and receiver<split>a | QN=270 All of the following are barriers to location-based m-commerce EXCEPT:
+a. There are presently not enough location-based systems to make this a viable technology.
+b. Wireless bandwidth is limited.
+c. The accuracy of location technologies is often less than consumers expect.
+d. Consumers see constant location data transmissions as a violation of privacy.<split>c | QN=271 The services provided through location-based m-commerce focus on key factors which include all of the following EXCEPT:
+a. Navigation, or plotting a route from one location to another.
+b. Tracking, or monitoring the movement of a person or thing.
+c. Geocaching, or determining the topography of an area.
+d. Timing, or determining the precise time at a specific location.<split>a | QN=272 A(n) is a computer system capable of integrating, storing, editing, analyzing, sharing, and displaying spatial information.
+a. geographical information system
+b. global positioning system
+c. l-commerce system
+d. on-star system<split>b | QN=273 You are walking near a coffee shop and suddenly your cell phone beeps with a message: "Come inside and get a free biscotti with any purchase." This is an example of:
+a. permission marketing
+b. location-based advertising
+c. customer relationship management
+d. m-commerce<split>d | QN=274 Many experts believe that the next major step in the evolution of computing will be in which almost every object will have processing power and a wired or wireless connection to a network.
+a. persistent computing
+b. mobile computing
+c. universal computing
+d. pervasive computing<split>a | QN=275 Auctions are all of the following EXCEPT:
+a. They are suitable for most consumer goods.
+b. They are a market mechanism.
+c. They are an established method of commerce for generations.
+d. They are a marketing channel.<split>d | QN=276 Dynamic pricing refers to :
+a. prices that are negotiated.
+b. prices that are regulated by government agencies.
+c. prices that maximize revenue.
+d. prices that are determined by market forces.<split>b | QN=277 ... work best with many buyers and many sellers.
+a. Bartering
+b. Dynamic exchanges
+c. Forward auctions
+d. Reverse auctions<split>b | QN=278 The process of building auction applications is complex for all of the following reasons EXCEPT:
+a. auctions must be integrated with the back-end offices
+b. auctions must provide payment systems
+c. the number of needed features can be very large
+d. auctions must be integrated with the legacy systems of participating companies<split>b | QN=279 Two purposes of a types of auctions are liquidation and market efficiency 
+a. one-buyer, one-seller 
+b. one seller, many potential buyers 
+c. one buyer, many potential sellers
+d. many buyers, many sellers<split>a | QN=280 The auction model is popular in B2B.
+a. one-buyer, one-seller
+b. one seller, many potential buyers
+c. one buyer, many potential sellers
+d. many buyers, many sellers<split>c | QN=281 Reverse auctions are a type of auctions.
+a. one-buyer, one-seller
+b. one seller, many potential buyers
+c. one buyer, many potential sellers
+d. many buyers, many sellers<split>c | QN=282 The "name-your own-price" model pioneered by Priceline.com is a type of auction.
+a. one-buyer, one-seller
+b. one seller, many potential buyers
+c. one buyer, many potential sellers
+d. many buyers, many sellers<split>d | QN=283 Auctions done in exchanges or double auctions are auctions.
+a. one-buyer, one-seller
+b. one seller, many potential buyers
+c. one buyer, many potential sellers
+d. many buyers, many sellers<split>a | QN=284 Jackie uses a software system to place bids automatically on her behalf until her predetermined maximum price is reached. The software bids in such a way as to minimize the final bid. This is referred to as:
+a. proxy bidding
+b. pricing agents
+c. sniping
+d. bidding agents<split>a | QN=285 Bidders sometimes use phantom bidders to drive bid prices up rapidly at the beginning of an auction, thus discouraging bidding from legitimate bidders. At the last minute, the phantom bidders pull out, which awards the item to a very low bidding customer. This practice is called:
+a. bid shielding
+b. sniping
+c. bid fixing
+d. shilling<split>b | QN=286 A(n) takes place between sellers and buyers in one industry or for one
+ commodity, such as flowers, cars, or cattle.
+a. open auction
+b. vertical auction
+c. exchange
+d. negotiation vortal<split>c | QN=287 All of the following are potential benefits from auctions to sellers EXCEPT:
+a. auctions can broaden the customer base and reduce cycle time.
+b. sellers receive valuable price sensitivity information.
+c. sellers are always anonymous.
+d. sellers can liquidate large quantities of obsolete items very quickly.<split>d | QN=288 In electronic auctions, near-perfect market information is available about prices, products, current supply and demand, and so on. This feature provides benefits to .
+a. companies and individuals
+b. buyers
+c. sellers
+d. buyers and sellers<split>b | QN=289 Benefits of electronics auctions (e-auctions) to sellers include all of the following EXCEPT:
+a. Larger reach and increased revenues
+b. Anonymity
+c. Removal of expensive intermediaries
+d. Lower transaction and administrative costs<split>d | QN=290 refers to the tendency of customers to stay at Web sites longer and come back more often.
+a. High repeat
+b. Loyalty
+c. Frequent purchase
+d. Stickiness<split>a | QN=291 Research has shown that e-commerce sites that use an auction model tend to:
+a. reach critical mass more quickly than catalog-order-based.
+b. reach critical mass more slowly than other models.
+c. become liquid.
+d. fail more often than other models.<split>d | QN=292 the limitations of mobile auctions are all of the following EXCEPT:
+a. Internet-enabled phones have limited memory capacity
+b. Portable devices are small and may have a problem showing pictures of auction items
+c. Wireless systems are not as safe as wireline ones
+d. Internet cell phones are less private than a PC <498: more private><split>b | QN=293 The practice by sellers of having associates place fake bids in an auction as a way to drive up the selling price is called:
+a. bid fixing.
+b. shilling.
+c. sniping.
+d. bid shielding.<split>d | QN=294 The first step in the auction process is:
+a. registration and participants' profiles.
+b. preparing the bids.
+c. arranging financing.
+d. searching and comparing.<split>b | QN=295 Compared to competitive markets, auction prices are often when there are multiple bidders.
+a. lower
+b. higher
+c. the same
+d. dynamic<split>a | QN=296 Compared to competitive markets, auction prices are often when there are very few bidders.
+a. lower
+b. higher
+c. the same
+d. dynamic<split>d | QN=297 Many auction sites are implementing because of the significant increase in the number of users who browse the Internet wirelessly.
+a. authentication
+b. instant message notification
+c. vortals
+d. m-commerce applications<split>a | QN=298 The most serious disadvantage of e-auctions is:
+a. the risk of fraud.
+b. Logistics.
+c. unreliable auction software.
+d. payment delays.<split>a | QN=299 Each of the following is true about auction rules EXCEPT:
+a. rules eliminate conflicts with existing distributors and distribution 
+b. rules are intended to smooth the auction mechanism and to prevent fraud
+c. auction rules vary from country to country due to legal considerations
+d. the success of auctions depends on complying with auction rules<split>a | QN=300 A major shortcoming with authentication services is:
+a. two different authenticators may come up with different opinions regarding the authenticity and description of a given item.
+b. it is impossible to tell whether many items are reproductions or genuine.
+c. dishonest authenticators are the primary sources of fraud on the Internet.
+d. most auction sites forbid the use of authentication services.<split>B | QN=301 John wants to know if the first edition novel he just purchased through an e-auction is actually a first edition. The auction host helps him locate an expert that will him whether the novel is a genuine first edition or a fake. This is an example of:
+a. certification
+b. authentication
+c. verification
+d. integrity<split>C | QN=302 Many companies use intermediaries or trading assistants instead of implementing e-auctions themselves for each of the following reasons EXCEPT:
+a. The company name is not widely recognized.
+b. To bring many more buyers to the auction.
+c. To avoid tax and legal fees.
+d. Costs of auction intermediaries or assistants are less than the costs of physical auctions.<split>A | QN=303 Each of the following is one of the three major categories of auction rules EXCEPT:
+a. timing rules
+b. bidding rules
+c. clearing rules
+d. information-revelation rules<split>C | QN=304 The incidence of online fraud and identify theft has increased for each of the following reasons except:
+a. Growth in EC sales and the number of shoppers with higher incomes.
+b. Information is today's most valuable form of international currency.
+c. New effective phishing scams and schemes being carried out by computer experts.
+d. Scammers outsourcing work to programmers to seize control of computers or wireless networks.<split>A | QN=305 Cyber cons have a negative effect on EC because
+a. defending against these cons and compensating for damages significantly increase the costs of EC.
+b. a majority of potential customers do not shop online because they are too afraid of fraud to trust online merchants.
+c. companies cannot expand their e-business to other countries with underdeveloped legal systems.
+d. con artists have gone low-tech.<split>B | QN=306 The key reasons why EC criminals cannot be stopped include each of the following except:
+a. Strong EC security makes online shopping inconvenient and demanding on customers.
+b. Sophisticated hackers use browsers to crack into Web sites.
+c. Lack of cooperation from credit card issuers and foreign ISPs.
+d. Online shoppers do not take necessary precautions to avoid becoming a victim.<split>A | QN=307 It is currently known that if a front-end application such as a Web site is effectively secured, then
+a. the data itself may not be secure because the application may not function as planned.
+b. the data itself is secured by firewalls.
+c. the data itself is secure because web applications are not targeted by attackers.
+d. the data itself may not be secure because back-end databases may not function as planned.<split>D | QN=308 A vulnerability
+a. is a software bug.
+b. is the probability that a weakness will be known and used.
+c. is the estimated cost, loss, or damage that can result if a threat exploits a vulnerability.
+d. is a weakness in software or other mechanisms that a hacker can use directly to gain access to a system or network.<split>C | QN=309 The underlying reasons why a comprehensive EC security strategy is needed include all of the following except:
+a. The Internet was designed for maximum efficiency without regard for its security or users with malicious intent.
+b. The shift toward profit-motivated crimes.
+c. Managers treating EC security as a process.
+d. Many companies fail to implement basic IT security management best practices, business continuity plans, and disaster recovery plans.<split>A | QN=310 The protection of information systems against unauthorized access to or modification of information that is stored, processed, or being sent over a network is referred to as .
+a. Information assurance.
+b. Information defense.
+c. Information security triad.
+d. Information integrity.<split>D | QN=31 1 The success and security of EC depends on the of information and the
+ business Web site.
+a. encryption, functionality, and privacy
+b. quality, reliability, and speed
+c. authentication, authorization, and nonrepudiation
+d. confidentiality, integrity, and availability<split>A | QN=312 The basic security concepts relating to customers and other users are:
+a. authentication, authorization, and nonrepudiation.
+b. confidentiality, integrity, and availability.
+c. information assurance, confidentiality, and authentication.
+d. authorization, nonrepudiation, and information assurance.<split>D | QN=313 Digital signatures or digital certificates:
+a. are used to validate the sender and time stamp of the transaction so it cannot be later claimed that the transaction was unauthorized or invalid.
+b. have been compromised by phishers and spammers.
+c. provide complete confidence that the transactions are secure.
+ 
+d. a and b<split>B | QN=314 The most cost-effective approach to EC security is to develop and implement a strategy that
+a. depends on the trust and confidence of customers.
+b. proactively meets regulatory, financial, marketing and operational requirements.
+c. protects against unauthorized transactions and overrides of accounting controls.
+d. requires digital signatures or digital certificates for all transactions.<split>A | QN=315 To be effective, an acceptable use policy (AUP) needs
+a. to inform all users of their responsibilities when using company networks, computer equipment, wireless devices, and customer data.
+b. to be written by the company's legal department.
+c. to be incorporated into business projects and proposals.
+d. to specify rules for firewalls, access control lists, monitoring, and intrusion detection systems.<split>A | QN=316 Which of the following statements about hardware and software security defenses is false?
+a. Hardware and software security defenses protect against irresponsible business practices or corrupt management.
+b. There is no single hardware or software solution for all companies.
+c. If firewalls and antivirus software are not upgraded and monitored constantly, they will not remain useful.
+d. After the EC security program and policies are defined and risk assessment completed, then the software and hardware needed to support and enforce them can be put in place.<split>C | QN=317 Social engineering attacks are:
+a. an example of technical attacks requiring software or systems knowledge.
+b. are a combination of technical and nontechnical attacks.
+c. take advantage of Web 2.0 applications like social networking sites, blogs, wikis and RSS feeds.
+d. no longer considered to be serious Internet threats due to the increased security of MySpace, LinkedIn, and YouTube.<split>A | QN=318 A technique known as web page hijacking
+a. enables a malicious Web master to displace the pages of an EC Web site in the Search Engine Results Pages (SERPS) to redirect customers to another site.
+b. causes a high volume of search engine traffic similar to a denial of service attack.
+c. downloads what appears to be an "important document," but which contains a trojan, a program that gives the sender control of the infected machine.
+d. enables online gambling that are actually fronts for international money laundering operations.<split>D | QN=319 A botnet is:
+a. a collection of a few hundred hijacked Internet computers that have been set up to forward traffic, including spam and viruses, to other computers on the Internet.
+b. a piece of software code that inserts itself into a host or operating system to launch DOS attacks.
+c. a piece of code in a worm that spreads rapidly and exploits some known vulnerability.
+d. a coordinated network of computers that can scan for and compromise other computers and launch DOS attacks.<split>A | QN=320 Public key infrastructure (PKI) is an authentication method
+a. that has become the cornerstone for secure e-payments and intranet applications.
+b. that is based on the Data Encryption Standard, which is the standard symmetric encryption algorithm supported by U.S. government agencies.
+c. that encrypts and decrypts large amounts of data effectively.
+d. that uses encryption keys ranging from 64 bits to 128 bits.<split>A | QN=321 Access to a network ought to be based on:
+a. the policy of least privilege where access to network resources are blocked and permitted only when needed to conduct business.
+b. the policy of acceptable use where access is restricted by the firewall.
+c. role-specific security protocols where access is limited by a user's level of trust.
+d. the policy of need-to-know where access by all non-employees is blocked.<split>C | QN=322 Which of the following does not correctly describe what firewalls protect against?
+a. Some programs have bugs or special features that create application backdoors, which allowing for remote access.
+b. Spammers often use SMTP session hijacking to redirect e-mail through the SMTP server of an unsuspecting host, which helps hide their identity.
+c. Macros are the electronic equivalent of junk mail.
+d. Remote logins occur when an unauthorized users connects to a PC and gains control of<split>A | QN=323 Firewalls that filter requests from the Internet to a private network based on the IP address of the computer sending or receiving those requests are called:
+a. packet-filtering routers.
+b. IP blockers.
+c. application-level proxies.
+d. bastion gateways.<split>D | QN=324 All of the following are important security functions of proxy servers except:
+a. They help control inbound traffic to a network.
+b. They help control outbound traffic to a network.
+c. They hide the IP addresses of a company's internal computers.
+d. They improve network performance.<split>B | QN=325 The advantages of virtual private networks (VPN) for data communications include all of the following except:
+a. They are less expensive than private leased lines because they use the public Internet to carry information.
+b. They ensure the confidentiality and integrity of the data transmitted over the Internet without requiring encyption.
+c. They can reduce communication costs dramatically because VPN equipment is cheaper than other remote solutions.
+d. Remote users can use broadband connections rather than make long distance calls to access an organization's private network.<split>A | QN=326 A host-based intrusion detection system (IDS):
+a. Resides on the server that is being monitored where it can detect whether critical or security-related files have been tampered with or whether a user has attempted to access files that he or she is not authorized to use.
+b. Uses rules to analyze suspicious activity at the perimeter of a network or at key locations in the network.
+c. Can perform certain actions when an attack occurs, such as terminating network connections based on security policies.
+d. Consists of information system resources—firewalls, routers, Web servers, database servers, and files that look like production systems, but do no real work.<split>B | QN=327 Factors that come into play in determining whether a particular method of e-payment achieves critical mass include all of the following EXCEPT:
+a. hardware and software independence.
+b. full traceability of the buyers.
+c. the degree of security of the transfer.
+d. interoperability with other enterprise systems and applications.<split>D | QN=328 A card that draws the payment amount directly from the user's checking account is called a(n):
+a. e-payment card.
+b. credit card.
+c. charge card
+d. debit card<split>D | QN=329 The process of determining whether a card is active and whether the customer has sufficient funds for the purchase is called:
+a. approval.
+b. settlement.
+c. procurement.
+d. authorization.<split>B | QN=330 The transfer of money from the buyer's to the seller's account is called:
+a. approval.
+b. settlement.
+c. procurement.
+d. authorization.<split>B | QN=331 are financial institutions that provides a customer with a payment
+ card.
+a. Credit card associations
+b. Issuing banks
+c. Payment processing services
+d. Acquiring banks<split>C | QN=332 provide connectivity among merchants, customers, and financial
+ networks enabling authorization and payments is called the:
+a. Credit card associations
+b. Issuing banks
+c. Payment processing services
+d. Acquiring banks<split>C | QN=333 Each of the following are ways to pay bills over the Internet EXCEPT:
+a. online banking.
+b. biller direct.
+c. customer service provider.
+d. bill consolidator.<split>C | QN=334 From the perspective of the billing firm, all of the following are advantages of e-billing EXCEPT:
+a. opportunity for targeted advertising.
+b. reduced processing expense.
+c. universal availability.
+d. improved customer service.<split>A | QN=335 From the perspective of the customer, all of the following are advantages of e-billing EXCEPT:
+a. greater security than other types of payments.
+b. lower costs.
+c. simplifies and centralizes payment processing.
+d. makes record keeping easier.<split>C | QN=336 Characteristics of 13213 payments include all of the following EXCEPT:
+a. They are much larger than payments by individuals.
+b. They are significantly more complex than payments by individuals.
+c. They require less rigor and security than 132C payments.
+d. They are more likely to involve disputes that require significant rework to resolve.<split>B | QN=337 B2B payments are part of a much larger financial supply chain that includes all of the following EXCEPT:
+a. procurement.
+b. financial reporting.
+c. contract administration.
+d. payment authorization.<split>D | QN=338 In financial supply chain management, the goal is to optimize all of the following EXCEPT:
+a. accounts payable
+b. accounts receivable
+c. financial risks
+d. the physical supply chain<split>A | QN=339 Unlike the physical supply chain, characterize the financial supply
+ chains of most companies.
+a. inefficiencies
+b. efficiencies
+c. greater accuracy
+d. transparency<split>A | QN=340 The vast majority of B2B payments are:
+a. still made by paper check.
+b. electronic payments.
+c. made using electronic funds transfer (EFT)
+d. made with letters of credit.<split>B | QN=341 The process by which companies present invoices and make payments to one another through the Internet is known as:
+a. online accounts payable.
+b. enterprise invoice presentment and payment.
+c. electronic data interchange.
+d. online accounts receivable.<split>C | QN=342 For many firms, presentment and payment processes are all of the following EXCEPT:
+a. costly.
+b. time consuming.
+c. secure.
+d. error-prone.<split>D | QN=343 The implementation of most EC applications requires the use of all of the following support services EXCEPT:
+a. security
+b. order fulfillment, delivery, and payment
+c. infrastructure and technology
+d. manufacturing<split>A | QN=344 Most EC applications are based on that begin with an order, frequently a
+ order.
+a. pull operations; customized
+b. push operations; customized
+c. pull operations; standard
+d. push operations; standard<split>C | QN=345 Packing, delivery, accounting and logistics are examples of:
+a. logistics.
+b. order fulfillment.
+c. back-office operations.
+d. front-office operations.<split>D | QN=346 Customer-facing activities or are activities, such as advertising and
+ order taking, that are visible to customers.
+a. logistics.
+b. order fulfillment.
+c. back-office operations.
+d. front-office operations.<split>A | QN=347 The Council of Supply Chain Management Professionals defines as
+ "the process of planning, implementing, and controlling the efficient and effective flow and storage of goods, services, and related information from point of origin to point of consumption for the purpose of conforming to customer requirements."
+a. logistics.
+b. order fulfillment.
+c. back-office operations.
+d. front-office operations.<split>B | QN=348 A typical EC fulfillment process involves all of the following activities EXCEPT:
+a. Making sure the customer will pay.
+b. Just-in-time inventory management.
+c. Checking for in-stock availability.
+d. Replenishment and returns.<split>D | QN=349 The administrative activities of order taking and fulfillment involve all of the following activities EXCEPT:
+a. sales quote.
+b. order acknowledgment.
+c. shipment release.
+d. accounts payable.<split>B | QN=350 The major difference between e-logistics and traditional logistics is:
+a. traditional logistics applies only to manufacturers.
+b. traditional logistics deals with movement of large amounts of materials to a few destinations.
+c. e-logistics outsources all logistics functions.
+d. e-logistics deals with the movement of large amounts of materials to a few destinations.<split>B | QN=351 The inability to deliver products on time is a typical problem:
+a. in traditional logistics only because the problem has been solved in e-commerce.
+b. in both off-line and e-commerce.
+c. unique to e-commerce.
+d. in global operations, but it is rarely a problem in domestic operations.<split>d | QN=352 are a major source of uncertainty in supply chains.
+a. Inventory delivery schedules
+b. Foreign currency exchange rates
+c. Internal manufacturing schedules
+d. Demand forecasts<split>a | QN=353 Solutions to problems in the supply chain for EC companies are:
+a. generic across both EC and traditional companies.
+b. so complex that most EC companies cannot afford to implement them.
+c. critical during start-up but usually become manageable and insignificant as EC companies mature.
+d. usually unique for each EC company.<split>c | QN=354 Automated warehouses for 132C companies are designed:
+a. to accommodate much larger inventory levels than traditional warehouses.
+b. to facilitate the delivery of large quantities of product to a small number of customers.
+c. to facilitate the delivery of small quantities of product to a very large number of customers.
+d. to help transition 132C companies into 13213 companies.<split>a | QN=355 The second most often cited reason for customers not buying on the Web is:
+a. the lack of a good return mechanism.
+b. concern that ordered products won't be delivered on time.
+c. concerns about fraud.
+d. not being able to see or try on a product before buying it.<split>C | QN=356 recognizes that are the core of a business and
+ that a company's success depends on effectively managing its relationships with them.
+a. Supplier relationship management; suppliers
+b. Partner relationship management; partners
+c. Customer relationship management; customers
+d. Vendor relationship management; vendor<split>c | QN=357 Data analytics are a valuable tool because it can provide all of the following EXCEPT:
+a. customer segmentation groupings.
+b. profitability analysis.
+c. financial reporting
+d. what-if scenarios.<split>B | QN=358 For companies, it may be even more important to change strategies
+ quickly.
+a. traditional
+b. pure play
+c. service
+d. retail<split>d | QN=359 Capabilities of the Internet that have made it more difficult for companies to capture profits include all of the following EXCEPT:
+a. The Internet makes information widely available.
+b. The Internet reduces the difficulty of purchasing, marketing, and distribution.
+c. The Internet allows buyers and sellers to find and transact business with one another more easily.
+d. The Internet makes it easier to make secure payments.<split>a | QN=360 Projections of the business technological, political, economic, and other environments are called:
+a. forecasts.
+b. SWOT analysis
+c. competitive intelligence
+d. value propositions<split>c | QN=361 All of the following are elements of a company's strategy EXCEPT:
+a. competitor analysis.
+b. forecasts.
+c. day-to-day operations.
+d. company analysis.<split>d | QN=362 All of the following about the strategic planning process are true EXCEPT:
+a. The strategic planning process is cyclical and continuous.
+b. The process of developing a strategy maybe even more important than the strategy.
+c. The strategic planning process forces corporate executives, a company's general manager, or a small business owner to assess the current position of the firm, where it should be, and how to achieve objectives.
+d. The strategic planning process begins with strategy formulation.<split>a | QN=363 A specific outcome of the strategy initiation phase is the , which
+ includes the vision, mission, value proposition, goals, capabilities, constraints, strengths, and weaknesses of the company.
+a. company analysis
+b. value proposition
+c. core competency
+d. functional strategy<split>c | QN=364 Google's is its expertise in information search technology.
+a. company analysis
+b. value proposition
+c. core competency
+d. functional strategy<split>A | QN=365 is the process of making the selected applications and projects a
+ reality by hiring staff; purchasing equipment; licensing, purchasing, or writing software; and contracting vendors.
+a. Project management
+b. Resource allocation
+c. Project planning
+d. Strategy assessment<split>b | QN=366 An analytical tool in which a company looks for points of differentiation between competitors and itself is called:
+a. SWOT analysis
+b. competitor analysis grid
+c. scenario planning
+d. strategy assessment<split>d | QN=367 is the continuous evaluation of progress toward the organization's
+ strategic goals, resulting in corrective action and, if necessary, strategy reformulation.
+a. SWOT analysis
+b. competitor analysis grid
+c. scenario planning
+d. strategy assessment<split>a | QN=368 All of the following are situations when a business plan should be done EXCEPT:
+a. When an existing business is deploying a CRM system.
+b. When a new business is seeking start-up funds and other resources.
+c. When an existing company is planning to create a separate division.
+d. When an existing company is planning to launch the company in a new direction.<split>c | QN=369 Which of the following about business plans and business cases is NOT correct?
+a. The content of a business case is similar to that of a business plan.
+b. One difference is that the business plan concentrates on the viability of a company, whereas a business case assesses both viability of the project and the fit of the initiative with the firm's mission and goals.
+c. The audiences are the same—senior management and the board or directors.
+d. The purposes are the same—to justify a specific investment of funds.<split>a | QN=370 The most efficient way to expand an organization's scope is:
+a. to introduce new products or services into new or existing markets without increasing production facilities or staff.
+b. by increasing the size or scale of the business.
+c. by expanding the firm's appeal to a new set of customers.
+d. to buy a company with complementary products or services.<split>c | QN=371 Separating a company's online operations into a new company makes sense in each of the following situations EXCEPT:
+a. when the volume of anticipated e-business is large.
+b. when the subsidiary can be created without dependence on current operations and legacy systems.
+c. when the company is unable to form new alliances, attract new talent, or raise additional funding.
+d. when a new business model needs to be developed apart from the constraints of current operation.<split>b | QN=372 The most dangerous risk to a company engaged in e-commerce is:
+a. threat posed by hackers.
+b. business risk.
+c. negligent loss of data.
+d. customer and business partner risk.<split>c | QN=373 All of the following determine the degree of collaboration between off-line and online activities in a business EXCEPT:
+a. corporate culture.
+b. the ability of top management to introduce change properly.
+c. the pricing strategy.
+d. the use of innovative processes that support collaboration.<split>d | QN=374 Internet technologies can provide consumers with easier access to pricing information, which increases their bargaining power. To remain competitive and profitable, sellers need smarter pricing strategies, which include all of the following strategies EXCEPT:
+a. greater precision in setting prices.
+b. more adaptability in changing prices.
+c. new ways of customer segmentation for differentiated pricing.
+d. reducing prices.<split>c | QN=375 A is a form of business alliance composed of several business
+ partners that share the costs and resources for the development or production of a product or service.
+a. temporary corporation
+b. supply chain
+c. virtual corporation
+d. co-opetition<split>D | QN=376 The most important objectives of strategic assessment are all of the following EXCEPT:
+a. Measure the extent to which the EC strategy and ensuing projects are delivering what they were supposed to deliver.
+b. Determine if the EC strategy and projects are still viable in the current environment.
+c. Reassess the initial strategy in order to learn from mistakes and improve future planning.
+d. Identify what competitors are doing to avoid head-on competition.<split>c | QN=377 To defend against unethical and illegal business tactics that exploit EC operations, Google, MSN Search, and Yahoo have turned to all of the following aggressive measures except:
+a. Implemented spam site reporting systems.
+b. Built algorithms that check for and penalize deceptive rank-boosting practices.
+c. Implemented honeypots.
+d. Banned violators' sites.<split>d | QN=378 Having control over the collection, storage, and dissemination of personal information is included in the category of:
+a. property
+b. rights
+c. duties
+d. privacy<split>b | QN=379 A decision by a judge that may be used as a standard in similar cases that follow is referred to as:
+a. intellectual property
+b. legal precedent
+c. common law
+d. tort<split>A | QN=380 Critics of political spam are against its use because they believe that:
+a. all spam is a nuisance, clogs mail servers, and creates security risks
+b. it is illegal
+c. it increases candidates' dependence on wealthy fundraisers
+d. it leads to political favoritism<split>c | QN=381 Due process is
+a. a legal claim that others not interfere with a protected interest.
+b. a set of enforceable rules and regulations.
+c. a guarantee of basic fairness and fair procedures in legal action.
+d. a legal obligation not to interfere with a protected interest.<split>a | QN=382 Property rights relevant to e-commerce include all of the following EXCEPT:
+a. The right to bring criminal charges against a violator.
+b. Control of the use of the property.
+c. The right to benefit, transfer, or sell the property.
+d. The right to exclude others from the property.<split>a | QN=383 Intellectual property law is the area of law that is associated with each of the following EXCEPT:
+a. business contracts.
+b. visual and performing arts.
+c. patent law, copyright law, trademark law, and trade secret law.
+d. electronic databases, advertising, and video games.<split>d | QN=384 Which of the following is true about copyrights?
+a. Copyright protection on artistic property such as a movie or music lasts forever, even after the death of the author or creator.
+b. In the United States, after work is created and in a tangible form such as through writing or recording, the author can apply for a federal copyright.
+c. The Recording Industry Association of America (RIAA) uses lawsuits against universities, but not students, to stamp out rampant music piracy on university campuses.
+d. The entertainment industry, led primarily by the Motion Picture Association of America (MPAA) and RIAA, is trying technical solutions via the legal system to protect its interests.<split>b | QN=385 Each of the following statements about digital rights management (DRM) is true EXCEPT:
+a. DRM are technology-based protection measures.
+b. DRM technologies were developed with strict regard for privacy protection.
+c. Typically, the content is a copyrighted digital work to which the vendor holds right.
+d. DRM is an umbrella term for any arrangement that allows a vendor of content in
+ 
+ electronic form to control the material and restrict its usage.<split>A | QN=386 Which of the following is true about the scope of business ethics?
+a. The scope of business ethics has expanded to encompass the nature and quality of the relationships with shareholders, customers, business partners, suppliers, the community, environment, and future generations.
+b. The scope of business ethics has been limited to company's actions with regard to how it treats employees and obeys laws.
+c. The scope of business ethics has not changed because laws have not changed.
+d. The scope of business ethics has not changed even though laws have expanded.<split>c | QN=387 Which of the following statements about the rights to privacy andfree speech is not correct?
+a. Those rights have an increasingly important role in an information society and to EC.
+b. As with all rights, the right of free speech is not unlimited.
+c. The Internet has destroyed the right to privacy.
+d. Defamation laws put restrictions on what may be freely said or published.<split>A | QN=388 All of the following are ways to use the Internet to find information about an individual EXCEPT:
+a. Stealing the individual's computer.
+b. Using cookies, spyware or keystroke loggers.
+c. Wiretapping communication lines.
+d. Reading an individual's e-mail, IM, blogs, or text messages.<split>b | QN=389 A domain name is:
+a. tangible property protected by law
+b. intangible property protected by law
+c. tangible property that is not protected by law
+d. intangible property that is not protected by law<split>b | QN=390 The least effective method to protect against pop-up ads and their risk is:
+a. Pop-up blocking software on users' computers.
+b. Minimizing the pop-up window.
+c. ISPs using tools that stop pop-ups from appearing.
+ 
+d. Mozilla and Firefox Web browsers preventing pop-ups.<split>d | QN=391 All of the following statements apply to hate Web sites EXCEPT:
+a. Web sites that contain legitimate complaints that aren't defamatory, sponsored by competitors, or infringe upon trademark rights by confusing consumers are usually protected by the First Amendment.
+b. Many hate sites are directed against large corporations such as Wal-Mart, Microsoft, and Nike.
+c. Cyberbashing is the registration of a domain name that criticizes an organization or person.
+d. The intent of most hate Web sites is to commit fraud.<split>c | QN=392 A legally binding contract requires a few basic elements. Which of the following is not one of those elements?
+a. an offer
+b. acceptance
+c. agreement
+d. consideration<split>d | QN=393 Examples of electronic signatures to help distinguish between legitimate and fraud transactions include all of the following EXCEPT:
+a. a name typed at the end of an e-mail message by the sender
+b. a digitized image of a handwritten signature attached to an electronic document
+c. a secret code or PIN to identify the sender to the recipient
+d. a Web site development agreement
