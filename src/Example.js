@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { List, AutoSizer, CellMeasurer, CellMeasurerCache } from "react-virtualized";
 import swt2 from './swt2.txt';
 import isc from './isc.txt';
+import swd from './swd.txt';
 
 const cache = new CellMeasurerCache({
     fixedWidth: true,
@@ -28,17 +29,23 @@ const Example = () => {
     useEffect(() => {
         const $swt2 = fetch(swt2).then(swt => swt.text());
         const $isc = fetch(isc).then(swt => swt.text());
+        const $swd = fetch(swd).then(swd => swd.text());
 
-        Promise.all([$swt2,$isc]).then(([swt2, isc]) => {
-            const _swt2 = swt2.split('\n').map((text) => ({
-                code: 'src1',
+        Promise.all([$swt2,$isc,$swd]).then(([swt2, isc,swd]) => {
+            // const _swt2 = swt2.split('\n').map((text) => ({
+            //     code: 'src1',
+            //     text: text
+            // }))
+            // const _isc = isc.split('<split>').map((text) => ({
+            //     code: '_isc',
+            //     text: text
+            // }))
+            const _swd = swd.split('<split>').map((text) => ({
+                code: '_swd',
                 text: text
             }))
-            const _isc = isc.split('<split>').map((text) => ({
-                code: '_isc',
-                text: text
-            }))
-            const list = [..._swt2, ..._isc];
+            console.log(_swd)
+            const list = [..._swd];
             setList(list);
             setFilter(list);
         })
