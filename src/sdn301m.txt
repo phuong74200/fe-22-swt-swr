@@ -1,0 +1,1002 @@
+A | When a JavaScript function is invoked (called) in Node, where is a new frame placed?
+A. the call stack
+B. the event loop
+C. the poll phase
+D. the events queue<split>B | Which of the following is a core module in Node?
+A. web pack
+B. crypto
+C. request
+D. chalk<split>A | Which of the following Buffer class methods returns an uninitialized buffer?
+A. allocUnsafe
+B. concat
+C. from
+D. alloc<split>A | Which of the following modules is NOT a built-in module in Node?
+A. ftp
+B. events
+C. digram
+D. http2<split>C | Which fs module method can be used to read the content of a file without buffering it in memory?
+A. read
+B. readFile
+C. createReadStream
+D. readFileSync<split>A | Which of the following DNS module methods uses the underlying OS facilities and does not necessarily perform any network communication?
+A. lookup
+B. resolve
+C. resolve4
+D. reverse<split>A | How do you check that a value is a date object in Node?
+
+A. util.types.isDate(value)
+B. assert.isDate(value)
+C. console.isDate(value)
+D. util.date(value)<split>B | Can you create an https web server with Node.js?
+A. no, there are no modules supporting it yet
+B. yes, with the https or http2 modules
+C. yes, through the path module
+D. yes, with the http module<split>C | What is the API that is designed to insulate Addons from changes in the underlying JavaScript engine?
+A. A-API
+B. Z-API
+C. N-API
+D. X-API<split>B | Which CLI option can you use to debug a node script in Chrome DevTools?
+A. --dev-tools
+B. --inspect
+C. --chrome
+D. --debug<split>D | How can you count the number of logical CPUs on the machine that is running Node?
+A. node -p "process.cpus"
+B. node -p "util.cpus().size"
+C. node -p "process.os.cpus"
+D. node -p "os.cpus().length"<split>C | Which of the following is a method on the console object?
+A. exit
+B. test
+C. time
+D. print<split>D | Which object is used to manage the cache of required modules?
+A. global.cache
+B. module.cache
+C. process.cache
+D. require.cache<split>B | What is the command to silence all process warnings?
+A. node index.js --trace-warnings
+B. node --no-warnings
+C. node -trace-warnings
+D. node index.js --no-warnings<split>C | How can you use the promise API with a callback-based function such as child_process.exec?
+A. new Promise(child_process.exec())
+B. util.promisify(child_process.exec())
+C. util.promisify(child_process.exec)
+D. new Promise(child_process.exec)<split>B | Which of the following is NOT a Node repl command?
+A. .break
+B. .history
+C. .editor
+D. .save<split>C | Which statement is true when you run the code shown below?
+require('child_process').fork('script.js');
+A. The forked process shares the event loop with the parent process
+B. A new VM instance is created and the two VM instances will be shared between the forked process and the parent process.
+C. The forked process will have its own VM instance.
+D. The forked process shares the same VM thread with the parent process.<split>A | If EventEmitter is in scope, which of the following lines of code will have an event emitter emitting a change event?
+A. EventEmitter.emit('change');
+B. EventEmitter.new().emit('change');
+C. (new EventEmitter()).emit('change');
+D. new EventEmitter('change');<split>B | Which of the following objects is a stream?
+A. process.uptime
+B. process.stdout
+C. process
+D. Buffer<split>D | Which module variable holds the resolved absolute path of the current module file?
+A. __pathname
+B. __location
+C. __flder
+D. __filename<split>B | If the child_process module methods are in scope, what is a current way to execute the command ps -ef using a child process?
+A. spawn("ps -ef")
+B. exec("ps -ef")
+C. exec("ps", "-ef")
+D. fork("ps -ef")<split>B | Which console method can be used to print the stack trace to the point of its execution?
+A. stack
+B. trace
+C. debug
+D. print<split>C | When you run JavaScript in a Node.js application, which of the following elements in a Node.js stack actually executes that JavaScript?
+A. the libuv library
+B. the c-ares library
+C. the VM (like VS or Chakra)
+D. the repl module<split>D | Looking at the code below, what does the console show?
+const http = require('http');
+const hostname = '127.0.0.1'; const port = 3000;
+const server = http.createServer((req, res) => {
+ res.statusCode = 200; res.setHeader("Content-Type", "text/plain"); 
+ res.end("Hello World\n");
+});
+server.listen(port, hostname, () => { console.log(`server running at http://${hostname}:${port}/`); });
+A. server running at http://localhost:3000/
+B. server running at port 3000
+C. server running at http://localhost:4000/
+D. server running at http://127.0.0.1:3000/<split>A | What is the purpose of the path module?
+A. to provide utilities to play with file and directory paths
+B. to provide utilities to add and remove files
+C. It is a retiring module.
+D. to provide utilities to test files<split>C | How do you make an HTTP server object active and listen to requests on certain ports?
+A. server. start
+B. server.activate
+C. server.listen
+D. server. run<split>A | What does the code shown below do?
+
+javascript
+Copy code
+const fs = require('fs'); const os = require('os');
+const system = os.platform(); const user = os.userInfo().username;
+fs.appendFile('hello.txt', `Hello ${user} on ${system}`, (err) => { if (err) throw err; console.log('The data was appended to file!');}
+);
+A. creates a text file hello.txt and appends customized text
+B. creates an image file
+C. console logs system information
+D. creates a file named data and append numbers<split>C | How do you start a Node application, if the entry file is indexjs?
+A. nodemon start
+B. start index.js
+C. node index.js
+D. node start<split>B | What is the purpose of the file system (fs) module?
+A. to provide methods to work with requests and responses
+B. to provide methods to work with files
+C. to provide methods to work with databases
+D. to find new file systems<split>D | What is the Node LTS version?
+A. It is the current unstable version and is to be avoided.
+B. It is the version that will be retired soon.
+C. It is the version with the latest features.
+D. It is the safest version for long-term support.<split>A | Which of the following is NOT a valid stream in Node?
+A. process. stdinfo
+B. process. stdin
+C. process. stdout
+D. process. stderr<split>A | You have a script.js file with the single line of code shown here. What will be the output of executing script.js with the node command?
+console.log(arguments);
+A. ReferenceError: arguments is not defined
+B. an empty string
+C. undefined
+D. an object representing an array that has five elements<split>A | Which choice is not a valid method on event emitters?
+A. start
+B. on
+C. once
+D. off<split>A | Which special object is an instance of EventEmitter?Which special object is an instance of null?
+A. process
+B. Buffer
+C. root
+D. require<split>C | What is the command to get a list of available commands for Node.js?What is the command to get a list of available commands for Node.js?
+A. node index.js -x
+B. node -v
+C. node -h
+D. node index.js -h<split>A | When a request event is received in the HTTP module, what is the type of the first argument passed to that event, usually named req?
+A. http.IncomingMessage
+B. http.ServerRequest
+C. http.ClientRequest
+D. http.ServerResponse<split>D | What are the arguments passed to the module wrapper function?
+A. exports, __filename, __dirname
+B. exports, process, require, module, __filename, __dirname
+C. exports, module, __filename, __dirname
+D. exports, require, module, __filename, __dirname<split>C | Which library provides Node.js with the event loop?
+A. V8
+B. c-ares
+C. libuv
+D. events<split>B | What does the .node file extension represent?
+A. a C++ file that can have a .node extension and that Node will be able to execute directly.
+B. a C++ Addon file that is built with node-gyp
+C. a JSON file that can have a .node extension as well as the .json extension
+D. a JavaScript file that can have a .node extension as well as the .js extension<split>D | What can you export with module.exports?
+A. only objects.
+B. only functions
+C. only variables and arrays
+D. functions, objects, arrays, or anything you assign to the module<split>C | Which core module in Node can you use to take advantage of multicore systems?
+A. os
+B. util
+C. cluster
+D. net<split>C | Which core Node module has wrappers for OpenSSL methods?
+A. SSL
+B. hash
+C. crypto
+D. TLS<split>A | Which line imports a promise-based version of the readFile method?
+A. const { readFile } = require(fs).promises
+B. const { readFile } = require(fs)
+C. const { readFilePromises: readFile } = require(fs)
+D. const { readFile } = require(promises)<split>C | According to the rules of semantic versioning, what does a release incrementing the third number in an npm version string communicate to users about the release changes?
+A. Changes are not backwards compatible.
+B. Changes might not be backward compatible and might break existing code.
+C. Changes are just bug fixes and no new features were added.
+D. Changes will add new functionality but will not break any existing code.<split>B | What does REPL stand for?
+A. run, examine, put, loop
+B. read, eval, print, loop
+C. run, edit, print, loop
+D. read, extend, print, loop<split>B | Which file does node-gyp use to read the build configuration of a module?
+A. .gyprc
+B. binding.gyp
+C. gyp.json
+D. package.gyp<split>C | Which core module in Node can you use for testing?
+A. chai
+B. jest
+C. assert
+D. mocha<split>B | Which core module in Node provides an API to register callbacks to track asynchronous resources created inside a Node.js application?
+A. cluster
+B. async_hooks
+C. dgram
+D. inspector<split>C | Which Node.js module should you use when you need to decode raw data into strings?
+A. buffer
+B. util
+C. string_decoder
+D. string_buffer<split>C | Which global object acts like a bridge between a Node script and the host operating system?
+A. v8
+B. env
+C. process
+D. child_process<split>C | Which statement is true about Node.js and threads?
+A. Every Node process runs in a single thread, and all the I/O work is run in that same thread.
+B. Every Node process gets four threads that it can share between its JavaScript VM and the event loop.
+C. The event loop is single-threaded, but a JavaScript VM can use multiple threads.
+D. JavaScript execution in Node.js is single-threaded, but I/O operations are executed using multiple threads.<split>A | Which statement about event emitters is false?
+A. Event names must be camelCase strings.
+B. The emit method allows an arbitrary set of arguments to be passed to the listener functions.
+C. Any values returned by the listeners for an emitted event are ignored.
+D. When an event emitter object emits an event, all of the functions attached to that specific event are called synchronously.<split>C | Which core module in Node can you use to compile and run JavaScript code in a sandbox environment?
+A. sandbox
+B. buffer
+C. vm
+D. v8<split>C | How would you determine the number of cluster instances to start when using the cluster module?
+A. const numInstances = cluster.instances().length;
+B. const numInstances = cluster.instances();
+C. const numInstances = require('os').cpus().length;
+D. const numInstances = process.cpus().length.<split>D | You have to read a large text file, replace some words in it, and write it back to a new file. You know that the memory on your target system is limited. What should you do?
+A. Use regular expressions directly on the file.
+B. Use Promises and async/await to offload the task to libuv.
+C. Copy the file into a database and perform the operations there.
+D. Use readline together with streams to read and transform and write the file contents line by line.<split>B | Which choice is not a Node global object?
+A. process
+B. exports
+C. setTimeout
+D. Buffer<split>A | What is the correct way to pipe a readable stream and a writable stream?
+A. readableStream.pipe(writableStream)
+B. readableStream.on(pipe, writableStream)
+C. writableStream.pipe(readableStream)
+D. writableStream.on(pipe, readableStream)<split>B | How can you convert path segments into a string using the platform-specific separator as a delimiter?
+A. path.concat
+B. path.join
+C. path.format
+D. path.parse<split>B | What is the purpose of N-API?
+A. to allow users to make requests to the server
+B. to insulate Addons from changes in the underlying JavaScript engine
+C. to execute multi-threaded code in the Node environment
+D. to provide a quick way for users to create REST APIs<split>D | What is a process object and its role?
+A. a locally scoped object that provides information about the current node process
+B. a global object that provides information about files
+C. a global object that provides information about the database
+D. a global object that provides information about the current node process<split>B | What will this code log to the console?
+
+javascript
+Copy code
+// File: person.js
+exports.name = "Jane";
+
+// File: index.js
+const person = require('./person.js');
+console.log(person);
+A. {'Jane'}
+B. { name: 'Jane' }
+C. {}
+D. Jane<split>D | What will this code log to the console?
+
+javascript
+Copy code
+// File: person.js
+exports = "John";
+
+// File: index.js
+const person = require('./person.js');
+console.log(person);
+A. John
+B. Undefined
+C. {'John'}
+D. {}<split>A | Is it possible to write tests in Node.js without an external library?
+A. yes, through the assert module
+B. yes, through the debugger module
+C. yes, through the console module
+D. no<split>D | Which assert module method is usually used to test the error-first argument in callbacks?
+A. fail
+B. doesNotThrow
+C. deepStrictEqual
+D. ifError<split>B | Which choice is not a method on the util module?
+A. promisify
+B. asyncify
+C. types
+D. callbackify<split>A | Which choice is not a subclass of the Error class?
+A. GlobalError
+B. TypeError
+C. RangeError
+D. AssertionError<split>B | What is Node built on?
+A. Python
+B. V8 JavaScript engine
+C. PHP
+D. c<split>D | How does it affect the performance of a web application when an execution path contains a CPU-heavy operation, such as calculating a long Fibonacci sequence?
+A. As Node.js is asynchronous, this is handled by a libuv and a threadpool. The performance will not notably degrade.
+B. As the application code runs asynchronously within a single thread, the execution will block, accepting no more requests until the operation is completed.
+C. As Node.js is asynchronous, this is handled by a threadpool and the performance will not notably degrade.
+D. The current thread will block until the execution is completed and the operating system will spawn new threads to handle incoming requests. This can exhaust the number of allowed threads (255) and degrade performance over time.<split>C | What is used for parsing and running Javascript in Node.js?
+A. EventLoop
+B. Libuv
+C. Google V8
+D. Express.js<split>A | What is the importance of having good practices around status code in your response?
+A. It indicates success or failure to the client and helps with testing.
+B. It is not important to have good practices regarding status codes
+C. Response codes are the only way you can tell what is happening on the server.
+D. It contains information about the current performance of the server.<split>B | How can ECMAScript modules be used natively in Node?
+A. ECMAScript modules cannot be used natively in Node.
+B. ECMAScript modules can be used natively in Node with the .mjs file extension
+C. ECMAScript modules can be used natively in Node only by using a compiler like Babel.
+D. ECMAScript modules can be used natively in Node only by using a bundle like webpack.<split>A | When exploring the Node documentation's features, what are the stability ratings?
+A. They are an indication of the stability of Nodejs modules and usage recommendations.
+B. They tell if a feature is ES6 compliant.
+C. They are a Node command to validate stability of your code.
+D. They tell if a feature is LTS (Long Term Supported).<split>A | Which choice is a core module in Node?
+A. crypto
+B. chalk
+C. webpack
+D. request<split>C | Which DNS module method uses the underlying OS facilities and does not necessarily perform any network communication?
+A. resolve
+B. reverse
+C. lookup
+D. resolve4<split>D | What is one way to check that a value is a date object in Node?
+A. console.isDate(value)
+B. util.date(value)
+C. assert.isDate(value)
+D. util.types.isDate(value)<split>B | When you require(something), where will Node.js attempt to resolve(something)?
+A. the local .modules folder, then the parents' node_modules folder
+B. the local node_modules folder, then the parents' node_modules folder
+C. the .modules folder under the home directory
+D. a "something.js" file or a "something" folder, which exist on the same level as the requiring file<split>B | An external library has its own codebase and license. It is not managed by the Node.js core team. Which choice is an external library that Node.js uses?
+A. net
+B. openssl
+C. cluster
+D. events<split>B | What is the main purpose of the package-lock.json file?
+A. to be a system file
+B. to provide an exact, single representation of the dependency tree
+C. to serve as a module to export dependencies
+D. to be a log for the application<split>A | What response will you get when you send a get requests to the server with this code?
+
+javascript
+Copy code
+const http = require('http');
+const hostname = '127.0.0.1';
+const port = 3000;
+
+const server = http.createServer((req, res) => {
+ res.statusCode = 200;
+ res.setHeader('Content-Type', 'text/plain');
+ res.end('Hello World\n');
+});
+
+server.listen(port, hostname, () => {
+ console.log(`Server running at http://${hostname}:${port}/`);
+});
+A. server running at http://127.0.0.1:3000
+B. server running at port 3000
+C. server running at http://localhost:3000/
+D. server running at http://localhost:4000/<split>B | Which choice is not a Node global object?
+A. process
+B. exports
+C. setTimeout
+D. Buffer<split>B | How many node types are there in total?
+A. 11
+B. 12
+C. 13
+D. 14<split>A | What is the purpose of the Node object property ownerDocument?
+A. Returns the root element
+B. Returns the last element
+C. Returns the parent node
+D. Returns the immediate node<split>B | Which of the following Node object property returns the local part of the name of a node?
+A. lastName
+B. localName
+C. firstName
+D. objectname<split>C | What is the property textContent?
+A. Sets the textual content of a node
+B. Returns the textual content of a node
+C. Sets & Returns the textual content of a node
+D. Modifies texual content<split>A | How many Node object methods are available?
+A. 18
+B. 19
+C. 20
+D. 21<split>A | Which of the following Node object property returns the node immediately before a node?
+A. previousSibling
+B. textContent
+C. index
+D. localName<split>A | What is the purpose of the method getUserData(key)?
+A. Returns the associated object
+B. Gets the user data
+C. Returns the user data
+D. Gets the user key<split>A | How to test if two nodes are equal?
+A. isEqualNode()
+B. equal()
+C. ==
+D. equalto()<split>C | How to associate an object to a key on a node?
+A. getUserData()
+B. cloneNode()
+C. setUserData(key,data,handler)
+D. clonedata()<split>A | Which method is used to compare the placement of two nodes in the DOM hierarchy (document)?
+A. compareDocumentPosition()
+B. cloneNode()
+C. getUserData()
+D. getFeature()<split>A | What does a Node object represent?
+A. Single node
+B. Set of nodes
+C. Sequence of nodes
+D. Node array<split>D | What does the nodeName of the nodeType Document return?
+A. doctype name
+B. target
+C. #comment
+D. #document<split>C | What is the purpose of the method item()?
+A. Returns node after the specified index
+B. Returns node before the specified index
+C. Returns node at specified index
+D. Returns the node following the specified node<split>B | How can the nodes in the node list be accessed?
+A. Key
+B. Index number
+C. Looping
+D. Value<split>C | Which of the following is the child(s) of the node type EntityReference?
+A. Element
+B. Text
+C. Both Element and Text
+D. Entity<split>A | Which node type represents the root-node of the DOM tree?
+A. Document
+B. DocumentFragment
+C. DocumentType
+D. Entity<split>A | What is the purpose of the DocumentFragment node type?
+A. To hold a portion of a document
+B. To split the document into fragments
+C. To hold the entire document
+D. To hold the fragments<split>C | How many nodetype - named constants are available?
+A. 13
+B. 11
+C. 12
+D. 10<split>D | Which of the following Node types have a node value equal to null?
+A. Document
+B. DocumentFragment
+C. DocumentType
+D. All of the mentioned<split>C | How many node object properties are there?
+A. 12
+B. 14
+C. 16
+D. 17<split>A | Cookies were originally designed for __________
+A. Client-side programming
+B. Server-side programming
+C. Both Client-side & Server-side programming
+D. Web programming<split>A | The Cookie manipulation is done using which property?
+A. cookie
+B. cookies
+C. manipulate
+D. modify<split>D | Which of the following explains Cookies nature?
+A. Non Volatile
+B. Volatile
+C. Intransient
+D. Transient<split>C | Which attribute is used to extend the lifetime of a cookie?
+A. higher-age
+B. increase-age
+C. max-age
+D. lifetime<split>B | Which of the following defines the Cookie visibility?
+A. domain Path
+B. local & session storage
+C. server storage
+D. transient Path<split>C | Which of the following can be used to configure the scope of the Cookie visibility?
+A. path
+B. domain
+C. both path and domain
+D. server<split>A | How can you set a Cookie visibility scope to localStorage?
+A. /
+B. %
+C. *
+D. //<split>B | Which of the following is a boolean cookie attribute?
+A. bool
+B. secure
+C. lookup
+D. domain<split>A | Which of the following function is used as a consequence of not including semicolons, commas or whitespace in the Cookie value?
+A. encodeURIComponent()
+B. encodeURI()
+C. encodeComponent()
+D. encode()<split>C | What is the constraint on the data per cookie?
+A. 2 KB
+B. 1 KB
+C. 4 KB
+D. 3 KB<split>B | Which property helps to initiate the HTTP requests?
+A. request
+B. location
+C. send
+D. write<split>A | Which method is an alternative of the property location of a window object?
+A. submit()
+B. locate()
+C. load()
+D. write()<split>C | Which of the following uses scripted HTTP?
+A. XML
+B. HTML
+C. Ajax
+D. CSS<split>D | Which of the below is a liberal reverse of Ajax?
+A. HTTP
+B. HTML
+C. XML
+D. Comet<split>D | The other name for Comet is _____________
+A. Server Push
+B. Ajax Push
+C. HTTP Streaming
+D. All of the mentioned<split>D | Which is the element that has a src property to initiate HTTP GET request?
+A. img
+B. iframe
+C. script
+D. both img and script<split>C | XMLHttpRequest is a ____________
+A. Object
+B. Class
+C. Both Object and Class
+D. Array<split>D | Which of the following are the features of an HTTP request?
+A. URL being requested
+B. Optional request body
+C. Optional set of request headers
+D. All of the mentioned<split>A | Which of the following is a feature of the HTTP response?
+A. Mandatory response body
+B. Optional response body
+C. URL being released
+D. Optional set of response headers<split>C | Which is the appropriate code to begin a HTTP GET request?
+A. request.open("GET","data");
+B. request.open(GET,"data.csv");
+C. request.open("GET","data.csv");
+D. request.open("GET");<split>D | Which of the following is not the feature of jQuery?
+A. Efficient query method for finding the set of document elements
+B. Expressive syntax for referring to elements in the document
+C. Useful set of methods for manipulating selected elements
+D. Powerful functional programming techniques is not used for operating on sets of elements as a group<split>A | Which of the following is a single global function defined in the jQuery library?
+A. jQuery()
+B. $()
+C. Queryanalysis()
+D. global()<split>B | Which of the following is a factory function?
+A. $()
+B. jQuery()
+C. Queryanalysis()
+D. onclick()<split>C | Which of the following is the JavaScript code that asks for the set of all div elements in a document?
+A. var divs = $(div);
+B. var divs = jQuery("div");
+C. var divs = $("div");
+D. var divs = #("div");<split>B | Which of the following is the method that operates on the return value of $()?
+A. show()
+B. css()
+C. click()
+D. done()<split>A | What does the min mean in the following JavaScript code?
+<X src="jquery-1.4.2.min.js"></X> với X là tag script (ghi thẳng là thằng quizlet bị ngáo)
+
+A. Minimised version
+B. Miniature
+C. Minimised parameters
+D. Minimum value<split>D | Which of the following is a heavily overloaded function?
+A. jQuery()
+B. $()
+C. script()
+D. Both jQuery() and $()<split>B | Which of the following is an equivalent replacement of $(document).ready(f)?
+A. jQuery(f)
+B. $(f)
+C. #(f)
+D. read(f)<split>C | Which of the following is a utility function in jQuery?
+A. jQuery.each()
+B. jQuery.parseJSON()
+C. jQuery.noConflict()
+D. jQuery.conflict()<split>B | Which of the following is used for parsing JSON text?
+A. jQuery.each()
+B. jQuery.parseJSON()
+C. jQuery.noConflict()
+D. jQuery.conflict()<split>A | What will be the output of the following JavaScript code?
+
+<p id="demo"></p>
+<X>
+function myFunction() 
+{
+ var str = "Tables";
+ var patt1 = /tables/i;
+ var result = str.match(patt1);
+ document.getElementById("demo").innerHTML = result;
+}
+</X> with x is script tag
+A. Tables
+B. tables
+C. Undefined
+D. Error<split>B | What will be the output of the following JavaScript code?
+
+<x>
+var str = "The rain in Spain";
+var patt1 = /ain/g;
+document.write(patt1.lastIndex);
+</x> with x is script tag
+A. 8
+B. 17
+C. 14
+D. 10<split>B | p id="demo"></p>
+<x>
+function myFunction()
+{
+var str = "\nIs th\nis it?";
+var patt1 = /^is/m;
+var result = str.match(patt1);
+document.getElementById("demo").innerHTML = result;
+}
+</x> with x is script tag
+A. IS
+B. is
+C. Error
+D. Undefined<split>A | <p id="demo"></p>
+<x>
+function myFunction()
+{
+var str = "Hellooo World!";
+var patt1 = /o+/g;
+var result = str.match(patt1);
+var count=0;
+While(result[i]!=NULL)
+{
+If(result[I]==o)
+count++;
+}
+document.getElementById("demo").innerHTML = count;
+}
+</x> with x is script tag
+A. 4
+B. 3
+C. 1
+D. 0<split>A | <p id="demo"></p>
+<x>
+function myFunction()
+{
+var str = "Is this his";
+var patt1 = /is$/g;
+var result = str.match(patt1);
+if(result)
+result='true';
+else
+result='false';
+document.getElementById("demo").innerHTML = result;
+}
+</x>
+
+A. true
+B. false
+C. error
+D. undefined<split>D | Which is not a form of client-side storage?
+A. Web Databases
+B. FileSystem API
+C. Offline Web Applications
+D. Online Web Applications<split>C | Which is the storage that allows the caching of web pages and their associated resources?
+A. Web Databases
+B. FileSystem API
+C. Offline Web Applications
+D. Cookies<split>A | Which is Microsoft's own proprietary client-side storage?
+A. IE User Data
+B. Offline Web Applications
+C. Cookies
+D. Offline Apis<split>B | Which object supports Filesystem API?
+A. Element
+B. File
+C. Window
+D. DOM<split>C | Which is the most appropriate database for developers requiring a huge amount of data?
+A. Database
+B. Datawarehouse
+C. Web databases
+D. Access<split>A | The localStorage and sessionStorage belongs to ___________
+A. Window object
+B. Element object
+C. Hash object
+D. DOM object<split>C | What is the main difference between localStorage and sessionStorage?
+A. Lifetime
+B. Scope
+C. Both Lifetime and Scope
+D. Storage Location<split>A | What is the lifetime of the data stored through localStorage?
+A. Permanent
+B. Temporary
+C. Both Permanent and Temporary at times
+D. Cannot store<split>C | Which is the function used to retrieve a value?
+A. get()
+B. retrieve()
+C. getItem()
+D. retrieveItem()<split>A | Which is the function used to store a value?
+A. setItem()
+B. set()
+C. storeItem()
+D. store()<split>C | What will be the output of the following JavaScript code?
+<p id="demo"></p>
+<x>
+var carName = "Volvo";
+var carName;
+document.getElementById("demo").innerHTML = carName;
+</x>
+A. Error
+B. Undefined
+C. Volvo
+D. Garbage value<split>A | What will be the output of the following JavaScript code?
+<p>The result of adding "5" + 2 + 3:</p>
+<p id="demo"></p>
+<x>
+x = "5" + 2 + 3;
+document.getElementById("demo").innerHTML = x;
+</x>
+A. 523
+B. 10
+C. 5
+D. Error<split>B | What will be the output of the following JavaScript code?
+
+<p id="demo">code</p>
+<x>
+function myFunction()
+{
+var text = document.getElementById("demo").innerHTML;
+document.getElementById("demo").innerHTML = text.toUpperCase();
+}
+</x>
+A. Code
+B. CODE
+C. code
+D. Error<split>A | What will be the output of the following JavaScript code?
+<p id="demo"></p>
+<x>
+document.getElementById("demo").innerHTML = Number(true);
+</x>
+A. 1
+B. 0
+C. true
+D. undefined<split>A | What will be the output of the following JavaScript code?
+<p id="demo2"></p>
+<x>
+Var arr = ["one", "two", "three",];
+arr.shift();
+document.getElementById("demo2").innerHTML = arr;
+</x>
+A. two three
+B. one two
+C. one three
+D. error<split>B | Which of the following fs module is used to close a file?
+
+A. None of all
+
+B. fs.close()
+
+C. fs.closeFile()
+
+D. fs.closePath()<split>C | By default, when you use express, template engine templates stored at ____ folder
+A. resources
+B. public
+C. views
+D. templates<split>D | Which of the following are examples of node modules?
+A. Socket.io
+B. Body-parser
+C. Express
+D.All of them<split>B | Default scope in Node.js application is?
+A. None of all
+B. Local
+C. Local to Object
+D. Global<split>A | Which of the following statements are true?
+A. Node.js is a server-side language.
+B. Node.js is both a server and client-side language.
+C. Node.js is a client-side language.
+D. None of all<split>C | MongoDB stores___ in collections:
+A. Rows
+B. Tables
+C. Documents
+D. Records<split>A | Which of the following parameters is taken by the buffer.toString method?
+A. all of them
+B. start
+C. encoding
+D. end<split>D | HTTP Response Codes 304 means:
+A. Unprocessable Entry
+B. Moved Permanently
+C. Unauthorized
+D. Not Modified<split>C | Which is the template engine file?
+A. index.template
+B. index.temp
+C. index.jade
+D. index.ja<split>D | JSON Web Tokens consist of three parts separated by dots (.), which are:
+A. Header, Payload and Algorithm
+B. Header, Payload and Bearer
+C. Header, Payload and Token
+D. Header, Payload and Signature<split>C | MongoDB stores the documents in___
+A. Array
+B. String
+C. BSON
+D. JSON<split>B | Which node module is used to serve static resources in NodeJS?
+A. static
+B. node-static
+C. none of all
+D. http<split>A | How many node objects methods are available?
+A. 18
+B. 20
+C. 21
+D. 19<split>C | ObjectId is a ___ byte fiel
+A. 8
+B. 24
+C. 12
+D. 4<split>A | Default ObjectId created by Mongo when you insert a document, it's named:
+A. _id
+B. Id
+C. ObjectId
+D. id<split>D | What function is used to fire an event?
+A. None of all
+B. calc()
+C. fire()
+D. emit()<split>A | How can we expose node modules
+A. exports()
+B. None of all
+C. expose()
+D. requires<split>B | To include the HTTP server in the node module, what function do we use?
+A. get()
+B. require()
+C. None of all
+D. createServer()<split>D | Which node modules is used to handle binary data?
+A. binary
+b. crypto
+C. dgram
+D. buffer<split>D | What can Node.js do?
+A. Node.js can generate dynamic page content.
+B. Node.js can create, open, read, write, delete, and close files on the server
+C. Node.js can collect form data.
+D. All above<split>A | NPM stands for:
+A. Node package manager 
+B. Node package modules 
+C. Node package memory
+D. Node package maintenance<split>B | To initialize a package.json file for your project, type at the prompt:
+A. npm start
+B. npm init
+C. npm create
+D. npm json<split>D | Which is module using for logging in Express Framework?
+A. HTTP
+B. Log
+C. Track
+D. Morgan<split>D | HTTP Response Codes 403 means:
+A. Not Modified
+B. Unauthorized
+C. Unprocessable Entry
+D. Forbidden<split>B | HTTP Response Codes 401 means:
+A. Not Modified
+B. Unauthorized
+C. Unprocessable Entry
+D. Forbidden<split>B | HTTP Response Codes 500 means:
+A. Not Modified
+B. Internal Server Error
+C. Unprocessable Entry
+D. Forbidden<split>A | JSON stands for:
+A. Javascript Object Notation
+B. Javascript Object Null
+C. Javascript Object Notification
+D. None of all<split>D | What is JSON?
+A. JSON stands for JavaScript Object Notation
+B. JSON is a lightweight format for storing and transporting data.
+C. JSON is often used when data is sent from a server to a web page.
+D. All above<split>B | Which is NOT JSON Syntax Rules?
+A. Data is in name/value pairs.
+B. Data is separated by dots.
+C. Curly braces hold objects.
+D. Square brackets hold arrays.<split>A | MongoDB is:
+A. Document databases 
+B. Key-value databases 
+C. Column-family databases
+D. Graph databases<split>A | Which of the following command is used to start a REPL session?
+A. $ node
+B. $ node start
+C. $ node repl
+D. $ node console<split>E | In which language is Node.js written?
+A. JavaScript
+B. C
+C. C++
+D. CoffeeScript
+E. All of the above<split>A | Which of the following command is used to install the Node.js express module?
+A. $ npm install express
+B. $ node install express
+C. $ install express
+D. None of the above<split>B | What is Callback?
+A. The callback is a technique in which a method calls back the caller method.
+B. The callback is an asynchronous equivalent for a function.
+C. Both of the above.
+D. None of the above.<split>A | Which of the following extension is used to save the Node.js files?
+A. .js
+B. .node
+C. .java
+D. .txt<split>D | Which of the following module is not a built-in node module?
+A. zlib
+B. https
+C. dgram
+D. fsread<split>B | Which of the following method of fs module is used to get file information?
+A. fs.open(path, flags[, mode], callback)
+B. fs.stat(path, callback)
+C. fs.readFile(path, flags[, mode], callback)
+D. None of the above.<split>B | What does the fs module stand for?
+A. File Service
+B. File System
+C. File Store
+D. File Sharing<split>C | Which of the following method of fs module is used to truncate a file?
+A. fs.delete(fd, len, callback)
+B. fs.remove(fd, len, callback)
+C. fs.ftruncate(fd, len, callback)
+D. None of the above.<split>C | Which of the following template engines can be used with Node.js?
+A. Jade
+B. Vash
+C. Handlebars
+D. All of the above<split>B | Which of the following code print the platform of operating system?
+A. console.log('platform : ' + os.platform);
+B. console.log('platform : ' + os.platform());
+C. console.log('platform : ' + os.getPlatform());
+D. None of the above.<split>A | Which of the following method is used to return the current working directory of the process?
+A. cwd();
+B. pwd();
+C. None of the above.<split>B | Which of the following statement defines Express?
+A. Express is an application framework that provides a robust set of features to develop desktop-based applications.
+B. Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.
+C. Both of the above.
+D. None of the above.<split>C | Which of the following is not a benefit of using modules in Express?
+A. It provides a means of dividing up tasks.
+B. It provides a means of reuse of program code.
+C. It provides a means of reducing the size of the program.
+D. It provides a means of testing individual parts of the program.<split>A | What is the best practice to do in your code to improve the performance of your application?
+A. Using gzip compression.
+B. Don't use synchronous functions.
+C. Do logging correctly.
+D. Handle exceptions properly.<split>B | Which of the following statement is used to execute the code of the sample.js file?
+A. sample.js
+B. node sample.js
+C. nodejs sample.js
+D. None of the above.<split>B | Which of the following is not a valid language for Node.js?
+A. JavaScript
+B. Java
+C. C
+C. C++<split>D | Which of the following shortcut command is used to kill a process in Node.js?
+A. Ctrl + B
+B. Ctrl + K
+C. Ctrl + T
+D. Ctrl + C<split>B | What is the main usage of Node.js terminal (REPL)?
+A. To specify the preview of the Node.js application.
+B. For testing Node.js/JavaScript expressions.
+C. For executing browser's JavaScript expressions.
+D. None of the above.<split>D | Which of the following types of applications can be built using Node.js?
+A. Web Application
+B. Chat Application
+C. RESTful Service
+D. All of the above<split>B | Which of the following tool is used to automate the various tasks of the Node.js application?
+A. Express.js
+B. GruntJS
+C. NPM
+D. None of the above<split>C | Which of the following areas, Node.js, is not advised to be used?
+A. Single Page Applications
+B. JSON APIs based Applications
+C. CPU intensive applications
+D. Data-Intensive Real-time Applications (DIRT)<split>A | Which of the following route parameter formats are valid?
+A. /books/!:from-:to
+B. /flights/:from-:to
+C. /users/:userId/books/:bookId
+D. None of the above.<split>D | Which of the following module is required to create a web server?
+A. net module
+B. http module
+C. net module
+D. url module<split>C | Which of the following is the correct syntax to initiate the Node.js File?
+A. filename.js
+B. javascript filename.js
+C. node filename.js
+D. node filename<split>B | Which of the following method is used to compare the placement of two nodes in the DOM hierarchy (document)?
+A. cloneNode()
+B. compareDocumentPosition()
+C. getFeature()
+D. getUserData()<split>D | Which of the following platforms does Node.js support?
+A. Windows
+B. Macintosh
+C. Unix/Linux
+D. All of the above.<split>C | Which of the following keyword is used to make properties and methods available outside the module file?
+A. import
+B. module
+C. exports
+D. require<split>A | Which of the following method can append specified content to a file?
+A. fs.appendFile()
+B. fs.open()
+C. fs.writeFile()
+D. None of the above.<split>D | Which of the following is a GUI-based debugging tool for Node.js?
+A. Core node debugger
+C. Console
+D. REPL
+D. Node Inspector<split>C | What is the use of underscore variable in REPL session in Node.js?
+A. It is used to store the result.
+B. It is used to get the last command used.
+C. It is used to get the last result.
+D. None of the above.<split>A | The buffer class is a global class that can be accessed without importing a buffer module.
+A. True
+B. False<split>B | Is Node.js multithreaded?
+A. True
+B. False<split>A | Is the process a global object and can be accessed from anywhere?
+A. True
+B. False<split>A | Node.js uses an event-driven, non-blocking I/O model. Is it true?
+A. True
+B. False<split>A | The net.isIP(input) returns 0 for invalid input. Is it true?
+A. True
+B. False<split>A | A stream fires finish event when all data has been flushed to the underlying system. Is it true?
+A. True
+B. False<split>A | A stream fires data event when there is data available to read. Is it true?
+A. True
+B. False
